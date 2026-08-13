@@ -42,10 +42,10 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 
 ## SDK, Tooling, and Simulators
 
-* [MentraOS](https://github.com/Mentra-Community/MentraOS) ⭐ 2,301 | 🐛 780 | 🌐 TypeScript | 📅 2026-08-13 - Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.
+* [MentraOS](https://github.com/Mentra-Community/MentraOS) ⭐ 2,303 | 🐛 780 | 🌐 TypeScript | 📅 2026-08-13 - Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.
 * [even-toolkit](https://github.com/fabioglimb/even-toolkit) ⭐ 88 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-06 - Shared SDK utilities: design system, web components, pixel-art icons, an STT module, and pixel-accurate G2 text measurement.
 * [even-dev](https://github.com/BxNxM/even-dev) ⭐ 83 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-23 - Even Hub simulator and multi-app test environment for building and testing G2 apps locally.
-* [xg-glass-sdk](https://github.com/hkust-spark/xg-glass-sdk) ⭐ 35 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-10 - One API for camera, mic, display, and audio across the G2, Rokid, Meta Ray-Ban, Brilliant Labs Frame, RayNeo, and INMO, with a simulator.
+* [xg-glass-sdk](https://github.com/hkust-spark/xg-glass-sdk) ⭐ 36 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-10 - One API for camera, mic, display, and audio across the G2, Rokid, Meta Ray-Ban, Brilliant Labs Frame, RayNeo, and INMO, with a simulator.
 * [faceclaw](https://github.com/jimrandomh/faceclaw) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Native desktop dashboard for driving the G2 display outside the WebView.
 * [OpenEvenSdk](https://github.com/Thepizzapie/OpenEvenSdk) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-06-15 - Local-first G2 toolkit with Python, Swift, and Kotlin BLE bridges and protocol documentation.
 * [even-realities-g2-glasses](https://github.com/brianmatzelle/even-realities-g2-glasses) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-03 - Starter template for building G2 plugins with TypeScript and Vite.
@@ -233,7 +233,7 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [SMRTi](https://github.com/prasants/smrti) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-21 - Spaced-repetition flashcards for the G2 with FSRS v6, an ambient mode, and pre-meeting prep.
 * [Lenski](https://github.com/Xuefeng-Zhu/Lenski) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - Spaced-repetition flashcards for the G2 with Anki import, phone deck management, and AI deck generation.
 * [Card Pack](https://github.com/tntpsu/CardPack) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-12 - Seven classic card games, including Hearts, Spades, and Cribbage, for the G2.
-* [EvenSolitaire](https://github.com/dmyster145/EvenSolitaire) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11 - Solitaire card game for the G2.
+* [EvenSolitaire](https://github.com/dmyster145/EvenSolitaire) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Solitaire card game for the G2.
 * [flappy-g2](https://github.com/200even/flappy-g2) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-13 - Flappy Bird clone for the G2.
 * [Heads or Tails](https://github.com/dmyster145/EvenHeadsOrTails) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-23 - Animated coin-flip game for the G2 with a running tally counter.
 * [HoppyRoads](https://github.com/dmyster145/EvenRoads) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - Crossy Road-style crossing game for the G2 with deterministic text-first gameplay.
@@ -272,7 +272,7 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 
 * [OpenVide](https://github.com/open-vide/openvide) ⭐ 33 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-06 - Remote control for Claude Code and Codex sessions with a G2 WebView client over an SSH and HTTPS bridge.
 * [cc-g2](https://github.com/wmoto-ai/cc-g2) ⭐ 32 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-11 - Control a Claude Code session from the G2: approve or deny prompts and enter voice commands.
-* [claude-code-g2](https://github.com/sam-siavoshian/claude-code-g2) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-11 - Run Claude Code hands-free from the G2 via voice and temple taps, billed against a Claude subscription.
+* [claude-code-g2](https://github.com/sam-siavoshian/claude-code-g2) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-11 - Run Claude Code hands-free from the G2 via voice and temple taps, billed against a Claude subscription.
 * [Even Reality Memory System](https://github.com/Tej-Sharma/even-reality-memory-system) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - Ambient AI memory for the G2 that captures thoughts, answers queries, and transcribes meetings with on-lens cues.
 * [EvenHub-LocalLLM](https://github.com/axchristie/EvenHub-LocalLLM) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-05 - Voice-controlled local LLM interface for the G2, backed by open-webui over Tailscale.
 * [Even-Voice-AI](https://github.com/MrScautHD/Even-Voice-AI) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-01 - Wake-word voice assistant using the browser's speech recognition, GPT-4o-mini, and streaming text-to-speech routed to the phone.

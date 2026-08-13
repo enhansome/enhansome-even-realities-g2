@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T03:41:30Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2301
+            "stars": 2303
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-10T03:17:36Z",
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -2463,7 +2463,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T08:53:16Z",
+            "last_commit": "2026-08-13T08:14:46Z",
             "owner": "dmyster145",
             "repo": "EvenSolitaire",
             "stars": 0
@@ -2904,7 +2904,7 @@
             "last_commit": "2026-04-11T00:31:17Z",
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -3153,7 +3153,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:53:28Z",
+            "last_commit": "2026-08-13T04:14:11Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 1
@@ -3167,7 +3167,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:33:52Z",
+            "last_commit": "2026-08-13T08:16:51Z",
             "owner": "expectbugs",
             "repo": "G2CC",
             "stars": 1
@@ -3391,7 +3391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:39.992Z",
+    "last_updated": "2026-08-13T11:09:02.688Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
