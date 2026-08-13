@@ -1,0 +1,3401 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EvenDemoApp",
+          "description": "Official demo app from Even Realities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-09T08:27:21Z",
+            "owner": "even-realities",
+            "repo": "EvenDemoApp",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "everything-evenhub",
+          "description": "Official developer kit bundling the Even Hub SDK, CLI, simulator, and documentation for building G2 apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T10:05:59Z",
+            "owner": "even-realities",
+            "repo": "everything-evenhub",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even Hub Starter Templates",
+          "description": "Four official scaffolds to clone and run: minimal, ASR, image, and text-heavy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T08:03:04Z",
+            "owner": "even-realities",
+            "repo": "evenhub-templates",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EH-InNovel",
+          "description": "Official Even Hub web demo: a simple novel reader for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-25T08:52:12Z",
+            "owner": "even-realities",
+            "repo": "EH-InNovel",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lvgl-sys-v9",
+          "description": "Official LVGL v9 system library for the G2 display stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-05T15:37:58Z",
+            "owner": "even-realities",
+            "repo": "lvgl-sys-v9",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "even-g2-notes",
+          "description": "Community-maintained SDK reference covering architecture, the display and container model, input events, page lifecycle, device APIs, and packaging. The de facto documentation hub for G2 development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T14:43:43Z",
+            "owner": "nickustinov",
+            "repo": "even-g2-notes",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-hub-devguide",
+          "description": "Community-maintained, battle-tested guide to building apps on Even Hub for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-21T18:51:13Z",
+            "owner": "aleapc",
+            "repo": "even-hub-devguide",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Documentation and Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MentraOS",
+          "description": "Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:41:30Z",
+            "owner": "Mentra-Community",
+            "repo": "MentraOS",
+            "stars": 2301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-toolkit",
+          "description": "Shared SDK utilities: design system, web components, pixel-art icons, an STT module, and pixel-accurate G2 text measurement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T14:02:21Z",
+            "owner": "fabioglimb",
+            "repo": "even-toolkit",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-dev",
+          "description": "Even Hub simulator and multi-app test environment for building and testing G2 apps locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T18:04:35Z",
+            "owner": "BxNxM",
+            "repo": "even-dev",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xg-glass-sdk",
+          "description": "One API for camera, mic, display, and audio across the G2, Rokid, Meta Ray-Ban, Brilliant Labs Frame, RayNeo, and INMO, with a simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T03:17:36Z",
+            "owner": "hkust-spark",
+            "repo": "xg-glass-sdk",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faceclaw",
+          "description": "Native desktop dashboard for driving the G2 display outside the WebView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:32:10Z",
+            "owner": "jimrandomh",
+            "repo": "faceclaw",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEvenSdk",
+          "description": "Local-first G2 toolkit with Python, Swift, and Kotlin BLE bridges and protocol documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-15T04:52:39Z",
+            "owner": "Thepizzapie",
+            "repo": "OpenEvenSdk",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-realities-g2-glasses",
+          "description": "Starter template for building G2 plugins with TypeScript and Vite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T22:49:12Z",
+            "owner": "brianmatzelle",
+            "repo": "even-realities-g2-glasses",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2mirror",
+          "description": "Rust utility for mirroring a terminal session to the G2 display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T04:37:22Z",
+            "owner": "jimrandomh",
+            "repo": "g2mirror",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "droidbridge",
+          "description": "Bridges the G2 BLE connection over the network so a desktop can talk to the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-16T21:25:40Z",
+            "owner": "Commute773",
+            "repo": "droidbridge",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-icon-studio",
+          "description": "Browser tool for creating the 24x24 monochrome app icons Even Hub requires, with a 1-bit image converter and pixel editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-08T03:55:25Z",
+            "owner": "naotake",
+            "repo": "g2-icon-studio",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenhub-app-ui",
+          "description": "Even Hub design system packaged as a Claude Code skill, with color tokens, typography, layout rules, and 193 SVG icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-04T01:08:32Z",
+            "owner": "JustinasLa",
+            "repo": "evenhub-app-ui",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenhub-playground",
+          "description": "Development playground for experimenting with Even Hub G2 apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T21:05:45Z",
+            "owner": "shimopino",
+            "repo": "evenhub-playground",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even (CLI)",
+          "description": "Swift command-line tool for sending text to the G2 over Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-01T05:53:29Z",
+            "owner": "aluminumio",
+            "repo": "even",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-ui-builder",
+          "description": "Simple UI builder and code generator for the Even Hub SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-15T21:58:00Z",
+            "owner": "langerhans",
+            "repo": "even-ui-builder",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-realities-ui",
+          "description": "Foundation UI package (components, icons, and design tokens) for building G2 apps aligned to Even Realities' design guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T11:21:38Z",
+            "owner": "jappyjan",
+            "repo": "even-realities",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even Terminal Launcher",
+          "description": "macOS and Windows tray app for managing Even Terminal connection profiles and supervising agent sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T09:13:19Z",
+            "owner": "3mintimer",
+            "repo": "even-terminal-launcher",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-card-platform",
+          "description": "Reusable framework for G2 card-game packs with card primitives, deck and hand rendering, a gesture model, and a shared style guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:54:24Z",
+            "owner": "tntpsu",
+            "repo": "even-card-platform",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-demo",
+          "description": "Interactive showcase of the even-toolkit design system with 55+ components, 191 icons, and light and dark themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T14:02:53Z",
+            "owner": "fabioglimb",
+            "repo": "even-demo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-notifications",
+          "description": "Draws simulated notification popup overlays so you can design around them without a live phone notification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T23:37:23Z",
+            "owner": "ryanadiaz",
+            "repo": "even-notifications",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even_g2_picoruby",
+          "description": "Runnable example of writing a G2 app in Ruby via PicoRuby compiled to WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T23:59:05Z",
+            "owner": "kishima",
+            "repo": "even_g2_picoruby",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eveng2-demo",
+          "description": "Feature demo app exercising the display, input, audio, IMU, and storage APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T15:31:05Z",
+            "owner": "bigdra50",
+            "repo": "eveng2-demo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "takemotions-media-bridge",
+          "description": "Android helper exposing now-playing media and R1 ring playback controls to glasses apps over localhost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-29T14:24:28Z",
+            "owner": "r-tkbyc",
+            "repo": "takemotions-media-bridge",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-voice-shim",
+          "description": "Push-to-talk speech-to-text shim with a Cloudflare Worker template, working around the missing on-device STT API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T15:39:10Z",
+            "owner": "tntpsu",
+            "repo": "even-voice-shim",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-publisher",
+          "description": "Tool for packaging and publishing G2 apps to Even Hub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T15:47:01Z",
+            "owner": "ivlaevski",
+            "repo": "even-publisher",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Glass",
+          "description": "Vite and TypeScript starter for G2 apps with R1 ring input and a debug panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T03:51:28Z",
+            "owner": "chanakyav",
+            "repo": "hermes-glass",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-development",
+          "description": "Reference monorepo of G2 apps and utilities, including a HUD with gesture routing, weather, clock, and reminders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:48:14Z",
+            "owner": "oggunderscore",
+            "repo": "even-development",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-even-app",
+          "description": "Scaffolder for G2 apps with six starter templates built on even-toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:29:07Z",
+            "owner": "fabioglimb",
+            "repo": "create-even-app",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "takemotions-gps-bridge",
+          "description": "Android helper supplying phone GPS to Even Hub apps, working around the in-app browser's lack of location access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-07T08:57:33Z",
+            "owner": "r-tkbyc",
+            "repo": "takemotions-gps-bridge",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glance-Companion",
+          "description": "Android media control companion for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T10:03:24Z",
+            "owner": "Munkhu1",
+            "repo": "Glance-Companion",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-img-benchmark",
+          "description": "Benchmark harness for the G2 image pipeline, useful for tuning against the SDK 0.0.12 compressed image path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-24T11:59:18Z",
+            "owner": "opinsky",
+            "repo": "even-img-benchmark",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "SDK, Tooling, and Simulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "even-g2-protocol",
+          "description": "Community effort to reverse-engineer the G2 BLE protocol, with characteristic mapping and Python examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-20T02:19:51Z",
+            "owner": "i-soxi",
+            "repo": "even-g2-protocol",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-kit-unofficial",
+          "description": "Unofficial reverse-engineering kit including R1 ring authentication and 27 decoded protobuf definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-17T00:54:29Z",
+            "owner": "Commute773",
+            "repo": "g2-kit-unofficial",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2flash",
+          "description": "Custom firmware for the G2 that adds compressed image transfer, full-screen 576x288 single-image support, per-lens stereo output, and beeper tones, paired with matching custom send-side software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T09:21:02Z",
+            "owner": "jimrandomh",
+            "repo": "g2flash",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenRealities-openCFW",
+          "description": "Reverse-engineering documentation of the G2 firmware and BLE protocol, paired with a custom-firmware effort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T20:51:39Z",
+            "owner": "kalanihelekunihi",
+            "repo": "evenRealities-openCFW",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-patched",
+          "description": "Patched Even app build that bypasses voice-intent interception so every G2 voice command routes to a custom AI agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-03T06:37:05Z",
+            "owner": "cokeeffekt",
+            "repo": "even-g2-patched",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "men-g2-ble-gateway",
+          "description": "Python gateway exposing the G2 over HTTP, WebSocket, and MCP, with a local browser UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-13T18:01:33Z",
+            "owner": "gpsnmeajp",
+            "repo": "men-g2-ble-gateway",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even-G2-RE",
+          "description": "Reverse-engineering effort covering the Even G2 app and its BLE system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-13T07:33:41Z",
+            "owner": "lonelyobserver0",
+            "repo": "Even-G2-RE",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffs-os",
+          "description": "Clean-room Swift BLE driver and glasses OS for the G2, independent of the official stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:29:04Z",
+            "owner": "yonif8",
+            "repo": "ffs-os",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2_helloworld",
+          "description": "Minimal sideload app and WebSocket demo for the G2, useful as a bare-metal starting point.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-10T13:36:13Z",
+            "owner": "gpsnmeajp",
+            "repo": "g2_helloworld",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "men-g2-atoms3-hello",
+          "description": "Arduino sketch for the M5AtomS3 that connects to the G2 over BLE, authenticates, and boots an Even Hub page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-25T12:45:51Z",
+            "owner": "gpsnmeajp",
+            "repo": "men-g2-atoms3-hello",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Protocol and Reverse Engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "weather-even-g2",
+          "description": "Five-screen weather forecast driven by the free Open-Meteo API, with no backend server required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T14:45:27Z",
+            "owner": "nickustinov",
+            "repo": "weather-even-g2",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-messages",
+          "description": "Unified inbox client bringing messages from multiple services to the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T11:32:58Z",
+            "owner": "thibautrey",
+            "repo": "even-messages",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "epub-reader-g2",
+          "description": "Read EPUB ebooks on the G2 display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T06:15:42Z",
+            "owner": "chortya",
+            "repo": "epub-reader-g2",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rdt-even-g2",
+          "description": "Reddit client for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T17:24:07Z",
+            "owner": "fuutott",
+            "repo": "rdt-even-g2-rddit-client",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-stars",
+          "description": "Star and sky viewer for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T17:57:24Z",
+            "owner": "thibautrey",
+            "repo": "even-stars",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "powerslides",
+          "description": "Control presentation slides and read speaker notes from the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T09:46:47Z",
+            "owner": "jappyjan",
+            "repo": "powerslides",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-browser",
+          "description": "Web browser for the G2: enter a URL on your phone and read pages hands-free with scroll, link navigation, history, and bookmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T23:36:49Z",
+            "owner": "fabioglimb",
+            "repo": "even-browser",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-on-g2",
+          "description": "Streams a tmux pane to the glasses with double-tap voice input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-19T12:34:13Z",
+            "owner": "Tohoso",
+            "repo": "tmux-on-g2",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-kitchen",
+          "description": "Cooking assistant with recipes, step-by-step guidance, and timers on the lens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T14:02:53Z",
+            "owner": "fabioglimb",
+            "repo": "even-kitchen",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-calendar-companion",
+          "description": "Next-event calendar notifications on the G2 over an optimized BLE path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T17:44:47Z",
+            "owner": "harikapadia999",
+            "repo": "even-g2-calendar-companion",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wordpeek-g2",
+          "description": "Reading companion that shows the meaning or translation of a spoken or typed word.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T15:20:26Z",
+            "owner": "Alireza29675",
+            "repo": "wordpeek-g2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-aozora-reader",
+          "description": "Reader for Japanese public-domain literature from Aozora Bunko on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-16T12:17:34Z",
+            "owner": "howyi",
+            "repo": "even-aozora-reader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenAware",
+          "description": "Real-time notification hub aggregating alerts from multiple sources onto the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T23:56:24Z",
+            "owner": "Xuefeng-Zhu",
+            "repo": "EvenAware",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glance G2",
+          "description": "Personal dashboard aggregator with an Expo mobile companion feeding calendar, health, weather, and finance data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:19:59Z",
+            "owner": "aleapc",
+            "repo": "glance-g2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2-Gmail",
+          "description": "Gmail reader for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T14:11:48Z",
+            "owner": "r-castelo",
+            "repo": "G2-Gmail",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even-R-Clock",
+          "description": "Unified clock app combining stopwatch, countdown timer, and alarm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-02T19:07:45Z",
+            "owner": "Morfeussession2",
+            "repo": "Even-R-Clock",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-aviation-weather",
+          "description": "Live METAR and TAF aviation weather on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-28T20:55:12Z",
+            "owner": "MrMartellato",
+            "repo": "even-g2-aviation-weather",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bible-memory-g2",
+          "description": "Scripture memory app with AI verse suggestions and fill-in-the-blank practice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T05:12:25Z",
+            "owner": "gn2b5gvcq5-tech",
+            "repo": "bible-memory-g2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SalesEye",
+          "description": "Real-time sales coach that detects objections and buying signals on live calls and surfaces cues on the lens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T22:55:47Z",
+            "owner": "cphizz",
+            "repo": "SalesEye",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glance",
+          "description": "Glasses web reader that renders clean article text from any URL across a three-layer source, article, and reader view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T04:14:28Z",
+            "owner": "tntpsu",
+            "repo": "Glance",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulse",
+          "description": "Multi-card personal dashboard with calendar, tasks, weather, and GitHub activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:57:22Z",
+            "owner": "tntpsu",
+            "repo": "Pulse",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2sidian",
+          "description": "View and voice-capture Obsidian notes on the G2 through a self-hosted Tailscale backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T05:58:30Z",
+            "owner": "liyiyuian",
+            "repo": "g2sidian",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nutshell",
+          "description": "Reads PDFs, articles, and links on the G2 with AI-generated summaries and question answering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-19T01:28:08Z",
+            "owner": "refact0r",
+            "repo": "nutshell",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple HUD",
+          "description": "Minimalist heads-up display showing clock, weather, and microphone level on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T02:19:14Z",
+            "owner": "ryanadiaz",
+            "repo": "simple-hud",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daily App",
+          "description": "Multi-screen G2 app with a dashboard, RSS reader, and shopping list, with persisted state and navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T21:09:15Z",
+            "owner": "marcometz",
+            "repo": "daily-app-even-g2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-obsidian",
+          "description": "Browse and edit an Obsidian vault on the G2 with live editor mirroring and IME composition support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-04T11:17:05Z",
+            "owner": "hiraghi",
+            "repo": "even-g2-obsidian",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolarWorldClock",
+          "description": "World clock for the G2 for tracking time across multiple zones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T19:53:52Z",
+            "owner": "KamalQ",
+            "repo": "SolarWorldClock",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flipctl",
+          "description": "Mirrors a Flipper Zero on the G2 HUD with R1 ring control and a one-tap launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-19T18:54:13Z",
+            "owner": "KuriGohan-Kamehameha",
+            "repo": "flipctl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even-G2-Sentinel-Ops",
+          "description": "Fully offline IT security toolkit for the G2 and R1 ring with eight operator tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T10:55:16Z",
+            "owner": "btstevens1984az",
+            "repo": "Even-G2-Sentinel-Ops",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2-md-browser",
+          "description": "Markdown file reader with folder browsing, search, and phone-managed favourites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T06:47:58Z",
+            "owner": "r-castelo",
+            "repo": "G2-md-browser",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2FA-for-G2",
+          "description": "TOTP authenticator that runs on your face.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T18:06:48Z",
+            "owner": "a-bissell",
+            "repo": "2FA-for-G2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sun-Scout-Pro",
+          "description": "Cinematography sun-tracking HUD with solar position, golden-hour timing, and a rotating sun-path map.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-08T21:46:49Z",
+            "owner": "quemorez",
+            "repo": "Sun-Scout-Pro",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRLens",
+          "description": "Reads your open GitHub pull requests on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T18:39:52Z",
+            "owner": "VTorres09",
+            "repo": "PRLens",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even_score",
+          "description": "Live score tracker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T20:28:22Z",
+            "owner": "opinsky",
+            "repo": "even_score",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ER Markdown Notes",
+          "description": "Markdown notes browsed on the G2 HUD and edited on the phone, stored in IndexedDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-09T22:29:47Z",
+            "owner": "Katazui",
+            "repo": "ER-Markdown-Notes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Pomodoro",
+          "description": "Pomodoro timer for the G2 with adjustable work and break cycles and session persistence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-31T11:07:50Z",
+            "owner": "tarumzu",
+            "repo": "my-pomodoro-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-matrix",
+          "description": "Matrix messaging on the G2 with voice input and message-history browsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-19T14:03:47Z",
+            "owner": "narfman0",
+            "repo": "even-matrix",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-menu",
+          "description": "App launcher that manages and displays Even Hub apps by priority, configured from the phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T10:24:27Z",
+            "owner": "ivlaevski",
+            "repo": "even-menu",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NBA Pulse",
+          "description": "Live NBA game tracker for the G2 with a play-by-play timeline and multi-game navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-25T01:00:24Z",
+            "owner": "Minna-Cross",
+            "repo": "even-nba-pulse",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-prayer",
+          "description": "Prayer journal and daily-needs reflection app for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-20T13:48:50Z",
+            "owner": "ivlaevski",
+            "repo": "even-prayer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-docs",
+          "description": "Local document editor for the G2 with multiple documents, version-history snapshots, and bridge-backed storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-30T02:52:10Z",
+            "owner": "Darielquinta",
+            "repo": "even-docs",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-apps",
+          "description": "Collection of custom Even Hub SDK apps for the G2, including a Telegram HUD, calendar events, and dashboard notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-15T01:24:28Z",
+            "owner": "mfethe1",
+            "repo": "even-g2-apps",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-for-even-g2",
+          "description": "Browse your X (Twitter) home timeline on the G2 with ring or touchpad navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T03:43:28Z",
+            "owner": "sommohapatra",
+            "repo": "x-for-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matrix-g2",
+          "description": "Matrix client that reads chats on the HUD and dictates replies by voice through a Python bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T20:56:59Z",
+            "owner": "logicalpeyote777",
+            "repo": "matrix-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-scribe",
+          "description": "Japanese note-taking app for the G2 with a kana-kanji IME.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T06:34:56Z",
+            "owner": "hiraghi",
+            "repo": "even-scribe",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bring-Lens",
+          "description": "Displays Bring! shopping lists on the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T19:28:14Z",
+            "owner": "jappyjan",
+            "repo": "Bring-Lens",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NOSnieuws_G2",
+          "description": "Unofficial NOS (Dutch public broadcaster) news reader for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T04:25:22Z",
+            "owner": "SachaEpskamp",
+            "repo": "NOSnieuws_G2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BreakMate",
+          "description": "Lifecycle-aware health and break reminders fronted by an animated pixel-art character.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:20:10Z",
+            "owner": "aleapc",
+            "repo": "breakmate-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-simple-calendar",
+          "description": "Hands-free month-view calendar navigated entirely with the R1 ring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-18T14:37:22Z",
+            "owner": "r-tkbyc",
+            "repo": "even-simple-calendar",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-simple-timer",
+          "description": "Hands-free countdown and count-up timer for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-18T13:06:58Z",
+            "owner": "r-tkbyc",
+            "repo": "even-simple-timer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisprompt",
+          "description": "Offline Android teleprompter that drives scripted text onto the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T16:15:07Z",
+            "owner": "ewfefrs",
+            "repo": "whisprompt",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notion-ultimate-brain-even-g2",
+          "description": "Ultimate Brain Notion template surfaced as a G2 interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T10:50:38Z",
+            "owner": "hofstede-matheus",
+            "repo": "notion-ultimate-brain-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-todoist",
+          "description": "Todoist tasks on the G2, with a phone WebView for settings and a HUD focus display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T15:22:35Z",
+            "owner": "howyi",
+            "repo": "even-todoist",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenG2_GoogleKeep",
+          "description": "Projects Google Keep notes and checklists onto the G2 via a Flask and gkeepapi backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-24T14:57:22Z",
+            "owner": "TakaakiIchijo",
+            "repo": "EvenG2_GoogleKeep",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "level-even-g2",
+          "description": "Spirit level for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T21:22:32Z",
+            "owner": "nickustinov",
+            "repo": "level-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reddit-feed-even",
+          "description": "Full-featured Reddit client rendering feeds, posts, and comments through a Cloudflare Worker proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T21:51:13Z",
+            "owner": "plungarini",
+            "repo": "reddit-feed-even",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Birdie",
+          "description": "Real-time ambient bird identification that listens and names the species in your view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T14:40:51Z",
+            "owner": "plungarini",
+            "repo": "birdie-even",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smokeless",
+          "description": "Cigarette tracker and quit companion logging each smoke with a tap on the frame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T21:53:06Z",
+            "owner": "plungarini",
+            "repo": "smokeless-even",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-traeger",
+          "description": "Monitor and control a Traeger pellet smoker from the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T16:06:04Z",
+            "owner": "tgarrell",
+            "repo": "even-traeger",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fronius-even-g2",
+          "description": "Real-time Fronius Solar.web PV system data as a hands-free HUD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T17:00:13Z",
+            "owner": "manuelwilhelmer",
+            "repo": "fronius-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenG2",
+          "description": "Collection of G2 apps including MoonWalker, a minimalist AR navigation app with dual map services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-24T06:58:57Z",
+            "owner": "zijiebuzhuang",
+            "repo": "evenG2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-my-news-hub",
+          "description": "Personal news hub for the G2, built as a dependency-free HTML, CSS, and JavaScript app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-15T11:43:29Z",
+            "owner": "r-tkbyc",
+            "repo": "even-my-news-hub",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visionote",
+          "description": "Displays photos and illustrations on the G2 with real-time greyscale conversion and brightness and contrast controls.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "G2Terminal",
+          "description": "Terminal emulator for the Even Realities G2.",
+          "children": []
+        }
+      ],
+      "title": "Apps - Productivity and Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "even-transit",
+          "description": "Public transit information on your glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-21T13:10:20Z",
+            "owner": "langerhans",
+            "repo": "even-transit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoadView-G2",
+          "description": "Live WSDOT highway camera feeds on the G2, browsable by highway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T03:17:26Z",
+            "owner": "double-r-squared",
+            "repo": "RoadView-G2",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenGo-Paris",
+          "description": "Paris public transport, all modes in one app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T15:12:19Z",
+            "owner": "Arkinos1",
+            "repo": "EvenGo-Paris",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUD-Navigation-Integration-Even-Hub",
+          "description": "Live turn-by-turn navigation and OBD-II vehicle metrics on the G2 via a Swift bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-01T09:24:26Z",
+            "owner": "ArmasF31",
+            "repo": "HUD-Navigation-Integration-Even-Hub",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wondereye",
+          "description": "Landmark exploration app surfacing context about places around you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T16:07:29Z",
+            "owner": "cmdlabtech",
+            "repo": "Wondereye",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wander",
+          "description": "Surfaces nearby points of interest on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-04T16:10:49Z",
+            "owner": "laolao91",
+            "repo": "wander",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2 Drive Nav",
+          "description": "Turn-by-turn driving navigation for the G2 using Mapbox directions and live GPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T00:48:59Z",
+            "owner": "matthewmiglio",
+            "repo": "g2-drive-nav",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetroTracker",
+          "description": "Real-time DC Metro arrivals board on the G2 lens with a phone map companion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:00:24Z",
+            "owner": "ltrademark",
+            "repo": "EvenG2-Metro-Tracker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StoryWalk",
+          "description": "GPS-tracked point-of-interest storytelling for tourism and running, with an Expo companion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:20:06Z",
+            "owner": "aleapc",
+            "repo": "storywalk-g2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-simple-compass",
+          "description": "Minimal compass HUD for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-18T15:13:08Z",
+            "owner": "r-tkbyc",
+            "repo": "even-simple-compass",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World-Monitor",
+          "description": "3D globe world-monitor demo for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T08:50:35Z",
+            "owner": "Danikrlop47",
+            "repo": "World-Monitor-EvenRealities-G2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perron-NS",
+          "description": "Dutch Railways (NS) journey planner for the G2 with live departure boards and station search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T21:04:11Z",
+            "owner": "JustinasLa",
+            "repo": "perron-ns-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JapanTrainTransit",
+          "description": "Voice-activated Japan train routing for the G2, backed by the Transit API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T09:57:29Z",
+            "owner": "TakaakiIchijo",
+            "repo": "JapanTrainTransit-EvenG2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-geocache",
+          "description": "Geocaching on the G2 showing nearby caches, direction, and distance from the OpenCaching OKAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-26T19:51:58Z",
+            "owner": "marcometz",
+            "repo": "even-g2-geocache",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkin",
+          "description": "Foursquare Swarm check-in app that surfaces nearby venues on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T13:56:32Z",
+            "owner": "typester",
+            "repo": "even-swarm",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EUC-G2-Hud",
+          "description": "Electric-unicycle telemetry HUD showing real-time speed, battery, and ride metrics on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T13:01:55Z",
+            "owner": "Jessica-Hunt",
+            "repo": "EUC-G2-Hud",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-adventure-hud",
+          "description": "Heads-up display for hiking and biking on the G2 with live GPS speed and distance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T13:35:51Z",
+            "owner": "myclark",
+            "repo": "even-adventure-hud",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2BusTracker",
+          "description": "Real-time Taiwan bus arrivals on the G2 with location-based stop finding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T12:16:47Z",
+            "owner": "jamie950315",
+            "repo": "G2BusTracker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hunter",
+          "description": "Place discovery with pixel-art icons, an offline cache, and OSRM walking routes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:19:49Z",
+            "owner": "aleapc",
+            "repo": "hunter-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apexline-g2",
+          "description": "Motorcycle-first navigation app for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-31T02:26:52Z",
+            "owner": "Apolly009",
+            "repo": "apexline-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUD-KVV-Depatures-G2",
+          "description": "Next Karlsruhe (KVV) tram departures from your nearest stop, located by GPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T08:48:26Z",
+            "owner": "ArmasF31",
+            "repo": "HUD-KVV-Depatures-G2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glass-transit-511",
+          "description": "SF Bay Area BART and Muni arrivals via the 511.org feed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-16T16:35:41Z",
+            "owner": "contextablemark",
+            "repo": "glass-transit-511",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subwaylens",
+          "description": "Real-time NYC subway arrivals on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T00:31:52Z",
+            "owner": "laolao91",
+            "repo": "subwaylens",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Navigation and Transit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tesla-even-g2",
+          "description": "Tesla vehicle status and controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T09:33:04Z",
+            "owner": "nickustinov",
+            "repo": "tesla-even-g2",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-home-assistant",
+          "description": "Home Assistant dashboard and control from the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T08:46:00Z",
+            "owner": "maik353-debug",
+            "repo": "even-home-assistant",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2_macrodroid",
+          "description": "Trigger MacroDroid automations from the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-11T15:43:19Z",
+            "owner": "gpsnmeajp",
+            "repo": "g2_macrodroid",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connect-remote",
+          "description": "Remote companion for Genesis, Kia, and Hyundai vehicles showing battery, range, and climate on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T23:57:46Z",
+            "owner": "Jack-Berry",
+            "repo": "connect-remote",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homekit-Integration-Even-Hub",
+          "description": "Apple HomeKit control via a local Mac bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T09:21:17Z",
+            "owner": "ArmasF31",
+            "repo": "Homekit-Integration-Even-Hub",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "car-hud",
+          "description": "Distraction-free vehicle telemetry HUD for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T17:37:14Z",
+            "owner": "waliulawaltaha",
+            "repo": "car-hud",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glass-car-dash",
+          "description": "Driving dashboard and media remote for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:45:24Z",
+            "owner": "drrobotk",
+            "repo": "glass-car-dash",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Smart Home and Car"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "G2 Gym App",
+          "description": "Workout tracking app for the G2 via Even Hub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T13:23:00Z",
+            "owner": "r-castelo",
+            "repo": "G2_Gym_App",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenhub-running-tracker",
+          "description": "GPS and accelerometer running pace tracker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T23:53:14Z",
+            "owner": "kissyjpf",
+            "repo": "evenhub-running-tracker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "golf-caddie-glasses",
+          "description": "Live round data and shot logging on the G2, paired with an iOS and watchOS tracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T00:07:12Z",
+            "owner": "moisesvargasjr",
+            "repo": "golf-caddie-glasses",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hevy-g2",
+          "description": "Drives Hevy gym workouts from the glasses: pick a routine on your phone and see sets and reps on the display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T10:52:32Z",
+            "owner": "Alireza29675",
+            "repo": "hevy-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-workout",
+          "description": "Guided workout tracking on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T14:02:53Z",
+            "owner": "fabioglimb",
+            "repo": "even-workout",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EyeFit",
+          "description": "Eye-exercise app driven by IMU head tracking, with a scheduling companion app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:19:52Z",
+            "owner": "aleapc",
+            "repo": "eyefit-g2",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Fitness and Health"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "even-market",
+          "description": "Stock market quotes and watchlists on the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T14:14:42Z",
+            "owner": "fabioglimb",
+            "repo": "even-market",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenhub-news-ticker",
+          "description": "Live financial news ticker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-11T17:48:58Z",
+            "owner": "valve4",
+            "repo": "evenhub-news-ticker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even Balance",
+          "description": "Personal finance HUD tracking balances and spending categories on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T18:39:58Z",
+            "owner": "Morfeussession2",
+            "repo": "EVEN-G2-Balance",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-crypto-ticker",
+          "description": "Live cryptocurrency price ticker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T14:08:19Z",
+            "owner": "ARNLTony",
+            "repo": "even-g2-crypto-ticker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-currency-hub",
+          "description": "Currency converter for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T07:55:02Z",
+            "owner": "evde-ga4",
+            "repo": "g2-currency-hub",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Finance and Markets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stt-even-g2",
+          "description": "Real-time on-glasses speech-to-text via Soniox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-20T10:38:38Z",
+            "owner": "nickustinov",
+            "repo": "stt-even-g2",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-bridge",
+          "description": "Transcribes G2 speech and sends it on to Telegram, Slack, or Gmail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-05T12:51:56Z",
+            "owner": "invendor",
+            "repo": "even-bridge",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soniox-translate",
+          "description": "Real-time speech translation with live captions, powered by Soniox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T01:45:58Z",
+            "owner": "intelc",
+            "repo": "soniox-translate",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2 Captions",
+          "description": "Accessibility-first real-time captioning prototype for the G2 using AssemblyAI and OpenAI Realtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T22:15:59Z",
+            "owner": "iamantonio",
+            "repo": "g2-captions",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERGram",
+          "description": "Server-free push-to-talk voice messaging to a Telegram group from the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T16:56:05Z",
+            "owner": "tiagodeoliveira",
+            "repo": "ERGram",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convo Exchange",
+          "description": "Real-time transcription and keyword detection on the G2 via Deepgram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T14:36:31Z",
+            "owner": "XXXStars0",
+            "repo": "STT_G2_Demo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speechcoach-g2",
+          "description": "Real-time speech-pacing coach for the G2 with an STT backend, a VU meter, and an animated pixel mascot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:19:55Z",
+            "owner": "aleapc",
+            "repo": "speechcoach-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lingua Franca",
+          "description": "Live language conversation coach for the G2 that suggests next phrases in a target language during face-to-face dialogue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T23:11:38Z",
+            "owner": "d3hospitality",
+            "repo": "lingua-franca",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-app-one",
+          "description": "Interactive Q&A assistant for the G2 with audio capture, live transcription, and preset questions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T00:02:44Z",
+            "owner": "cscartjp",
+            "repo": "even-app-one",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Voice and Speech-to-Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EvenChess",
+          "description": "Chess for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T07:14:22Z",
+            "owner": "dmyster145",
+            "repo": "EvenChess",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pong-even-g2",
+          "description": "Pong, player versus AI, controlled by swipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T13:22:54Z",
+            "owner": "nickustinov",
+            "repo": "paddle-even-g2",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snake-even-g2",
+          "description": "Classic Snake game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T13:22:49Z",
+            "owner": "nickustinov",
+            "repo": "snake-even-g2",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tetris-even-g2",
+          "description": "Tetris for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-27T14:12:40Z",
+            "owner": "nickustinov",
+            "repo": "blocks-even-g2",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gloss",
+          "description": "Type or dictate text and view it as a stack of American Sign Language slides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T08:09:00Z",
+            "owner": "dxiv",
+            "repo": "gloss",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVEN-G2-Tamagotchi",
+          "description": "Tamagotchi-style virtual pet for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T00:12:01Z",
+            "owner": "Morfeussession2",
+            "repo": "EVEN-G2-Tamagotchi",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arkanoid-even-g2",
+          "description": "Arkanoid brick-breaker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T13:22:51Z",
+            "owner": "nickustinov",
+            "repo": "bricks-even-g2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2 Flashcards",
+          "description": "Flashcard app for the G2 with FSRS scheduling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-28T14:03:10Z",
+            "owner": "tomtau",
+            "repo": "g2-flashcards",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMRTi",
+          "description": "Spaced-repetition flashcards for the G2 with FSRS v6, an ambient mode, and pre-meeting prep.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-21T13:36:00Z",
+            "owner": "prasants",
+            "repo": "smrti",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lenski",
+          "description": "Spaced-repetition flashcards for the G2 with Anki import, phone deck management, and AI deck generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T20:42:34Z",
+            "owner": "Xuefeng-Zhu",
+            "repo": "Lenski",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card Pack",
+          "description": "Seven classic card games, including Hearts, Spades, and Cribbage, for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:57:00Z",
+            "owner": "tntpsu",
+            "repo": "CardPack",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenSolitaire",
+          "description": "Solitaire card game for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:53:16Z",
+            "owner": "dmyster145",
+            "repo": "EvenSolitaire",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flappy-g2",
+          "description": "Flappy Bird clone for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T22:27:55Z",
+            "owner": "200even",
+            "repo": "flappy-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heads or Tails",
+          "description": "Animated coin-flip game for the G2 with a running tally counter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T21:53:16Z",
+            "owner": "dmyster145",
+            "repo": "EvenHeadsOrTails",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HoppyRoads",
+          "description": "Crossy Road-style crossing game for the G2 with deterministic text-first gameplay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T07:14:36Z",
+            "owner": "dmyster145",
+            "repo": "EvenRoads",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault Zero",
+          "description": "First-person dungeon crawler with textured raycast 3D rendering on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-18T23:33:06Z",
+            "owner": "fraugho",
+            "repo": "dungeon",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "House Games",
+          "description": "Four casino games for the G2: Blackjack, Video Poker, Three Card Poker, and Roulette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:42:08Z",
+            "owner": "tntpsu",
+            "repo": "HouseGames",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-doom",
+          "description": "Doom E1M1 raycaster rendered as ASCII art on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T03:34:46Z",
+            "owner": "narfman0",
+            "repo": "even-doom",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenFoundryVTT",
+          "description": "D&D 5e on the G2 and R1 ring, synced with FoundryVTT via a phosphor-green tactical HUD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T12:02:42Z",
+            "owner": "Aiacos",
+            "repo": "EvenFoundryVTT",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darts-even-g2",
+          "description": "Darts checkout counter for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T18:07:38Z",
+            "owner": "JustinasLa",
+            "repo": "darts-even-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quiz Flashcards",
+          "description": "Multiple-choice quiz flashcards with JSON, CSV, and plain-text deck import.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-16T03:27:32Z",
+            "owner": "KamalQ",
+            "repo": "g2-flashcards",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lingua-lens",
+          "description": "Ambient English coach that offers full phrases when you stall and stays silent when you don't.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T13:57:56Z",
+            "owner": "kolife01",
+            "repo": "lingua-lens",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-sliding-puzzle",
+          "description": "Sliding puzzle in 3x3 and 4x4 for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-22T14:07:24Z",
+            "owner": "r-tkbyc",
+            "repo": "even-sliding-puzzle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-japanese-map-quiz",
+          "description": "Silhouette quiz covering all 47 Japanese prefectures, played entirely with the R1 ring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-04T14:21:59Z",
+            "owner": "r-tkbyc",
+            "repo": "even-japanese-map-quiz",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenTaipan",
+          "description": "Taipan-style trading game for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T13:06:15Z",
+            "owner": "opinsky",
+            "repo": "evenTaipan",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Games and Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DisplayPlusMusic",
+          "description": "Spotify now-playing viewer for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T17:48:29Z",
+            "owner": "Oliemanq",
+            "repo": "DisplayPlusMusic",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-matrix",
+          "description": "Matrix-style digital rain animation for the G2 display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T22:27:17Z",
+            "owner": "wmoto-ai",
+            "repo": "even-g2-matrix",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuSe",
+          "description": "Ambient music identification on the G2 showing song, artist, and cover art with searchable history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T06:38:55Z",
+            "owner": "ltrademark",
+            "repo": "EvenG2-Music-Search",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-now-playing",
+          "description": "Now-playing media display and ring control, paired with an Android media bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-01T12:25:45Z",
+            "owner": "r-tkbyc",
+            "repo": "even-now-playing",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-media-remote",
+          "description": "Media remote driven by the G2 and R1 ring, with an Android helper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T10:22:51Z",
+            "owner": "aramood",
+            "repo": "even-g2-media-remote",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even-G2-Guitar-Tuner",
+          "description": "Guitar tuner that shows detected pitch on the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-19T16:32:53Z",
+            "owner": "Comm4nd0",
+            "repo": "Even-G2-Guitar-Tuner",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orpheus-g2",
+          "description": "Synced lyrics and now-playing for both Apple Music and Spotify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T21:47:32Z",
+            "owner": "L3G",
+            "repo": "orpheus-g2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lyrics-glow",
+          "description": "Time-synced karaoke lyrics on the G2 display, backed by LRCLIB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T04:14:29Z",
+            "owner": "tntpsu",
+            "repo": "lyrics-glow",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUD-Music-Integration-Even-Hub",
+          "description": "Apple Music now-playing display via a local Mac bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-01T09:24:26Z",
+            "owner": "ArmasF31",
+            "repo": "HUD-Music-Integration-Even-Hub",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sudden Karaoke",
+          "description": "Song recognition and time-synced karaoke lyrics on the G2 via the AudD and LRCLIB APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-30T09:27:39Z",
+            "owner": "inutano",
+            "repo": "sudden-karaoke",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spotify-g2",
+          "description": "Spotify playback control plugin driven by the R1 ring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T11:43:14Z",
+            "owner": "yannrapaport",
+            "repo": "spotify-g2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-multi-instrument-tuner",
+          "description": "Cross-platform tuner for guitar, bass, and ukulele with alternate tunings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-22T13:34:31Z",
+            "owner": "r-castelo",
+            "repo": "g2-multi-instrument-tuner",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Media and Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EvenTwitchChat",
+          "description": "Twitch chat client for the G2 with configurable display and username filtering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T18:40:17Z",
+            "owner": "kevin-huff",
+            "repo": "EvenTwitchChat",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-twitch-hud",
+          "description": "Twitch chat HUD for outdoor IRL streaming with priority and alert filter modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-07T14:01:55Z",
+            "owner": "tomsamwel",
+            "repo": "g2-twitch-hud",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps - Streaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenVide",
+          "description": "Remote control for Claude Code and Codex sessions with a G2 WebView client over an SSH and HTTPS bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T13:30:51Z",
+            "owner": "open-vide",
+            "repo": "openvide",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cc-g2",
+          "description": "Control a Claude Code session from the G2: approve or deny prompts and enter voice commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:04:53Z",
+            "owner": "wmoto-ai",
+            "repo": "cc-g2",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-code-g2",
+          "description": "Run Claude Code hands-free from the G2 via voice and temple taps, billed against a Claude subscription.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T00:31:17Z",
+            "owner": "sam-siavoshian",
+            "repo": "claude-code-g2",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even Reality Memory System",
+          "description": "Ambient AI memory for the G2 that captures thoughts, answers queries, and transcribes meetings with on-lens cues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T21:54:39Z",
+            "owner": "Tej-Sharma",
+            "repo": "even-reality-memory-system",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenHub-LocalLLM",
+          "description": "Voice-controlled local LLM interface for the G2, backed by open-webui over Tailscale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T21:16:51Z",
+            "owner": "axchristie",
+            "repo": "EvenHub-LocalLLM",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even-Voice-AI",
+          "description": "Wake-word voice assistant using the browser's speech recognition, GPT-4o-mini, and streaming text-to-speech routed to the phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T05:00:57Z",
+            "owner": "MrScautHD",
+            "repo": "Even-Voice-AI",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial Even G2 Local Assistant",
+          "description": "Local-first voice assistant for the G2 with Whisper STT and dual-model routing between local Qwen and a cloud fallback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-19T01:30:46Z",
+            "owner": "marienbaptiste",
+            "repo": "unofficial-even-g2-local-assistant",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-agentic-app",
+          "description": "Agentic framework for the G2 with voice input, MCP tools, and interactive widgets on the display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T08:00:08Z",
+            "owner": "brianmatzelle",
+            "repo": "even-g2-agentic-app",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeadLenss",
+          "description": "Drive Claude Code on your PC by voice from the G2, plus tmux control from a phone browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:17:24Z",
+            "owner": "takashicompany",
+            "repo": "headlenss",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenai-gemini-bridge",
+          "description": "Rewrites the built-in Even-AI voice intents to Google Gemini, with request deduplication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T06:53:15Z",
+            "owner": "langerhans",
+            "repo": "evenai-gemini-bridge",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-even-hub-app",
+          "description": "G2 WebView client that drives locally running Hermes agents hands-free with voice and streaming responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-18T06:52:35Z",
+            "owner": "huntsyea",
+            "repo": "hermes-even-hub-app",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-claude-remote",
+          "description": "Controls Claude remote-control sessions from the G2 with a HUD app, companion panel, and uvx-runnable bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T00:35:11Z",
+            "owner": "ThatCrispyToast",
+            "repo": "g2-claude-remote",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-hud",
+          "description": "Voice-driven Claude Code terminal HUD for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-15T08:47:41Z",
+            "owner": "m4rpqfbbc2-debug",
+            "repo": "claude-hud",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-jarvis",
+          "description": "OpenClaw-powered assistant with glasses-mic voice input, streamed responses, and image generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T16:13:04Z",
+            "owner": "iDigz",
+            "repo": "even-jarvis",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cue",
+          "description": "Real-time conversation coach suggesting responses live, powered by Deepgram speech-to-text and Claude.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T04:14:26Z",
+            "owner": "tntpsu",
+            "repo": "Cue",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-g2-hud",
+          "description": "Heads-up display for monitoring OpenClaw agents, with voice capture and tap and scroll navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T15:58:22Z",
+            "owner": "kqb",
+            "repo": "openclaw-g2-hud",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-hermes",
+          "description": "Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T01:20:06Z",
+            "owner": "wingk1314",
+            "repo": "even-g2-hermes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-better",
+          "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T12:18:17Z",
+            "owner": "pawaca",
+            "repo": "even-better",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenai-anthropic-bridge",
+          "description": "Replaces the built-in Even AI assistant with Claude via a small local server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T21:40:26Z",
+            "owner": "jase-perf",
+            "repo": "evenai-anthropic-bridge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-channels",
+          "description": "Two-way terminal for Claude Code sessions: talk to a session and read its replies on the glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-31T21:00:37Z",
+            "owner": "Alireza29675",
+            "repo": "g2-channels",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cos-glasses-server",
+          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:53:28Z",
+            "owner": "ukaoma",
+            "repo": "cos-glasses-server",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2CC",
+          "description": "Direct-BLE Claude Code dispatch for the G2 with DJI two-mic noise cancellation and Parakeet ASR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:33:52Z",
+            "owner": "expectbugs",
+            "repo": "G2CC",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-evenhub-bridge",
+          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T03:23:15Z",
+            "owner": "huntsyea",
+            "repo": "hermes-evenhub-bridge",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evenglass",
+          "description": "Real-time relay between the G2, an Android hub, a Phoenix and Elixir server, and a Windows client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2026-05-04T10:18:36Z",
+            "owner": "xntj-ai",
+            "repo": "evenglass",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenCode",
+          "description": "Voice-driven Claude Code conversations on the G2, including scrolling results and answering interactive prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-27T20:48:28Z",
+            "owner": "TheOmran",
+            "repo": "EvenCode",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cue (ambient memory)",
+          "description": "Ambient social-memory app for the G2 that captures voiceprints and speaker context locally with Resemblyzer and Whisper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T05:37:48Z",
+            "owner": "abhishekj720",
+            "repo": "Cue-evenRealitiesG2",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlassAI",
+          "description": "Voice-first assistant for the G2 bridging to a Hermes agent over an OpenAI-compatible API, with a companion phone app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T05:21:52Z",
+            "owner": "BondIT-ApS",
+            "repo": "glass-ai",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2 OpenClaw",
+          "description": "Bridges the G2 to a local OpenClaw agent via a PC gateway with Whisper STT and streaming responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:50:04Z",
+            "owner": "kyle-deprow",
+            "repo": "g2_openclaw",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eveng2-terminal-textinput",
+          "description": "Phone companion that adds typed text input to Claude Code sessions while keeping the G2 HUD in sync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-25T08:54:13Z",
+            "owner": "soualid",
+            "repo": "eveng2-terminal-textinput",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-terminal-pi",
+          "description": "Runs the pi coding agent on the G2 as an Even Terminal provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T14:34:38Z",
+            "owner": "lallenlowe",
+            "repo": "even-terminal-pi",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "completion-telegram-bridge",
+          "description": "OpenAI-compatible completion API bridging the G2 to a personal Telegram agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T02:38:32Z",
+            "owner": "matsei-ruka",
+            "repo": "completion-telegram-bridge",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-deimos",
+          "description": "Pick your AI provider, chat from your phone, and stream replies to a minimal lens HUD, with keys stored on-device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T20:52:33Z",
+            "owner": "dxiv",
+            "repo": "even-deimos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-local-agent",
+          "description": "Local-first voice agent using Even Terminal Mode, Android, and Ollama.",
+          "children": []
+        }
+      ],
+      "title": "AI and Agent Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-even-realities-g1",
+          "description": "Companion list for the first-generation G1 glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-07T11:28:19Z",
+            "owner": "galfaroth",
+            "repo": "awesome-even-realities-g1",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even_realities_decomp",
+          "description": "Reverse-engineering and decompilation of the first-generation G1 firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T14:06:52Z",
+            "owner": "JohnRThomas",
+            "repo": "even_realities_decomp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Even Realities G1 Examples and Posts",
+          "description": "Field notes, hacks, and examples for the G1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-09-18T13:13:20Z",
+            "owner": "hpssjellis",
+            "repo": "my-examples-and-posts-of-g1-even-realities-smart-glasses",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-utils",
+          "description": "Reverse-engineering utilities and protocol experiments for the first-generation G1, including custom dashboard content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-28T02:02:59Z",
+            "owner": "radioegor146",
+            "repo": "even-utils",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Related and Legacy (G1)"
+    },
+    {
+      "description": "Contributions are welcome. Read the contribution guidelines first, then open a pull request.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:39.992Z",
+    "original_repository": "pangoleen/awesome-even-realities-g2",
+    "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
+    "enhanced_repository": "enhansome/enhansome-even-realities-g2",
+    "enhanced_repository_description": null,
+    "title": "Awesome Even Realities G2 with stars"
+  }
+}
