@@ -42,7 +42,7 @@
             "last_commit": "2026-08-07T08:03:04Z",
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:41:30Z",
+            "last_commit": "2026-08-14T03:51:16Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2303
+            "stars": 2304
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-10T21:32:10Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 14
+            "stars": 16
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-07T09:21:02Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -589,7 +589,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T20:51:39Z",
+            "last_commit": "2026-08-13T21:37:40Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 16
@@ -645,7 +645,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:29:04Z",
+            "last_commit": "2026-08-13T13:16:14Z",
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0
@@ -2909,6 +2909,20 @@
         },
         {
           "node_type": "item",
+          "title": "G2CC",
+          "description": "Direct-BLE Claude Code dispatch for the G2 with DJI two-mic noise cancellation and Parakeet ASR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T02:24:16Z",
+            "owner": "expectbugs",
+            "repo": "G2CC",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Even Reality Memory System",
           "description": "Ambient AI memory for the G2 that captures thoughts, answers queries, and transcribes meetings with on-lens cues.",
           "children": [],
@@ -2985,7 +2999,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:17:24Z",
+            "last_commit": "2026-08-14T10:37:30Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 4
@@ -3153,23 +3167,9 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:14:11Z",
+            "last_commit": "2026-08-14T04:35:13Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "G2CC",
-          "description": "Direct-BLE Claude Code dispatch for the G2 with DJI two-mic noise cancellation and Parakeet ASR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T08:16:51Z",
-            "owner": "expectbugs",
-            "repo": "G2CC",
             "stars": 1
           }
         },
@@ -3251,7 +3251,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T06:50:04Z",
+            "last_commit": "2026-08-13T21:45:32Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3391,7 +3391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:09:02.688Z",
+    "last_updated": "2026-08-14T11:07:05.678Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
