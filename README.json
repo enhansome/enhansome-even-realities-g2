@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T10:05:59Z",
+            "last_commit": "2026-08-15T02:33:16Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:51:16Z",
+            "last_commit": "2026-08-15T04:52:49Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2304
+            "stars": 2307
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-07T09:21:02Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -589,10 +589,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:37:40Z",
+            "last_commit": "2026-08-15T04:45:24Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 16
+            "stars": 18
           }
         },
         {
@@ -645,7 +645,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:16:14Z",
+            "last_commit": "2026-08-15T04:22:45Z",
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0
@@ -729,6 +729,20 @@
         },
         {
           "node_type": "item",
+          "title": "powerslides",
+          "description": "Control presentation slides and read speaker notes from the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T09:46:47Z",
+            "owner": "jappyjan",
+            "repo": "powerslides",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
           "title": "rdt-even-g2",
           "description": "Reddit client for the G2.",
           "children": [],
@@ -752,20 +766,6 @@
             "last_commit": "2026-03-01T17:57:24Z",
             "owner": "thibautrey",
             "repo": "even-stars",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "powerslides",
-          "description": "Control presentation slides and read speaker notes from the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-14T09:46:47Z",
-            "owner": "jappyjan",
-            "repo": "powerslides",
             "stars": 6
           }
         },
@@ -1407,7 +1407,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T10:50:38Z",
+            "last_commit": "2026-08-15T08:16:45Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -2915,10 +2915,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:24:16Z",
+            "last_commit": "2026-08-14T18:22:35Z",
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 10
+            "stars": 12
           }
         },
         {
@@ -2999,7 +2999,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T10:37:30Z",
+            "last_commit": "2026-08-14T15:10:34Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 4
@@ -3030,6 +3030,20 @@
             "last_commit": "2026-07-18T06:52:35Z",
             "owner": "huntsyea",
             "repo": "hermes-even-hub-app",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-hermes",
+          "description": "Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T01:20:06Z",
+            "owner": "wingk1314",
+            "repo": "even-g2-hermes",
             "stars": 3
           }
         },
@@ -3105,20 +3119,6 @@
         },
         {
           "node_type": "item",
-          "title": "even-g2-hermes",
-          "description": "Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-09T01:20:06Z",
-            "owner": "wingk1314",
-            "repo": "even-g2-hermes",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "even-better",
           "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
           "children": [],
@@ -3167,7 +3167,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T04:35:13Z",
+            "last_commit": "2026-08-14T12:45:21Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 1
@@ -3251,7 +3251,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:45:32Z",
+            "last_commit": "2026-08-15T01:43:01Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3265,7 +3265,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-25T08:54:13Z",
+            "last_commit": "2026-08-14T15:23:12Z",
             "owner": "soualid",
             "repo": "eveng2-terminal-textinput",
             "stars": 0
@@ -3391,7 +3391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:07:05.678Z",
+    "last_updated": "2026-08-15T10:35:16.776Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
