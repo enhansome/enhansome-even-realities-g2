@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T02:33:16Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-15T04:52:49Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2307
+            "stars": 2308
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-06T14:02:21Z",
             "owner": "fabioglimb",
             "repo": "even-toolkit",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -589,7 +589,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:45:24Z",
+            "last_commit": "2026-08-15T21:12:27Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 18
@@ -1407,7 +1407,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T08:16:45Z",
+            "last_commit": "2026-08-16T08:24:26Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -2213,6 +2213,20 @@
         },
         {
           "node_type": "item",
+          "title": "ERGram",
+          "description": "Server-free push-to-talk voice messaging to a Telegram group from the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T16:56:05Z",
+            "owner": "tiagodeoliveira",
+            "repo": "ERGram",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "G2 Captions",
           "description": "Accessibility-first real-time captioning prototype for the G2 using AssemblyAI and OpenAI Realtime.",
           "children": [],
@@ -2223,20 +2237,6 @@
             "owner": "iamantonio",
             "repo": "g2-captions",
             "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ERGram",
-          "description": "Server-free push-to-talk voice messaging to a Telegram group from the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T16:56:05Z",
-            "owner": "tiagodeoliveira",
-            "repo": "ERGram",
-            "stars": 0
           }
         },
         {
@@ -2707,7 +2707,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-01T12:25:45Z",
+            "last_commit": "2026-08-16T09:45:55Z",
             "owner": "r-tkbyc",
             "repo": "even-now-playing",
             "stars": 2
@@ -3167,7 +3167,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:45:21Z",
+            "last_commit": "2026-08-16T07:53:45Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 1
@@ -3265,7 +3265,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T15:23:12Z",
+            "last_commit": "2026-08-15T20:41:43Z",
             "owner": "soualid",
             "repo": "eveng2-terminal-textinput",
             "stars": 0
@@ -3391,7 +3391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:35:16.776Z",
+    "last_updated": "2026-08-16T10:35:52.691Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
