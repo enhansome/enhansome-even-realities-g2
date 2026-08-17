@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:52:49Z",
+            "last_commit": "2026-08-17T07:15:59Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2308
+            "stars": 2310
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-03-23T18:04:35Z",
             "owner": "BxNxM",
             "repo": "even-dev",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T03:17:36Z",
+            "last_commit": "2026-08-17T03:19:28Z",
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
             "stars": 36
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T21:32:10Z",
+            "last_commit": "2026-08-17T05:03:28Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 16
@@ -415,7 +415,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-06-29T14:24:28Z",
+            "last_commit": "2026-08-16T13:09:46Z",
             "owner": "r-tkbyc",
             "repo": "takemotions-media-bridge",
             "stars": 1
@@ -550,7 +550,7 @@
             "last_commit": "2026-01-20T02:19:51Z",
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-07T09:21:02Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -589,7 +589,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:12:27Z",
+            "last_commit": "2026-08-17T02:17:47Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 18
@@ -1407,7 +1407,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:24:26Z",
+            "last_commit": "2026-08-17T10:33:49Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -1643,6 +1643,20 @@
         },
         {
           "node_type": "item",
+          "title": "StoryWalk",
+          "description": "GPS-tracked point-of-interest storytelling for tourism and running, with an Expo companion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T20:20:06Z",
+            "owner": "aleapc",
+            "repo": "storywalk-g2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "wander",
           "description": "Surfaces nearby points of interest on the G2.",
           "children": [],
@@ -1680,20 +1694,6 @@
             "last_commit": "2026-08-12T19:00:24Z",
             "owner": "ltrademark",
             "repo": "EvenG2-Metro-Tracker",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StoryWalk",
-          "description": "GPS-tracked point-of-interest storytelling for tourism and running, with an Expo companion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-21T20:20:06Z",
-            "owner": "aleapc",
-            "repo": "storywalk-g2",
             "stars": 1
           }
         },
@@ -2707,7 +2707,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T09:45:55Z",
+            "last_commit": "2026-08-16T13:37:10Z",
             "owner": "r-tkbyc",
             "repo": "even-now-playing",
             "stars": 2
@@ -2918,7 +2918,7 @@
             "last_commit": "2026-08-14T18:22:35Z",
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -3167,7 +3167,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T07:53:45Z",
+            "last_commit": "2026-08-16T14:31:57Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 1
@@ -3391,7 +3391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:35:52.691Z",
+    "last_updated": "2026-08-17T10:46:12.432Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
