@@ -42,7 +42,7 @@
             "last_commit": "2026-08-07T08:03:04Z",
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-17T07:15:59Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2310
+            "stars": 2313
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-06T14:02:21Z",
             "owner": "fabioglimb",
             "repo": "even-toolkit",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-17T03:19:28Z",
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-17T05:03:28Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:54:24Z",
+            "last_commit": "2026-08-18T02:54:42Z",
             "owner": "tntpsu",
             "repo": "even-card-platform",
             "stars": 1
@@ -564,7 +564,7 @@
             "last_commit": "2026-04-17T00:54:29Z",
             "owner": "Commute773",
             "repo": "g2-kit-unofficial",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-07T09:21:02Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -588,8 +588,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T02:17:47Z",
+            "language": "C",
+            "last_commit": "2026-08-18T01:45:45Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 18
@@ -1407,7 +1407,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:33:49Z",
+            "last_commit": "2026-08-17T10:53:31Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -1635,7 +1635,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-07T16:07:29Z",
+            "last_commit": "2026-08-17T22:49:28Z",
             "owner": "cmdlabtech",
             "repo": "Wondereye",
             "stars": 2
@@ -2999,7 +2999,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:10:34Z",
+            "last_commit": "2026-08-18T00:14:02Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 4
@@ -3391,7 +3391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:46:12.432Z",
+    "last_updated": "2026-08-18T10:43:25.434Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
