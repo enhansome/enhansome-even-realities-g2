@@ -630,7 +630,7 @@
             "archived": false,
             "id": 1171904371,
             "language": "C",
-            "last_commit": "2026-08-18T18:56:40Z",
+            "last_commit": "2026-08-19T12:26:52Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 18
@@ -1506,7 +1506,7 @@
             "archived": false,
             "id": 1286413389,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:18:25Z",
+            "last_commit": "2026-08-19T12:11:07Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -3480,7 +3480,7 @@
             "archived": false,
             "id": 1164517458,
             "language": "Python",
-            "last_commit": "2026-08-15T01:43:01Z",
+            "last_commit": "2026-08-19T10:48:56Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3602,8 +3602,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:42:55.421Z",
+    "last_updated": "2026-08-19T12:28:33.060Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
+    "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
     "enhanced_repository_description": null,
