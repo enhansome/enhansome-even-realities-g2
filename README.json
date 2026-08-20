@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1203396569,
             "language": null,
-            "last_commit": "2026-08-15T02:33:16Z",
+            "last_commit": "2026-08-20T09:49:12Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
             "stars": 65
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:46:21Z",
+            "last_commit": "2026-08-20T07:12:58Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2314
+            "stars": 2316
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-08-19T12:26:52Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -3108,7 +3108,7 @@
             "last_commit": "2026-08-14T18:22:35Z",
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:00:20Z",
+            "last_commit": "2026-08-20T00:06:06Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3375,7 +3375,7 @@
             "archived": false,
             "id": 1262436708,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T01:45:50Z",
+            "last_commit": "2026-08-19T15:40:55Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 1
@@ -3480,7 +3480,7 @@
             "archived": false,
             "id": 1164517458,
             "language": "Python",
-            "last_commit": "2026-08-19T10:48:56Z",
+            "last_commit": "2026-08-20T06:01:00Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:33.060Z",
+    "last_updated": "2026-08-20T10:43:27.209Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
