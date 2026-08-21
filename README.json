@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T07:12:58Z",
+            "last_commit": "2026-08-21T03:30:09Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2316
+            "stars": 2317
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-17T03:19:28Z",
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T05:03:28Z",
+            "last_commit": "2026-08-20T18:32:54Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1278331273,
             "language": "C",
-            "last_commit": "2026-08-07T09:21:02Z",
+            "last_commit": "2026-08-20T15:31:14Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
             "stars": 23
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 1171904371,
             "language": "C",
-            "last_commit": "2026-08-19T12:26:52Z",
+            "last_commit": "2026-08-20T22:38:37Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 19
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 1329129218,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:18:36Z",
+            "last_commit": "2026-08-20T16:43:15Z",
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0
@@ -2457,7 +2457,7 @@
             "archived": false,
             "id": 1158978259,
             "language": "TypeScript",
-            "last_commit": "2026-07-14T07:14:22Z",
+            "last_commit": "2026-08-21T09:59:39Z",
             "owner": "dmyster145",
             "repo": "EvenChess",
             "stars": 11
@@ -2607,7 +2607,7 @@
             "archived": false,
             "id": 1238066145,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:12:07Z",
+            "last_commit": "2026-08-21T09:00:51Z",
             "owner": "tntpsu",
             "repo": "CardPack",
             "stars": 1
@@ -2622,7 +2622,7 @@
             "archived": false,
             "id": 1164541807,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:14:46Z",
+            "last_commit": "2026-08-21T07:32:28Z",
             "owner": "dmyster145",
             "repo": "EvenSolitaire",
             "stars": 0
@@ -2883,7 +2883,7 @@
             "archived": false,
             "id": 1282151622,
             "language": "HTML",
-            "last_commit": "2026-08-18T15:25:52Z",
+            "last_commit": "2026-08-20T14:37:45Z",
             "owner": "r-tkbyc",
             "repo": "even-now-playing",
             "stars": 2
@@ -3108,7 +3108,7 @@
             "last_commit": "2026-08-14T18:22:35Z",
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -3123,7 +3123,7 @@
             "last_commit": "2026-07-26T21:54:39Z",
             "owner": "Tej-Sharma",
             "repo": "even-reality-memory-system",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T00:06:06Z",
+            "last_commit": "2026-08-21T00:23:07Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3255,7 +3255,7 @@
             "archived": false,
             "id": 1303493682,
             "language": "TypeScript",
-            "last_commit": "2026-08-03T00:35:11Z",
+            "last_commit": "2026-08-20T16:12:54Z",
             "owner": "ThatCrispyToast",
             "repo": "g2-claude-remote",
             "stars": 3
@@ -3338,6 +3338,21 @@
         },
         {
           "node_type": "item",
+          "title": "cos-glasses-server",
+          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1262436708,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T02:24:54Z",
+            "owner": "ukaoma",
+            "repo": "cos-glasses-server",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "evenai-anthropic-bridge",
           "description": "Replaces the built-in Even AI assistant with Claude via a small local server.",
           "children": [],
@@ -3363,21 +3378,6 @@
             "last_commit": "2026-05-31T21:00:37Z",
             "owner": "Alireza29675",
             "repo": "g2-channels",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cos-glasses-server",
-          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1262436708,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T15:40:55Z",
-            "owner": "ukaoma",
-            "repo": "cos-glasses-server",
             "stars": 1
           }
         },
@@ -3480,7 +3480,7 @@
             "archived": false,
             "id": 1164517458,
             "language": "Python",
-            "last_commit": "2026-08-20T06:01:00Z",
+            "last_commit": "2026-08-21T04:10:51Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:43:27.209Z",
+    "last_updated": "2026-08-21T10:43:48.993Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
