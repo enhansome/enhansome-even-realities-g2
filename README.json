@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T09:49:12Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-07T08:03:04Z",
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 43
+            "stars": 45
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T03:30:09Z",
+            "last_commit": "2026-08-22T02:03:46Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2317
+            "stars": 2320
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:32:54Z",
+            "last_commit": "2026-08-21T17:54:38Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
@@ -347,6 +347,21 @@
         },
         {
           "node_type": "item",
+          "title": "even-voice-shim",
+          "description": "Push-to-talk speech-to-text shim with a Cloudflare Worker template, working around the missing on-device STT API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232099804,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T15:39:10Z",
+            "owner": "tntpsu",
+            "repo": "even-voice-shim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Even Terminal Launcher",
           "description": "macOS and Windows tray app for managing Even Terminal connection profiles and supervising agent sessions.",
           "children": [],
@@ -448,21 +463,6 @@
             "owner": "r-tkbyc",
             "repo": "takemotions-media-bridge",
             "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "even-voice-shim",
-          "description": "Push-to-talk speech-to-text shim with a Cloudflare Worker template, working around the missing on-device STT API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1232099804,
-            "language": "TypeScript",
-            "last_commit": "2026-05-07T15:39:10Z",
-            "owner": "tntpsu",
-            "repo": "even-voice-shim",
-            "stars": 0
           }
         },
         {
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 1329129218,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:43:15Z",
+            "last_commit": "2026-08-22T06:52:40Z",
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0
@@ -2883,7 +2883,7 @@
             "archived": false,
             "id": 1282151622,
             "language": "HTML",
-            "last_commit": "2026-08-20T14:37:45Z",
+            "last_commit": "2026-08-21T12:55:29Z",
             "owner": "r-tkbyc",
             "repo": "even-now-playing",
             "stars": 2
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T00:23:07Z",
+            "last_commit": "2026-08-22T00:40:13Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3345,7 +3345,7 @@
             "archived": false,
             "id": 1262436708,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T02:24:54Z",
+            "last_commit": "2026-08-21T15:30:56Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 2
@@ -3480,7 +3480,7 @@
             "archived": false,
             "id": 1164517458,
             "language": "Python",
-            "last_commit": "2026-08-21T04:10:51Z",
+            "last_commit": "2026-08-22T10:21:18Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:43:48.993Z",
+    "last_updated": "2026-08-22T10:36:29.580Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
