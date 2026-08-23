@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T02:03:46Z",
+            "last_commit": "2026-08-23T01:30:43Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2320
+            "stars": 2323
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:54:38Z",
+            "last_commit": "2026-08-23T04:54:27Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 1238066107,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:49:53Z",
+            "last_commit": "2026-08-23T03:30:49Z",
             "owner": "tntpsu",
             "repo": "even-card-platform",
             "stars": 1
@@ -603,7 +603,7 @@
             "last_commit": "2026-04-17T00:54:29Z",
             "owner": "Commute773",
             "repo": "g2-kit-unofficial",
-            "stars": 32
+            "stars": 35
           }
         },
         {
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1278331273,
             "language": "C",
-            "last_commit": "2026-08-20T15:31:14Z",
+            "last_commit": "2026-08-22T21:37:40Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
             "stars": 23
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 1171904371,
             "language": "C",
-            "last_commit": "2026-08-20T22:38:37Z",
+            "last_commit": "2026-08-23T06:17:36Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 19
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 1329129218,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T06:52:40Z",
+            "last_commit": "2026-08-23T04:10:30Z",
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0
@@ -1715,6 +1715,21 @@
         },
         {
           "node_type": "item",
+          "title": "G2 Drive Nav",
+          "description": "Turn-by-turn driving navigation for the G2 using Mapbox directions and live GPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1231284797,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T00:48:59Z",
+            "owner": "matthewmiglio",
+            "repo": "g2-drive-nav",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "HUD-Navigation-Integration-Even-Hub",
           "description": "Live turn-by-turn navigation and OBD-II vehicle metrics on the G2 via a Swift bridge.",
           "children": [],
@@ -1770,21 +1785,6 @@
             "last_commit": "2026-07-04T16:10:49Z",
             "owner": "laolao91",
             "repo": "wander",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "G2 Drive Nav",
-          "description": "Turn-by-turn driving navigation for the G2 using Mapbox directions and live GPS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1231284797,
-            "language": "TypeScript",
-            "last_commit": "2026-05-07T00:48:59Z",
-            "owner": "matthewmiglio",
-            "repo": "g2-drive-nav",
             "stars": 1
           }
         },
@@ -1932,7 +1932,7 @@
             "archived": false,
             "id": 1305678119,
             "language": "TypeScript",
-            "last_commit": "2026-07-19T12:16:47Z",
+            "last_commit": "2026-08-23T08:09:14Z",
             "owner": "jamie950315",
             "repo": "G2BusTracker",
             "stars": 0
@@ -2607,7 +2607,7 @@
             "archived": false,
             "id": 1238066145,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:00:51Z",
+            "last_commit": "2026-08-23T03:31:05Z",
             "owner": "tntpsu",
             "repo": "CardPack",
             "stars": 1
@@ -2841,7 +2841,7 @@
             "last_commit": "2026-08-03T17:48:29Z",
             "owner": "Oliemanq",
             "repo": "DisplayPlusMusic",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -3108,7 +3108,7 @@
             "last_commit": "2026-08-14T18:22:35Z",
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 16
+            "stars": 18
           }
         },
         {
@@ -3300,7 +3300,7 @@
             "archived": false,
             "id": 1220970517,
             "language": "TypeScript",
-            "last_commit": "2026-05-06T04:14:26Z",
+            "last_commit": "2026-08-23T03:52:35Z",
             "owner": "tntpsu",
             "repo": "Cue",
             "stars": 2
@@ -3480,7 +3480,7 @@
             "archived": false,
             "id": 1164517458,
             "language": "Python",
-            "last_commit": "2026-08-22T10:21:18Z",
+            "last_commit": "2026-08-22T15:47:42Z",
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:36:29.580Z",
+    "last_updated": "2026-08-23T10:36:36.772Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
