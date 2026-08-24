@@ -1506,7 +1506,7 @@
             "archived": false,
             "id": 1286413389,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:11:07Z",
+            "last_commit": "2026-08-24T14:13:58Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -3225,7 +3225,7 @@
             "archived": false,
             "id": 1254713946,
             "language": "TypeScript",
-            "last_commit": "2026-07-18T06:52:35Z",
+            "last_commit": "2026-08-24T14:07:15Z",
             "owner": "huntsyea",
             "repo": "hermes-even-hub-app",
             "stars": 3
@@ -3390,7 +3390,7 @@
             "archived": false,
             "id": 1254523907,
             "language": "Python",
-            "last_commit": "2026-07-25T03:23:15Z",
+            "last_commit": "2026-08-24T14:07:30Z",
             "owner": "huntsyea",
             "repo": "hermes-evenhub-bridge",
             "stars": 1
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:50:07.515Z",
+    "last_updated": "2026-08-24T14:48:46.798Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
