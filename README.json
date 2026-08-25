@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T09:49:12Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:20:22Z",
+            "last_commit": "2026-08-25T05:33:46Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2324
+            "stars": 2325
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:23:26Z",
+            "last_commit": "2026-08-25T06:24:06Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
@@ -222,7 +222,7 @@
             "last_commit": "2026-03-03T22:49:12Z",
             "owner": "brianmatzelle",
             "repo": "even-realities-g2-glasses",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1278331273,
             "language": "C",
-            "last_commit": "2026-08-22T21:37:40Z",
+            "last_commit": "2026-08-25T02:23:25Z",
             "owner": "jimrandomh",
             "repo": "g2flash",
             "stars": 23
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 1171904371,
             "language": "C",
-            "last_commit": "2026-08-24T06:21:02Z",
+            "last_commit": "2026-08-24T21:51:00Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 19
@@ -1506,7 +1506,7 @@
             "archived": false,
             "id": 1286413389,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:13:58Z",
+            "last_commit": "2026-08-24T16:40:48Z",
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
@@ -1782,7 +1782,7 @@
             "archived": false,
             "id": 1214543778,
             "language": "TypeScript",
-            "last_commit": "2026-07-04T16:10:49Z",
+            "last_commit": "2026-08-25T02:53:32Z",
             "owner": "laolao91",
             "repo": "wander",
             "stars": 1
@@ -2841,7 +2841,7 @@
             "last_commit": "2026-08-03T17:48:29Z",
             "owner": "Oliemanq",
             "repo": "DisplayPlusMusic",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T00:40:13Z",
+            "last_commit": "2026-08-25T01:59:09Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:46.798Z",
+    "last_updated": "2026-08-25T06:39:57.286Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
