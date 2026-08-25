@@ -129,7 +129,7 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:33:46Z",
+            "last_commit": "2026-08-25T06:55:33Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
             "stars": 2325
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:24:06Z",
+            "last_commit": "2026-08-25T08:37:57Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
@@ -3203,6 +3203,21 @@
         },
         {
           "node_type": "item",
+          "title": "g2-claude-remote",
+          "description": "Controls Claude remote-control sessions from the G2 with a HUD app, companion panel, and uvx-runnable bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1303493682,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T16:12:54Z",
+            "owner": "ThatCrispyToast",
+            "repo": "g2-claude-remote",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "evenai-gemini-bridge",
           "description": "Rewrites the built-in Even-AI voice intents to Google Gemini, with request deduplication.",
           "children": [],
@@ -3243,21 +3258,6 @@
             "last_commit": "2026-07-09T01:20:06Z",
             "owner": "wingk1314",
             "repo": "even-g2-hermes",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "g2-claude-remote",
-          "description": "Controls Claude remote-control sessions from the G2 with a HUD app, companion panel, and uvx-runnable bridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1303493682,
-            "language": "TypeScript",
-            "last_commit": "2026-08-20T16:12:54Z",
-            "owner": "ThatCrispyToast",
-            "repo": "g2-claude-remote",
             "stars": 3
           }
         },
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:57.286Z",
+    "last_updated": "2026-08-25T10:46:21.468Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
