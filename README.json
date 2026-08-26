@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:55:33Z",
+            "last_commit": "2026-08-26T10:25:04Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2325
+            "stars": 2324
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-03-23T18:04:35Z",
             "owner": "BxNxM",
             "repo": "even-dev",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:37:57Z",
+            "last_commit": "2026-08-26T07:50:24Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
@@ -633,7 +633,7 @@
             "last_commit": "2026-08-24T21:51:00Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:59:09Z",
+            "last_commit": "2026-08-26T00:51:01Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3345,7 +3345,7 @@
             "archived": false,
             "id": 1262436708,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:11:52Z",
+            "last_commit": "2026-08-25T22:03:24Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
             "stars": 2
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:46:21.468Z",
+    "last_updated": "2026-08-26T10:48:47.731Z",
     "original_repository": "pangoleen/awesome-even-realities-g2",
     "original_repository_id": 1281490985,
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
