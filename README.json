@@ -128,11 +128,11 @@
           "repo_info": {
             "archived": false,
             "id": 677829141,
-            "language": "TypeScript",
-            "last_commit": "2026-08-26T10:25:04Z",
+            "language": null,
+            "last_commit": "2026-08-27T03:30:19Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2324
+            "stars": 2327
           }
         },
         {
@@ -257,21 +257,6 @@
         },
         {
           "node_type": "item",
-          "title": "g2-icon-studio",
-          "description": "Browser tool for creating the 24x24 monochrome app icons Even Hub requires, with a 1-bit image converter and pixel editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1262469508,
-            "language": "HTML",
-            "last_commit": "2026-06-08T03:55:25Z",
-            "owner": "naotake",
-            "repo": "g2-icon-studio",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "evenhub-app-ui",
           "description": "Even Hub design system packaged as a Claude Code skill, with color tokens, typography, layout rules, and 193 SVG icons.",
           "children": [],
@@ -282,6 +267,21 @@
             "last_commit": "2026-07-04T01:08:32Z",
             "owner": "JustinasLa",
             "repo": "evenhub-app-ui",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g2-icon-studio",
+          "description": "Browser tool for creating the 24x24 monochrome app icons Even Hub requires, with a 1-bit image converter and pixel editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1262469508,
+            "language": "HTML",
+            "last_commit": "2026-06-08T03:55:25Z",
+            "owner": "naotake",
+            "repo": "g2-icon-studio",
             "stars": 2
           }
         },
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 1171904371,
             "language": "C",
-            "last_commit": "2026-08-24T21:51:00Z",
+            "last_commit": "2026-08-27T04:10:56Z",
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 20
@@ -653,21 +653,6 @@
         },
         {
           "node_type": "item",
-          "title": "men-g2-ble-gateway",
-          "description": "Python gateway exposing the G2 over HTTP, WebSocket, and MCP, with a local browser UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1249430365,
-            "language": "Python",
-            "last_commit": "2026-06-13T18:01:33Z",
-            "owner": "gpsnmeajp",
-            "repo": "men-g2-ble-gateway",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Even-G2-RE",
           "description": "Reverse-engineering effort covering the Even G2 app and its BLE system.",
           "children": [],
@@ -678,6 +663,21 @@
             "last_commit": "2026-03-13T07:33:41Z",
             "owner": "lonelyobserver0",
             "repo": "Even-G2-RE",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "men-g2-ble-gateway",
+          "description": "Python gateway exposing the G2 over HTTP, WebSocket, and MCP, with a local browser UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249430365,
+            "language": "Python",
+            "last_commit": "2026-06-13T18:01:33Z",
+            "owner": "gpsnmeajp",
+            "repo": "men-g2-ble-gateway",
             "stars": 2
           }
         },
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T00:51:01Z",
+            "last_commit": "2026-08-27T08:59:41Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3345,9 +3345,24 @@
             "archived": false,
             "id": 1262436708,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:03:24Z",
+            "last_commit": "2026-08-27T04:51:46Z",
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvenCode",
+          "description": "Voice-driven Claude Code conversations on the G2, including scrolling results and answering interactive prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187727119,
+            "language": "TypeScript",
+            "last_commit": "2026-03-27T20:48:28Z",
+            "owner": "TheOmran",
+            "repo": "EvenCode",
             "stars": 2
           }
         },
@@ -3423,21 +3438,6 @@
             "last_commit": "2026-05-04T10:18:36Z",
             "owner": "xntj-ai",
             "repo": "evenglass",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EvenCode",
-          "description": "Voice-driven Claude Code conversations on the G2, including scrolling results and answering interactive prompts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1187727119,
-            "language": "TypeScript",
-            "last_commit": "2026-03-27T20:48:28Z",
-            "owner": "TheOmran",
-            "repo": "EvenCode",
             "stars": 1
           }
         },
@@ -3602,9 +3602,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:48:47.731Z",
-    "original_repository": "pangoleen/awesome-even-realities-g2",
-    "original_repository_id": 1281490985,
+    "last_updated": "2026-08-27T11:37:33.602Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1281490985,
+      "language": null,
+      "last_commit": "2026-07-19T19:52:08Z",
+      "owner": "pangoleen",
+      "repo": "awesome-even-realities-g2",
+      "stars": 71
+    },
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
     "enhanced_repository_description": null,
