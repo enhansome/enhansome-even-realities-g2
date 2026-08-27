@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T09:49:12Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 677829141,
             "language": null,
-            "last_commit": "2026-08-27T03:30:19Z",
+            "last_commit": "2026-08-27T20:12:59Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2327
+            "stars": 2326
           }
         },
         {
@@ -332,6 +332,21 @@
         },
         {
           "node_type": "item",
+          "title": "takemotions-media-bridge",
+          "description": "Android helper exposing now-playing media and R1 ring playback controls to glasses apps over localhost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1284044194,
+            "language": "Kotlin",
+            "last_commit": "2026-08-16T13:09:46Z",
+            "owner": "r-tkbyc",
+            "repo": "takemotions-media-bridge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "even-realities-ui",
           "description": "Foundation UI package (components, icons, and design tokens) for building G2 apps aligned to Even Realities' design guidelines.",
           "children": [],
@@ -447,21 +462,6 @@
             "last_commit": "2026-04-08T15:31:05Z",
             "owner": "bigdra50",
             "repo": "eveng2-demo",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "takemotions-media-bridge",
-          "description": "Android helper exposing now-playing media and R1 ring playback controls to glasses apps over localhost.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1284044194,
-            "language": "Kotlin",
-            "last_commit": "2026-08-16T13:09:46Z",
-            "owner": "r-tkbyc",
-            "repo": "takemotions-media-bridge",
             "stars": 1
           }
         },
@@ -1820,6 +1820,21 @@
         },
         {
           "node_type": "item",
+          "title": "apexline-g2",
+          "description": "Motorcycle-first navigation app for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252779371,
+            "language": "TypeScript",
+            "last_commit": "2026-05-31T02:26:52Z",
+            "owner": "Apolly009",
+            "repo": "apexline-g2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "World-Monitor",
           "description": "3D globe world-monitor demo for the G2.",
           "children": [],
@@ -1950,21 +1965,6 @@
             "last_commit": "2026-04-21T20:19:49Z",
             "owner": "aleapc",
             "repo": "hunter-g2",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apexline-g2",
-          "description": "Motorcycle-first navigation app for the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1252779371,
-            "language": "TypeScript",
-            "last_commit": "2026-05-31T02:26:52Z",
-            "owner": "Apolly009",
-            "repo": "apexline-g2",
             "stars": 0
           }
         },
@@ -3195,7 +3195,7 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:59:41Z",
+            "last_commit": "2026-08-27T11:55:18Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:33.602Z",
+    "last_updated": "2026-08-27T20:22:06.410Z",
     "original_repository_info": {
       "archived": false,
       "id": 1281490985,
