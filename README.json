@@ -15,8 +15,9 @@
             "last_commit": "2026-06-09T08:27:21Z",
             "owner": "even-realities",
             "repo": "EvenDemoApp",
-            "stars": 472
-          }
+            "stars": 473
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-20T09:49:12Z",
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 68
-          }
+            "stars": 69
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-07T08:03:04Z",
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 46
-          }
+            "stars": 47
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "even-realities",
             "repo": "EH-InNovel",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "even-realities",
             "repo": "lvgl-sys-v9",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Official"
@@ -96,8 +101,9 @@
             "last_commit": "2026-07-31T14:43:43Z",
             "owner": "nickustinov",
             "repo": "even-g2-notes",
-            "stars": 111
-          }
+            "stars": 114
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "aleapc",
             "repo": "even-hub-devguide",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Documentation and Guides"
@@ -129,11 +136,12 @@
             "archived": false,
             "id": 677829141,
             "language": null,
-            "last_commit": "2026-08-27T20:12:59Z",
+            "last_commit": "2026-08-28T21:07:37Z",
             "owner": "Mentra-Community",
             "repo": "MentraOS",
             "stars": 2326
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2026-07-06T14:02:21Z",
             "owner": "fabioglimb",
             "repo": "even-toolkit",
-            "stars": 91
-          }
+            "stars": 92
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "BxNxM",
             "repo": "even-dev",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 1222470891,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T07:50:24Z",
+            "last_commit": "2026-08-28T19:03:12Z",
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "Thepizzapie",
             "repo": "OpenEvenSdk",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "brianmatzelle",
             "repo": "even-realities-g2-glasses",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "jimrandomh",
             "repo": "g2mirror",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "Commute773",
             "repo": "droidbridge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "JustinasLa",
             "repo": "evenhub-app-ui",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "naotake",
             "repo": "g2-icon-studio",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "shimopino",
             "repo": "evenhub-playground",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "aluminumio",
             "repo": "even",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "langerhans",
             "repo": "even-ui-builder",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "r-tkbyc",
             "repo": "takemotions-media-bridge",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "jappyjan",
             "repo": "even-realities",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "tntpsu",
             "repo": "even-voice-shim",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "3mintimer",
             "repo": "even-terminal-launcher",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "tntpsu",
             "repo": "even-card-platform",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "fabioglimb",
             "repo": "even-demo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "ryanadiaz",
             "repo": "even-notifications",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "kishima",
             "repo": "even_g2_picoruby",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "bigdra50",
             "repo": "eveng2-demo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "ivlaevski",
             "repo": "even-publisher",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "chanakyav",
             "repo": "hermes-glass",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "oggunderscore",
             "repo": "even-development",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "fabioglimb",
             "repo": "create-even-app",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "r-tkbyc",
             "repo": "takemotions-gps-bridge",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "Munkhu1",
             "repo": "Glance-Companion",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "opinsky",
             "repo": "even-img-benchmark",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "SDK, Tooling, and Simulators"
@@ -588,8 +625,9 @@
             "last_commit": "2026-01-20T02:19:51Z",
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 179
-          }
+            "stars": 180
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "Commute773",
             "repo": "g2-kit-unofficial",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "jimrandomh",
             "repo": "g2flash",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "cokeeffekt",
             "repo": "even-g2-patched",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "lonelyobserver0",
             "repo": "Even-G2-RE",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "gpsnmeajp",
             "repo": "men-g2-ble-gateway",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "gpsnmeajp",
             "repo": "g2_helloworld",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "gpsnmeajp",
             "repo": "men-g2-atoms3-hello",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Protocol and Reverse Engineering"
@@ -745,7 +792,8 @@
             "owner": "nickustinov",
             "repo": "weather-even-g2",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "thibautrey",
             "repo": "even-messages",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -775,7 +824,8 @@
             "owner": "chortya",
             "repo": "epub-reader-g2",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "jappyjan",
             "repo": "powerslides",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -805,7 +856,8 @@
             "owner": "fuutott",
             "repo": "rdt-even-g2-rddit-client",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -820,7 +872,8 @@
             "owner": "thibautrey",
             "repo": "even-stars",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -835,7 +888,8 @@
             "owner": "fabioglimb",
             "repo": "even-browser",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -850,7 +904,8 @@
             "owner": "Tohoso",
             "repo": "tmux-on-g2",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "fabioglimb",
             "repo": "even-kitchen",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "harikapadia999",
             "repo": "even-g2-calendar-companion",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -895,7 +952,8 @@
             "owner": "Alireza29675",
             "repo": "wordpeek-g2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "howyi",
             "repo": "even-aozora-reader",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -925,7 +984,8 @@
             "owner": "Xuefeng-Zhu",
             "repo": "EvenAware",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -940,7 +1000,8 @@
             "owner": "aleapc",
             "repo": "glance-g2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1016,8 @@
             "owner": "r-castelo",
             "repo": "G2-Gmail",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1032,8 @@
             "owner": "Morfeussession2",
             "repo": "Even-R-Clock",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1048,8 @@
             "owner": "MrMartellato",
             "repo": "even-g2-aviation-weather",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1064,8 @@
             "owner": "gn2b5gvcq5-tech",
             "repo": "bible-memory-g2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1080,8 @@
             "owner": "cphizz",
             "repo": "SalesEye",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "tntpsu",
             "repo": "Glance",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1112,8 @@
             "owner": "tntpsu",
             "repo": "Pulse",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1128,8 @@
             "owner": "liyiyuian",
             "repo": "g2sidian",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1144,8 @@
             "owner": "refact0r",
             "repo": "nutshell",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1160,8 @@
             "owner": "ryanadiaz",
             "repo": "simple-hud",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1176,8 @@
             "owner": "marcometz",
             "repo": "daily-app-even-g2",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1192,8 @@
             "owner": "hiraghi",
             "repo": "even-g2-obsidian",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1208,8 @@
             "owner": "KamalQ",
             "repo": "SolarWorldClock",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1224,8 @@
             "owner": "KuriGohan-Kamehameha",
             "repo": "flipctl",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1240,8 @@
             "owner": "btstevens1984az",
             "repo": "Even-G2-Sentinel-Ops",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1256,8 @@
             "owner": "r-castelo",
             "repo": "G2-md-browser",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1272,8 @@
             "owner": "a-bissell",
             "repo": "2FA-for-G2",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1288,8 @@
             "owner": "quemorez",
             "repo": "Sun-Scout-Pro",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1304,8 @@
             "owner": "VTorres09",
             "repo": "PRLens",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1320,8 @@
             "owner": "opinsky",
             "repo": "even_score",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1336,8 @@
             "owner": "Katazui",
             "repo": "ER-Markdown-Notes",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1352,8 @@
             "owner": "tarumzu",
             "repo": "my-pomodoro-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1368,8 @@
             "owner": "narfman0",
             "repo": "even-matrix",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1384,8 @@
             "owner": "ivlaevski",
             "repo": "even-menu",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1400,8 @@
             "owner": "Minna-Cross",
             "repo": "even-nba-pulse",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1416,8 @@
             "owner": "ivlaevski",
             "repo": "even-prayer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1345,7 +1432,8 @@
             "owner": "Darielquinta",
             "repo": "even-docs",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1448,8 @@
             "owner": "mfethe1",
             "repo": "even-g2-apps",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1464,8 @@
             "owner": "sommohapatra",
             "repo": "x-for-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1390,7 +1480,8 @@
             "owner": "logicalpeyote777",
             "repo": "matrix-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1496,8 @@
             "owner": "hiraghi",
             "repo": "even-scribe",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1420,7 +1512,8 @@
             "owner": "jappyjan",
             "repo": "Bring-Lens",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1435,7 +1528,8 @@
             "owner": "SachaEpskamp",
             "repo": "NOSnieuws_G2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1544,8 @@
             "owner": "aleapc",
             "repo": "breakmate-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1465,7 +1560,8 @@
             "owner": "r-tkbyc",
             "repo": "even-simple-calendar",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1480,7 +1576,8 @@
             "owner": "r-tkbyc",
             "repo": "even-simple-timer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1495,7 +1592,8 @@
             "owner": "ewfefrs",
             "repo": "whisprompt",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1510,7 +1608,8 @@
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1525,7 +1624,8 @@
             "owner": "howyi",
             "repo": "even-todoist",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1540,7 +1640,8 @@
             "owner": "TakaakiIchijo",
             "repo": "EvenG2_GoogleKeep",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1555,7 +1656,8 @@
             "owner": "nickustinov",
             "repo": "level-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1672,8 @@
             "owner": "plungarini",
             "repo": "reddit-feed-even",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1688,8 @@
             "owner": "plungarini",
             "repo": "birdie-even",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1704,8 @@
             "owner": "plungarini",
             "repo": "smokeless-even",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1720,8 @@
             "owner": "tgarrell",
             "repo": "even-traeger",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1736,8 @@
             "owner": "manuelwilhelmer",
             "repo": "fronius-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1752,8 @@
             "owner": "zijiebuzhuang",
             "repo": "evenG2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1768,8 @@
             "owner": "r-tkbyc",
             "repo": "even-my-news-hub",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Productivity and Utilities"
@@ -1681,7 +1790,8 @@
             "owner": "langerhans",
             "repo": "even-transit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1806,8 @@
             "owner": "double-r-squared",
             "repo": "RoadView-G2",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1822,8 @@
             "owner": "Arkinos1",
             "repo": "EvenGo-Paris",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1838,8 @@
             "owner": "matthewmiglio",
             "repo": "g2-drive-nav",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1854,8 @@
             "owner": "ArmasF31",
             "repo": "HUD-Navigation-Integration-Even-Hub",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1870,8 @@
             "owner": "cmdlabtech",
             "repo": "Wondereye",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1886,8 @@
             "owner": "aleapc",
             "repo": "storywalk-g2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1902,8 @@
             "owner": "laolao91",
             "repo": "wander",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1801,7 +1918,8 @@
             "owner": "ltrademark",
             "repo": "EvenG2-Metro-Tracker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1934,8 @@
             "owner": "r-tkbyc",
             "repo": "even-simple-compass",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1950,8 @@
             "owner": "Apolly009",
             "repo": "apexline-g2",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1966,8 @@
             "owner": "Danikrlop47",
             "repo": "World-Monitor-EvenRealities-G2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1982,8 @@
             "owner": "JustinasLa",
             "repo": "perron-ns-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +1998,8 @@
             "owner": "TakaakiIchijo",
             "repo": "JapanTrainTransit-EvenG2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1891,7 +2014,8 @@
             "owner": "marcometz",
             "repo": "even-g2-geocache",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +2030,8 @@
             "owner": "typester",
             "repo": "even-swarm",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1921,7 +2046,8 @@
             "owner": "Jessica-Hunt",
             "repo": "EUC-G2-Hud",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1936,7 +2062,8 @@
             "owner": "myclark",
             "repo": "even-adventure-hud",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1951,7 +2078,8 @@
             "owner": "jamie950315",
             "repo": "G2BusTracker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1966,7 +2094,8 @@
             "owner": "aleapc",
             "repo": "hunter-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1981,7 +2110,8 @@
             "owner": "ArmasF31",
             "repo": "HUD-KVV-Depatures-G2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1996,7 +2126,8 @@
             "owner": "contextablemark",
             "repo": "glass-transit-511",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2011,7 +2142,8 @@
             "owner": "laolao91",
             "repo": "subwaylens",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Navigation and Transit"
@@ -2032,7 +2164,8 @@
             "owner": "nickustinov",
             "repo": "tesla-even-g2",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2180,8 @@
             "owner": "maik353-debug",
             "repo": "even-home-assistant",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2062,7 +2196,8 @@
             "owner": "gpsnmeajp",
             "repo": "g2_macrodroid",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2077,7 +2212,8 @@
             "owner": "Jack-Berry",
             "repo": "connect-remote",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2092,7 +2228,8 @@
             "owner": "ArmasF31",
             "repo": "Homekit-Integration-Even-Hub",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2107,7 +2244,8 @@
             "owner": "waliulawaltaha",
             "repo": "car-hud",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2122,7 +2260,8 @@
             "owner": "drrobotk",
             "repo": "glass-car-dash",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Smart Home and Car"
@@ -2143,7 +2282,8 @@
             "owner": "r-castelo",
             "repo": "G2_Gym_App",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2158,7 +2298,8 @@
             "owner": "kissyjpf",
             "repo": "evenhub-running-tracker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2173,7 +2314,8 @@
             "owner": "moisesvargasjr",
             "repo": "golf-caddie-glasses",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2188,7 +2330,8 @@
             "owner": "Alireza29675",
             "repo": "hevy-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2203,7 +2346,8 @@
             "owner": "fabioglimb",
             "repo": "even-workout",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2218,7 +2362,8 @@
             "owner": "aleapc",
             "repo": "eyefit-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Fitness and Health"
@@ -2239,7 +2384,8 @@
             "owner": "fabioglimb",
             "repo": "even-market",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2254,7 +2400,8 @@
             "owner": "valve4",
             "repo": "evenhub-news-ticker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2269,7 +2416,8 @@
             "owner": "Morfeussession2",
             "repo": "EVEN-G2-Balance",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2284,7 +2432,8 @@
             "owner": "ARNLTony",
             "repo": "even-g2-crypto-ticker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2299,7 +2448,8 @@
             "owner": "evde-ga4",
             "repo": "g2-currency-hub",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Finance and Markets"
@@ -2320,7 +2470,8 @@
             "owner": "nickustinov",
             "repo": "stt-even-g2",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2486,8 @@
             "owner": "invendor",
             "repo": "even-bridge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2350,7 +2502,8 @@
             "owner": "intelc",
             "repo": "soniox-translate",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2518,8 @@
             "owner": "tiagodeoliveira",
             "repo": "ERGram",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2380,7 +2534,8 @@
             "owner": "iamantonio",
             "repo": "g2-captions",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2550,8 @@
             "owner": "XXXStars0",
             "repo": "STT_G2_Demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2566,8 @@
             "owner": "aleapc",
             "repo": "speechcoach-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2582,8 @@
             "owner": "d3hospitality",
             "repo": "lingua-franca",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2598,8 @@
             "owner": "cscartjp",
             "repo": "even-app-one",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Voice and Speech-to-Text"
@@ -2461,7 +2620,8 @@
             "owner": "dmyster145",
             "repo": "EvenChess",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2476,7 +2636,8 @@
             "owner": "nickustinov",
             "repo": "paddle-even-g2",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2491,7 +2652,8 @@
             "owner": "nickustinov",
             "repo": "snake-even-g2",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2506,7 +2668,8 @@
             "owner": "nickustinov",
             "repo": "blocks-even-g2",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2521,7 +2684,8 @@
             "owner": "dxiv",
             "repo": "gloss",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2536,7 +2700,8 @@
             "owner": "Morfeussession2",
             "repo": "EVEN-G2-Tamagotchi",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2551,7 +2716,8 @@
             "owner": "nickustinov",
             "repo": "bricks-even-g2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2566,7 +2732,8 @@
             "owner": "tomtau",
             "repo": "g2-flashcards",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2581,7 +2748,8 @@
             "owner": "dmyster145",
             "repo": "EvenSolitaire",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2596,7 +2764,8 @@
             "owner": "prasants",
             "repo": "smrti",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2611,7 +2780,8 @@
             "owner": "Xuefeng-Zhu",
             "repo": "Lenski",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2626,7 +2796,8 @@
             "owner": "tntpsu",
             "repo": "CardPack",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2641,7 +2812,8 @@
             "owner": "200even",
             "repo": "flappy-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2656,7 +2828,8 @@
             "owner": "dmyster145",
             "repo": "EvenHeadsOrTails",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2671,7 +2844,8 @@
             "owner": "dmyster145",
             "repo": "EvenRoads",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2686,7 +2860,8 @@
             "owner": "fraugho",
             "repo": "dungeon",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2701,7 +2876,8 @@
             "owner": "tntpsu",
             "repo": "HouseGames",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2716,7 +2892,8 @@
             "owner": "narfman0",
             "repo": "even-doom",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2731,7 +2908,8 @@
             "owner": "Aiacos",
             "repo": "EvenFoundryVTT",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2746,7 +2924,8 @@
             "owner": "JustinasLa",
             "repo": "darts-even-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2761,7 +2940,8 @@
             "owner": "KamalQ",
             "repo": "g2-flashcards",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2776,7 +2956,8 @@
             "owner": "kolife01",
             "repo": "lingua-lens",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2791,7 +2972,8 @@
             "owner": "r-tkbyc",
             "repo": "even-sliding-puzzle",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2806,7 +2988,8 @@
             "owner": "r-tkbyc",
             "repo": "even-japanese-map-quiz",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2821,7 +3004,8 @@
             "owner": "opinsky",
             "repo": "evenTaipan",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Games and Learning"
@@ -2842,7 +3026,8 @@
             "owner": "Oliemanq",
             "repo": "DisplayPlusMusic",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2857,7 +3042,8 @@
             "owner": "wmoto-ai",
             "repo": "even-g2-matrix",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2872,7 +3058,8 @@
             "owner": "ltrademark",
             "repo": "EvenG2-Music-Search",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2887,7 +3074,8 @@
             "owner": "r-tkbyc",
             "repo": "even-now-playing",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2902,7 +3090,8 @@
             "owner": "aramood",
             "repo": "even-g2-media-remote",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2917,7 +3106,8 @@
             "owner": "Comm4nd0",
             "repo": "Even-G2-Guitar-Tuner",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2932,7 +3122,8 @@
             "owner": "L3G",
             "repo": "orpheus-g2",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2947,7 +3138,8 @@
             "owner": "tntpsu",
             "repo": "lyrics-glow",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2962,7 +3154,8 @@
             "owner": "ArmasF31",
             "repo": "HUD-Music-Integration-Even-Hub",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2977,7 +3170,8 @@
             "owner": "inutano",
             "repo": "sudden-karaoke",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -2992,7 +3186,8 @@
             "owner": "yannrapaport",
             "repo": "spotify-g2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3007,7 +3202,8 @@
             "owner": "r-castelo",
             "repo": "g2-multi-instrument-tuner",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Media and Music"
@@ -3028,7 +3224,8 @@
             "owner": "kevin-huff",
             "repo": "EvenTwitchChat",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3043,7 +3240,8 @@
             "owner": "tomsamwel",
             "repo": "g2-twitch-hud",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Streaming"
@@ -3060,11 +3258,12 @@
             "archived": false,
             "id": 1171654603,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T18:04:53Z",
+            "last_commit": "2026-08-28T04:26:23Z",
             "owner": "wmoto-ai",
             "repo": "cc-g2",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3079,7 +3278,8 @@
             "owner": "open-vide",
             "repo": "openvide",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3094,7 +3294,8 @@
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3108,8 +3309,9 @@
             "last_commit": "2026-08-14T18:22:35Z",
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 18
-          }
+            "stars": 20
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3124,7 +3326,8 @@
             "owner": "Tej-Sharma",
             "repo": "even-reality-memory-system",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3139,7 +3342,8 @@
             "owner": "axchristie",
             "repo": "EvenHub-LocalLLM",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3154,7 +3358,8 @@
             "owner": "MrScautHD",
             "repo": "Even-Voice-AI",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3169,7 +3374,8 @@
             "owner": "marienbaptiste",
             "repo": "unofficial-even-g2-local-assistant",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3184,7 +3390,8 @@
             "owner": "brianmatzelle",
             "repo": "even-g2-agentic-app",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3195,11 +3402,12 @@
             "archived": false,
             "id": 1226288788,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:55:18Z",
+            "last_commit": "2026-08-28T11:33:20Z",
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3214,7 +3422,8 @@
             "owner": "ThatCrispyToast",
             "repo": "g2-claude-remote",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3229,7 +3438,8 @@
             "owner": "langerhans",
             "repo": "evenai-gemini-bridge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3244,7 +3454,8 @@
             "owner": "huntsyea",
             "repo": "hermes-even-hub-app",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3259,7 +3470,24 @@
             "owner": "wingk1314",
             "repo": "even-g2-hermes",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cos-glasses-server",
+          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1262436708,
+            "language": "TypeScript",
+            "last_commit": "2026-08-27T23:58:47Z",
+            "owner": "ukaoma",
+            "repo": "cos-glasses-server",
+            "stars": 3
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3274,7 +3502,8 @@
             "owner": "m4rpqfbbc2-debug",
             "repo": "claude-hud",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3289,7 +3518,8 @@
             "owner": "iDigz",
             "repo": "even-jarvis",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3304,7 +3534,8 @@
             "owner": "tntpsu",
             "repo": "Cue",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3319,7 +3550,8 @@
             "owner": "kqb",
             "repo": "openclaw-g2-hud",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3334,22 +3566,8 @@
             "owner": "pawaca",
             "repo": "even-better",
             "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cos-glasses-server",
-          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1262436708,
-            "language": "TypeScript",
-            "last_commit": "2026-08-27T04:51:46Z",
-            "owner": "ukaoma",
-            "repo": "cos-glasses-server",
-            "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3364,7 +3582,8 @@
             "owner": "TheOmran",
             "repo": "EvenCode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3379,7 +3598,8 @@
             "owner": "jase-perf",
             "repo": "evenai-anthropic-bridge",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3394,7 +3614,8 @@
             "owner": "Alireza29675",
             "repo": "g2-channels",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3409,7 +3630,8 @@
             "owner": "huntsyea",
             "repo": "hermes-evenhub-bridge",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3424,7 +3646,8 @@
             "owner": "lallenlowe",
             "repo": "even-terminal-pi",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3439,7 +3662,8 @@
             "owner": "xntj-ai",
             "repo": "evenglass",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3454,7 +3678,8 @@
             "owner": "abhishekj720",
             "repo": "Cue-evenRealitiesG2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3469,7 +3694,8 @@
             "owner": "BondIT-ApS",
             "repo": "glass-ai",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3484,7 +3710,8 @@
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3499,7 +3726,8 @@
             "owner": "soualid",
             "repo": "eveng2-terminal-textinput",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3514,7 +3742,8 @@
             "owner": "matsei-ruka",
             "repo": "completion-telegram-bridge",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3529,7 +3758,8 @@
             "owner": "dxiv",
             "repo": "even-deimos",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "AI and Agent Integrations"
@@ -3550,7 +3780,8 @@
             "owner": "galfaroth",
             "repo": "awesome-even-realities-g1",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3565,7 +3796,8 @@
             "owner": "JohnRThomas",
             "repo": "even_realities_decomp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3580,7 +3812,8 @@
             "owner": "hpssjellis",
             "repo": "my-examples-and-posts-of-g1-even-realities-smart-glasses",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -3595,14 +3828,15 @@
             "owner": "radioegor146",
             "repo": "even-utils",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Related and Legacy (G1)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:22:06.410Z",
+    "last_updated": "2026-08-28T21:10:09.932Z",
     "original_repository_info": {
       "archived": false,
       "id": 1281490985,
@@ -3610,7 +3844,7 @@
       "last_commit": "2026-07-19T19:52:08Z",
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 71
+      "stars": 72
     },
     "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
