@@ -181,11 +181,11 @@
             "id": 677829141,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T04:58:29Z",
-            "open_issues": 785,
+            "last_commit": "2026-08-29T06:47:34Z",
+            "open_issues": 784,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2326,
+            "stars": 2327,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -306,7 +306,7 @@
             "open_issues": 13,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1479,6 +1479,69 @@
         },
         {
           "node_type": "item",
+          "title": "reddit-feed-even",
+          "description": "Full-featured Reddit client rendering feeds, posts, and comments through a Cloudflare Worker proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A full-featured Reddit client for the Even Realities Glasses smart glasses.",
+            "homepage": null,
+            "id": 1191938102,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-30T21:51:13Z",
+            "open_issues": 0,
+            "owner": "plungarini",
+            "repo": "reddit-feed-even",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Birdie",
+          "description": "Real-time ambient bird identification that listens and names the species in your view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Birdie is a real-time bird identification app for the Even Realities Glasses smart glasses.",
+            "homepage": null,
+            "id": 1218941271,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-14T14:40:51Z",
+            "open_issues": 0,
+            "owner": "plungarini",
+            "repo": "birdie-even",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Smokeless",
+          "description": "Cigarette tracker and quit companion logging each smoke with a tap on the frame.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A cigarette tracker and quit companion for Even Realities Glasses glasses. Based on \"smokeless-web\".",
+            "homepage": null,
+            "id": 1203285596,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-30T21:53:06Z",
+            "open_issues": 0,
+            "owner": "plungarini",
+            "repo": "smokeless-even",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-g2-aviation-weather",
           "description": "Live METAR and TAF aviation weather on the G2.",
           "children": [],
@@ -2342,69 +2405,6 @@
             "open_issues": 0,
             "owner": "nickustinov",
             "repo": "level-even-g2",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "reddit-feed-even",
-          "description": "Full-featured Reddit client rendering feeds, posts, and comments through a Cloudflare Worker proxy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1191938102,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-30T21:51:13Z",
-            "open_issues": 0,
-            "owner": "plungarini",
-            "repo": "reddit-feed-even",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Birdie",
-          "description": "Real-time ambient bird identification that listens and names the species in your view.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1218941271,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-07-14T14:40:51Z",
-            "open_issues": 0,
-            "owner": "plungarini",
-            "repo": "birdie-even",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Smokeless",
-          "description": "Cigarette tracker and quit companion logging each smoke with a tap on the frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1203285596,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-30T21:53:06Z",
-            "open_issues": 0,
-            "owner": "plungarini",
-            "repo": "smokeless-even",
             "stars": 0,
             "topics": []
           },
@@ -4666,7 +4666,7 @@
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "android",
               "bluetooth-le",
@@ -4866,8 +4866,8 @@
             "id": 1254713946,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T14:07:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-08-29T06:52:55Z",
+            "open_issues": 5,
             "owner": "huntsyea",
             "repo": "hermes-even-hub-app",
             "stars": 3,
@@ -5430,7 +5430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:33.820Z",
+    "last_updated": "2026-08-29T15:01:52.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
