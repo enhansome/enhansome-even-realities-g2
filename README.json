@@ -181,11 +181,11 @@
             "id": 677829141,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T06:47:34Z",
-            "open_issues": 784,
+            "last_commit": "2026-08-30T06:20:45Z",
+            "open_issues": 791,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2327,
+            "stars": 2328,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -221,7 +221,7 @@
             "open_issues": 0,
             "owner": "fabioglimb",
             "repo": "even-toolkit",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -302,11 +302,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T04:23:33Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-30T07:54:25Z",
+            "open_issues": 12,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 20,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -955,11 +955,11 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T02:23:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-30T03:19:49Z",
+            "open_issues": 0,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1001,7 +1001,7 @@
             "open_issues": 0,
             "owner": "cokeeffekt",
             "repo": "even-g2-patched",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -2338,7 +2338,7 @@
             "id": 1286413389,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T16:40:48Z",
+            "last_commit": "2026-08-30T13:49:21Z",
             "open_issues": 3,
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
@@ -4621,7 +4621,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-11T00:31:17Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
             "stars": 28,
@@ -4797,7 +4797,7 @@
             "id": 1226288788,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:01:26Z",
+            "last_commit": "2026-08-30T07:27:20Z",
             "open_issues": 9,
             "owner": "takashicompany",
             "repo": "headlenss",
@@ -4819,7 +4819,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-20T16:12:54Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ThatCrispyToast",
             "repo": "g2-claude-remote",
             "stars": 4,
@@ -5430,7 +5430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:01:52.642Z",
+    "last_updated": "2026-08-30T14:50:45.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -5442,7 +5442,7 @@
       "open_issues": 1,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 72,
+      "stars": 74,
       "topics": [
         "ar-glasses",
         "awesome",
