@@ -40,7 +40,7 @@
             "open_issues": 16,
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -130,7 +130,7 @@
             "open_issues": 1,
             "owner": "nickustinov",
             "repo": "even-g2-notes",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -181,11 +181,11 @@
             "id": 677829141,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-01T10:02:47Z",
-            "open_issues": 801,
+            "last_commit": "2026-09-02T05:59:46Z",
+            "open_issues": 802,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2334,
+            "stars": 2336,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -268,7 +268,7 @@
             "open_issues": 21,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "ai-glasses",
               "android",
@@ -302,11 +302,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T07:40:55Z",
+            "last_commit": "2026-09-02T07:35:03Z",
             "open_issues": 12,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 23,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1137,7 +1137,7 @@
             "open_issues": 0,
             "owner": "nickustinov",
             "repo": "weather-even-g2",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -2617,7 +2617,7 @@
             "id": 1168883139,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-17T22:49:28Z",
+            "last_commit": "2026-09-01T20:13:27Z",
             "open_issues": 0,
             "owner": "cmdlabtech",
             "repo": "Wondereye",
@@ -4251,7 +4251,7 @@
             "open_issues": 0,
             "owner": "Oliemanq",
             "repo": "DisplayPlusMusic",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -4824,8 +4824,8 @@
             "id": 1226288788,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:22:29Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T10:54:49Z",
+            "open_issues": 10,
             "owner": "takashicompany",
             "repo": "headlenss",
             "stars": 5,
@@ -4917,7 +4917,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T12:32:03Z",
+            "last_commit": "2026-09-02T12:35:27Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5430,7 +5430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:49:22.261Z",
+    "last_updated": "2026-09-02T14:25:22.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -5442,7 +5442,7 @@
       "open_issues": 1,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 76,
+      "stars": 77,
       "topics": [
         "ar-glasses",
         "awesome",
