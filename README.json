@@ -37,10 +37,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-20T09:49:12Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -162,6 +162,33 @@
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "G2 Two-Column List",
+          "description": "Runnable demo showing how to build a scrollable two-column checklist on the G2 display with two text containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A two-column scrollable list for Even Realities G2 smart glasses — the layout technique from Fushopping List, extracted into a runnable demo",
+            "homepage": null,
+            "id": 1317466966,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-30T17:40:45Z",
+            "open_issues": 0,
+            "owner": "fuschini",
+            "repo": "g2-two-column-list",
+            "stars": 0,
+            "topics": [
+              "even-realities",
+              "evenhub",
+              "g2",
+              "smart-glasses",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Documentation and Guides"
@@ -181,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T10:05:04Z",
-            "open_issues": 802,
+            "last_commit": "2026-09-04T12:51:15Z",
+            "open_issues": 803,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2337,
+            "stars": 2338,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -302,14 +329,45 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T07:35:03Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-04T06:05:57Z",
+            "open_issues": 13,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Glyph",
+          "description": "Graphics and UI framework for G2 apps that renders a full framebuffer and sends only the changed tiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A graphics and UI framework for the Even Realities G2.",
+            "homepage": null,
+            "id": 1344183482,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-27T12:22:28Z",
+            "open_issues": 0,
+            "owner": "gabrielevierti",
+            "repo": "glyph",
+            "stars": 12,
+            "topics": [
+              "even-realities",
+              "even-realities-g2",
+              "smart-glasses",
+              "ui",
+              "ui-components",
+              "ui-design",
+              "ui-library",
+              "ui-ux",
+              "uikit"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -424,6 +482,60 @@
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ER Studio",
+          "description": "VS Code extension that runs the G2 simulator, dev server, and SDK reference next to your code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Visual Studio Code extension for building Even Realities G2 apps",
+            "homepage": null,
+            "id": 1311025515,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-25T15:54:44Z",
+            "open_issues": 0,
+            "owner": "gabrielevierti",
+            "repo": "er-studio",
+            "stars": 3,
+            "topics": [
+              "developer-tools",
+              "even",
+              "even-g2",
+              "even-hub",
+              "even-hub-sdk",
+              "even-real",
+              "even-realities-g2",
+              "evenrealities",
+              "programming",
+              "realities",
+              "smart-glasses"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ehup",
+          "description": "Command-line tool that drives the Even Hub developer portal to upload builds, manage beta testers, and change release state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even G2 プラグインの公開作業を CLI から行うツール",
+            "homepage": null,
+            "id": 1322487139,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-25T05:04:30Z",
+            "open_issues": 0,
+            "owner": "takashicompany",
+            "repo": "even-hub-uploader",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -544,6 +656,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "evenhub-dev-harness",
+          "description": "Browser development harness for Even Hub widgets with mocked GPS, IMU, camera, and album inputs the official simulator lacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Hub 위젯 범용 Dev 시뮬레이터 — mock EvenAppBridge + automation 서버 + PyQt 뷰 (extracted from even_g2_javis_msg)",
+            "homepage": null,
+            "id": 1329345035,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-13T02:46:01Z",
+            "open_issues": 0,
+            "owner": "oneticket99",
+            "repo": "even_hub_dev_simulator",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EvenHub Grok Bot",
+          "description": "Animation demo running three synchronized line-art avatars on the G2, showing the bitmap-transfer and luminance-0 transparency pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Animated Grok Bot mascots for Even G2 glasses, built with Even Hub SDK",
+            "homepage": null,
+            "id": 1332526723,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-12T23:59:50Z",
+            "open_issues": 0,
+            "owner": "zichenzhang04",
+            "repo": "even-grokbot-avatars",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -742,6 +896,34 @@
         },
         {
           "node_type": "item",
+          "title": "even-demo-kit",
+          "description": "Turns G2 simulator recordings into demo videos with a transparent background, so the UI looks like it runs on real glasses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn Even Realities G2 simulator captures into real-looking AR glasses demos — transparency, backgrounds, glow. CLI, web app, Claude skill.",
+            "homepage": "https://fuschini.github.io/even-demo-kit/",
+            "id": 1318623228,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-01T00:18:56Z",
+            "open_issues": 0,
+            "owner": "fuschini",
+            "repo": "even-demo-kit",
+            "stars": 1,
+            "topics": [
+              "ar",
+              "chroma-key",
+              "even-realities",
+              "evenhub",
+              "ffmpeg",
+              "smart-glasses"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-publisher",
           "description": "Tool for packaging and publishing G2 apps to Even Hub.",
           "children": [],
@@ -886,6 +1068,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EvenG2 Game Engine Debug Bridge",
+          "description": "Sends Unity and Godot debug logs over the local network to the G2 for on-device viewing while you develop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even G2 Debug Bridge",
+            "homepage": null,
+            "id": 1166329908,
+            "language": "GDScript",
+            "license": "MIT",
+            "last_commit": "2026-08-26T05:24:43Z",
+            "open_issues": 0,
+            "owner": "TakaakiIchijo",
+            "repo": "EvenG2_GameEngineDebugBridge",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Everything Even Hub for Codex",
+          "description": "The 13 official Even Hub developer skills repackaged for installation in Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Portable Codex plugin bundle with 13 Even Hub skills and Traditional Chinese installation instructions.",
+            "homepage": null,
+            "id": 1297864547,
+            "language": "PowerShell",
+            "license": null,
+            "last_commit": "2026-07-12T00:39:41Z",
+            "open_issues": 0,
+            "owner": "ahui3c",
+            "repo": "everything-evenhub-codex",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "SDK, Tooling, and Simulators"
@@ -976,7 +1200,7 @@
             "id": 1171904371,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T15:32:42Z",
+            "last_commit": "2026-09-03T15:59:13Z",
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
@@ -984,6 +1208,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Even Realities WebFlasher",
+          "description": "Browser tool that analyses, backs up, and recovers the G2 case and glasses, and flashes signed firmware to the R1 ring over Web Serial and WebUSB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-contained browser flasher and recovery console for Even Realities G2 and R1 devices.",
+            "homepage": "https://am-guru.github.io/evenRealities-webflasher/",
+            "id": 1332408956,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-21T02:53:26Z",
+            "open_issues": 0,
+            "owner": "AM-Guru",
+            "repo": "evenRealities-webflasher",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -1114,6 +1359,52 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenG2 Companion",
+          "description": "Local-first iOS companion app with a clean-room Bluetooth control layer for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first open-source iOS companion and clean-room BLE control layer for Even Realities G2 glasses",
+            "homepage": null,
+            "id": 1315337091,
+            "language": "Swift",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-28T19:03:35Z",
+            "open_issues": 0,
+            "owner": "mmirman",
+            "repo": "open-g2-companion",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "g2-thai",
+          "description": "Patches G2 firmware with a Thai bitmap font so the glasses render Thai text, with documented checksum verification and a rebase playbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Attempt to patch Even Realties G2 glass firmware to support Thai characters",
+            "homepage": null,
+            "id": 1340514338,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:16:44Z",
+            "open_issues": 0,
+            "owner": "rayriffy",
+            "repo": "even-g2-thai",
+            "stars": 0,
+            "topics": [
+              "even-realities",
+              "even-realities-g2",
+              "smart-glasses"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Protocol and Reverse Engineering"
@@ -1162,6 +1453,40 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sandevistan",
+          "description": "Personal HUD with dashboard, map, weather, and news views, tested on physical hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An unofficial, hardware-tested tactical HUD for Even Realities G2, built with React, TypeScript, Canvas, and the Even Hub SDK.",
+            "homepage": null,
+            "id": 1312149476,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-12T23:31:41Z",
+            "open_issues": 0,
+            "owner": "hmmhmmhm",
+            "repo": "sandevistan",
+            "stars": 8,
+            "topics": [
+              "augmented-reality",
+              "canvas",
+              "even-hub-sdk",
+              "even-realities",
+              "even-realities-g2",
+              "heads-up-display",
+              "hud",
+              "react",
+              "smart-glasses",
+              "typescript",
+              "vite",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -1339,6 +1664,37 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VOX",
+          "description": "Dictate and send SMS or email from the G2 through a self-hosted server with your own Twilio and mail accounts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Voice-first SMS and email for Even Realities G2 smart glasses. Tap the temple, speak, confirm on the HUD, send.",
+            "homepage": null,
+            "id": 1238253663,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-26T21:36:46Z",
+            "open_issues": 0,
+            "owner": "ablakateam",
+            "repo": "evenrealitiesG2",
+            "stars": 3,
+            "topics": [
+              "ar-glasses",
+              "even-realities",
+              "self-hosted",
+              "smart-glasses",
+              "speech-to-text",
+              "twilio",
+              "typescript",
+              "voice-assistant",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -1915,6 +2271,118 @@
         },
         {
           "node_type": "item",
+          "title": "Status Deck",
+          "description": "HUD showing time, battery, and optional PC or AI-tool status from a local server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even G2 toolbar-style sub-monitor: Claude/Codex usage HUD",
+            "homepage": null,
+            "id": 1249886050,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-02T03:44:16Z",
+            "open_issues": 22,
+            "owner": "bigdra50",
+            "repo": "even-status-deck",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Obsidian on G2",
+          "description": "Reads Obsidian notes with pixel-accurate pagination, fed by a companion Obsidian plugin over localhost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Plugin to read obsidian notes on EvenRealities G2 Glasses",
+            "homepage": null,
+            "id": 1264235722,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-06-13T15:32:13Z",
+            "open_issues": 0,
+            "owner": "luqezr",
+            "repo": "Obsidian-on-G2",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "G2 Network Scanner",
+          "description": "Shows local network status on the G2 and alerts you when a new device joins the LAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An [Even Realities G2](https://www.evenrealities.com/) plugin that shows network information on your glasses and pops up an alert when a new device joins your LAN.",
+            "homepage": null,
+            "id": 1282954411,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-09T10:54:58Z",
+            "open_issues": 0,
+            "owner": "btstevens1984az",
+            "repo": "Even-G2-Network-Scanner",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Applied Resonance",
+          "description": "Learns how a healthy machine sounds through the G2 microphone and warns you when the sound changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wearable acoustic anomaly detection for Even Realities G2 smart glasses.",
+            "homepage": "https://www.connork.com/applied-resonance",
+            "id": 1266601147,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-07-28T02:11:54Z",
+            "open_issues": 0,
+            "owner": "cwklurks",
+            "repo": "applied-resonance",
+            "stars": 1,
+            "topics": [
+              "anomaly-detection",
+              "audio",
+              "predictive-maintenance",
+              "pytorch",
+              "smart-glasses",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Quick Tip",
+          "description": "Calculates a tip and splits the bill by party size, with the result on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tip calculator and bill splitter for Even Realities G2 glasses. Enter amount, pick tip %, split by party size — results on the HUD.",
+            "homepage": null,
+            "id": 1282964981,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-09T10:55:10Z",
+            "open_issues": 0,
+            "owner": "btstevens1984az",
+            "repo": "Even-G2-Quick-Tip-Calculator",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "PRLens",
           "description": "Reads your open GitHub pull requests on the G2.",
           "children": [],
@@ -2338,7 +2806,7 @@
             "id": 1286413389,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T19:00:16Z",
+            "last_commit": "2026-09-04T12:21:20Z",
             "open_issues": 4,
             "owner": "hofstede-matheus",
             "repo": "notion-ultimate-brain-even-g2",
@@ -2493,6 +2961,243 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Even Browser (screen reader)",
+          "description": "Web browser that linearises each page into an accessibility reading order and activates the focused link or button on a tap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even realities web browser plugin",
+            "homepage": null,
+            "id": 1288425000,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-03T16:05:12Z",
+            "open_issues": 0,
+            "owner": "NoodleOfDeath",
+            "repo": "even-browser",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TeleGlance",
+          "description": "Reads Telegram chats and sends short replies, with voice transcription that runs locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Telegram inbox for Even G2 glasses",
+            "homepage": null,
+            "id": 1255656177,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-22T23:36:43Z",
+            "open_issues": 0,
+            "owner": "jalatif",
+            "repo": "even-g2-tele-glance",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ethan HUD",
+          "description": "Glance dashboard showing tasks, calendar, and exchange rates from an aggregator service, with notes on undocumented SDK behaviour.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Personal HUD dashboard for Even G2 glasses — multi-card glance app (Ops Lens, Calendar, Tasks, monitoring)",
+            "homepage": null,
+            "id": 1309681530,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-25T19:40:57Z",
+            "open_issues": 0,
+            "owner": "EthanChouTW",
+            "repo": "ethan-hud",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Meater Cooks",
+          "description": "Live MEATER probe temperatures and cook progress on the G2 through a Cloudflare Worker relay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your live MEATER cooks, right in your sightline. See each probe's internal temp, target, ambient, cook progress, and time-to-done on your G2 glasses, refreshed continuously — so you can watch the meat instead of your phone.",
+            "homepage": null,
+            "id": 1262219495,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-06-07T18:18:47Z",
+            "open_issues": 0,
+            "owner": "trentfoley",
+            "repo": "even-g2-meater",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CyberNews",
+          "description": "Merges four cybersecurity news feeds into one scrollable headline list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cybersecurity headline reader for the Even Realities G2. ",
+            "homepage": null,
+            "id": 1326568745,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-04T12:30:36Z",
+            "open_issues": 0,
+            "owner": "zakpatrik",
+            "repo": "CyberNews-evenrealities-app",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Footy Live",
+          "description": "Live AFL scores, fixtures, and the ladder on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Live AFL scores on Even Realities G2 smart glasses (Even Hub app)",
+            "homepage": null,
+            "id": 1348827673,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-27T18:32:45Z",
+            "open_issues": 0,
+            "owner": "johannboehme",
+            "repo": "footy-live",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "World Cup Live Scores",
+          "description": "Live FIFA World Cup 2026 scores and match detail on the G2, with a phone companion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "World Cup Even Hub demo app — G2 glasses + phone webview, iSports SSE feed (leagueId 1572). 129 tests.",
+            "homepage": null,
+            "id": 1262999201,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-06-17T10:41:10Z",
+            "open_issues": 0,
+            "owner": "LesenmiaoYu",
+            "repo": "even-hub-worldcup",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Glim",
+          "description": "iOS app and Node backend pairing several G2 surfaces: calorie and heart-rate tracking, a novel reader, and ring-driven Google Slides control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "For Even Reality G2",
+            "homepage": null,
+            "id": 1171329530,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-15T14:29:28Z",
+            "open_issues": 2,
+            "owner": "Roger1of1",
+            "repo": "Glim",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Salah Companion",
+          "description": "Five daily prayer times and the Hijri date on the HUD, computed on device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Salah companion app for even g2 glass",
+            "homepage": null,
+            "id": 1276530287,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-23T05:10:38Z",
+            "open_issues": 0,
+            "owner": "rmazumder",
+            "repo": "even-g2-salah-companion",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Even-LotH",
+          "description": "Reads Liturgy of the Hours prayers as a smooth-scrolling teleprompter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Liturgy of the Hours reader for Even G2 glasses",
+            "homepage": null,
+            "id": 1171378668,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-01T20:15:20Z",
+            "open_issues": 0,
+            "owner": "sangularvilue",
+            "repo": "Even-LotH",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Moon Phase",
+          "description": "Current moon phase, illumination, and days to the next full or new moon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Moon phase app for Even Realities G2 smart glasses (Even Hub plugin)",
+            "homepage": null,
+            "id": 1349101995,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T02:02:22Z",
+            "open_issues": 0,
+            "owner": "chrissantorelli",
+            "repo": "moonphase-g2",
+            "stars": 0,
+            "topics": [
+              "even-realities",
+              "evenhub",
+              "moon-phase",
+              "smart-glasses",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Apps - Productivity and Utilities"
@@ -2656,6 +3361,67 @@
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TideView",
+          "description": "Marine conditions HUD showing speed, course, wind, sea state, and weather from phone GPS and public forecasts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Marine navigation HUD for Even Realities G2 smart glasses.",
+            "homepage": null,
+            "id": 1343732584,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T13:28:41Z",
+            "open_issues": 0,
+            "owner": "gabrielevierti",
+            "repo": "tideview",
+            "stars": 2,
+            "topics": [
+              "even-realities",
+              "even-realities-g2",
+              "hud",
+              "marine",
+              "marine-navigation",
+              "smart-glasses",
+              "ui"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ALPR Scout",
+          "description": "Shows nearby public licence-plate camera locations from OpenStreetMap and helps prepare a DeFlock report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ALPR Scout — Even G2 app to browse nearby public license-plate cameras and prepare DeFlock/OpenStreetMap reports from the glasses.",
+            "homepage": null,
+            "id": 1349161655,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-02T01:40:57Z",
+            "open_issues": 0,
+            "owner": "bluboylou",
+            "repo": "alpr-scout",
+            "stars": 2,
+            "topics": [
+              "alpr",
+              "deflock",
+              "even-g2",
+              "even-realities",
+              "glasses",
+              "license-plate",
+              "openstreetmap",
+              "privacy",
+              "surveillance",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -3023,6 +3789,90 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aviation HUD",
+          "description": "Primary-flight-display view with ground speed, GPS altitude, and nearby diversion airports from a Garmin GLO receiver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Head Up Display integration for evenrealities glasses",
+            "homepage": null,
+            "id": 1324070675,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-03T06:23:40Z",
+            "open_issues": 0,
+            "owner": "cianfru",
+            "repo": "HUD",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HSL Stops",
+          "description": "Live Helsinki-region public transport departures for saved stops via the Digitransit API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HSL Stop info for Even Realities G2 glasses",
+            "homepage": null,
+            "id": 1260260799,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-06T13:18:46Z",
+            "open_issues": 0,
+            "owner": "Pihlapuro",
+            "repo": "HSL-stops-even-g2",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Peak Radar",
+          "description": "Nearby mountain summits with direction and distance, from OpenStreetMap and weather data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mountain Distance & Summit Finder on Even g2",
+            "homepage": null,
+            "id": 1315672068,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-29T15:03:34Z",
+            "open_issues": 0,
+            "owner": "kissyjpf",
+            "repo": "evenhub-peak-radar",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Flight",
+          "description": "Tracks up to three flights offline, with optional lookup by flight number.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Flight tracker for Even G2 smart glasses.",
+            "homepage": null,
+            "id": 1324501092,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-08-06T23:06:18Z",
+            "open_issues": 0,
+            "owner": "karyzan",
+            "repo": "FlightG2",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Apps - Navigation and Transit"
@@ -3137,27 +3987,6 @@
         },
         {
           "node_type": "item",
-          "title": "car-hud",
-          "description": "Distraction-free vehicle telemetry HUD for the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Car HUD (Heads-Up Display) is a high-performance, distraction-free telemetry system designed specifically for the Even Realities G2 smart glasses.",
-            "homepage": null,
-            "id": 1214499116,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-04-18T17:37:14Z",
-            "open_issues": 0,
-            "owner": "waliulawaltaha",
-            "repo": "car-hud",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "glass-car-dash",
           "description": "Driving dashboard and media remote for the G2.",
           "children": [],
@@ -3176,6 +4005,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bambu G2",
+          "description": "Bambu Lab 3D printer status and basic print controls through a self-hosted Linux bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even G2 glasses app and self-hosted Linux bridge for Bambu Lab printer monitoring and controls.",
+            "homepage": null,
+            "id": 1346841933,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:13:58Z",
+            "open_issues": 0,
+            "owner": "NishBuilds",
+            "repo": "bambu-g2",
+            "stars": 0,
+            "topics": [
+              "3d-printing",
+              "bambu-lab",
+              "even-g2",
+              "even-realities",
+              "mqtt",
+              "raspberry-pi"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Apps - Smart Home and Car"
@@ -3395,6 +4252,27 @@
         },
         {
           "node_type": "item",
+          "title": "Market Intel G2",
+          "description": "Live crypto, futures, stock, and oil prices with AI-generated market sentiment on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Live crypto, futures & market news app for Even Realities G2 smart glasses",
+            "homepage": "https://market-intel-g2.vercel.app",
+            "id": 1268483238,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-15T22:50:19Z",
+            "open_issues": 0,
+            "owner": "gracereel",
+            "repo": "market-intel-g2",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-g2-crypto-ticker",
           "description": "Live cryptocurrency price ticker for the G2.",
           "children": [],
@@ -3569,6 +4447,27 @@
         },
         {
           "node_type": "item",
+          "title": "Taraweeh Companion",
+          "description": "Recognises live Quran recitation and shows the matching Arabic text, transliteration, and translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "taraweeh-companion for even realties g2 smart glasses ",
+            "homepage": null,
+            "id": 1169891465,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-08-30T22:44:58Z",
+            "open_issues": 0,
+            "owner": "wasimlhr",
+            "repo": "taraweeh-companion-g2",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "Convo Exchange",
           "description": "Real-time transcription and keyword detection on the G2 via Deepgram.",
           "children": [],
@@ -3639,24 +4538,45 @@
         },
         {
           "node_type": "item",
-          "title": "even-app-one",
-          "description": "Interactive Q&A assistant for the G2 with audio capture, live transcription, and preset questions.",
+          "title": "Soniox Note",
+          "description": "Real-time Soniox transcription saved as a local voice note on the G1 and G2.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "my even g2 first app",
+            "description": "Voice notes for Even Realities G1/G2 glasses, transcribed in real time by Soniox speech-to-text and stored locally.",
             "homepage": null,
-            "id": 1260831984,
-            "language": "HTML",
+            "id": 1309335991,
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-06T00:02:44Z",
+            "last_commit": "2026-08-31T07:11:59Z",
             "open_issues": 0,
-            "owner": "cscartjp",
-            "repo": "even-app-one",
+            "owner": "kissyjpf",
+            "repo": "evenhub-sonioxnote",
             "stars": 0,
             "topics": []
           },
-          "first_seen": "2026-08-28T21:10:09.932Z"
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PitchBeam",
+          "description": "Scrolls a teleprompter script on the lens and gives live speech-pace feedback from the phone microphone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Teleprompter and live speech pace coaching for Even Realities G2 glasses. Scroll scripts on the HUD, get WPM feedback from the phone mic, and review session summaries.",
+            "homepage": null,
+            "id": 1282960081,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-09T10:55:04Z",
+            "open_issues": 0,
+            "owner": "btstevens1984az",
+            "repo": "Even-G2-pitchBeam",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Apps - Voice and Speech-to-Text"
@@ -3925,6 +4845,27 @@
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Even G2 Math Reader",
+          "description": "Renders dense maths formulas as bitmaps and autoscrolls through a personal document library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Math reader for even g2 realities",
+            "homepage": null,
+            "id": 1274995263,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-22T18:41:44Z",
+            "open_issues": 0,
+            "owner": "ErikRusanov",
+            "repo": "Even-G2-Math-Reader",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -4228,6 +5169,77 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl Drill",
+          "description": "Spaced-repetition kubectl practice for CKA, CKAD, and CKS preparation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Spaced-repetition kubectl drilling for CKA/CKAD/CKS on Even Realities G2 smart glasses. Prompt in your vision, hands on the keyboard.",
+            "homepage": null,
+            "id": 1322766760,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-04T09:33:20Z",
+            "open_issues": 0,
+            "owner": "hiimivantang",
+            "repo": "g2-kubectl-drill",
+            "stars": 0,
+            "topics": [
+              "cka",
+              "ckad",
+              "cks",
+              "even-realities",
+              "kubernetes",
+              "smart-glasses",
+              "spaced-repetition"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WAD Player",
+          "description": "Runs the DOOM-compatible PureDOOM engine on the phone and streams the display to the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Doom’s WAD Player for Even G2",
+            "homepage": null,
+            "id": 1311989658,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-02T07:05:51Z",
+            "open_issues": 0,
+            "owner": "jpneagle",
+            "repo": "WAD-Player-for-Even-G2",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CubeNet",
+          "description": "Cube puzzle played as its unfolded net, with faces turned by the R1 ring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cube puzzle played on its unfolded net - for Even Realities G2 glasses",
+            "homepage": "https://r-tkbyc.github.io/even-cube-net/",
+            "id": 1326571335,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-08-11T09:45:57Z",
+            "open_issues": 0,
+            "owner": "r-tkbyc",
+            "repo": "even-cube-net",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Apps - Games and Learning"
@@ -4247,7 +5259,7 @@
             "id": 1146420134,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-03T17:48:29Z",
+            "last_commit": "2026-09-04T04:19:06Z",
             "open_issues": 0,
             "owner": "Oliemanq",
             "repo": "DisplayPlusMusic",
@@ -4502,6 +5514,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ambience",
+          "description": "Animated ASCII moodscapes for the G2, such as a fireplace, snow, and waves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ascii ambience moodscapes for evenrealities glasses",
+            "homepage": null,
+            "id": 1331452708,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-02T17:17:48Z",
+            "open_issues": 0,
+            "owner": "evcap",
+            "repo": "even-ambience",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Apps - Media and Music"
@@ -4824,7 +5857,7 @@
             "id": 1226288788,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T10:54:49Z",
+            "last_commit": "2026-09-04T00:25:12Z",
             "open_issues": 11,
             "owner": "takashicompany",
             "repo": "headlenss",
@@ -4917,7 +5950,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:23:30Z",
+            "last_commit": "2026-09-04T14:11:33Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5102,6 +6135,102 @@
         },
         {
           "node_type": "item",
+          "title": "Work Bench",
+          "description": "Sends hands-free requests and approvals to Claude Code or Codex on a paired computer, using G2 audio and R1 ring gestures over native BLE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first wearable work agent using Even G2 audio and R1 gestures to delegate work to Claude Code and Codex terminals on your computer.",
+            "homepage": null,
+            "id": 1312282686,
+            "language": "Dart",
+            "license": "MIT",
+            "last_commit": "2026-09-04T01:39:49Z",
+            "open_issues": 0,
+            "owner": "aaronrau",
+            "repo": "workbench",
+            "stars": 2,
+            "topics": [
+              "ai-agents",
+              "bluetooth-low-energy",
+              "claude-code",
+              "codex",
+              "even-realities",
+              "flutter",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EvenDash",
+          "description": "Self-hosted agent dashboard showing a clock and live agent feed cards from your own Cloudflare Worker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted agent dashboard for Even Realities G2 on Cloudflare",
+            "homepage": null,
+            "id": 1316762222,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-31T08:09:55Z",
+            "open_issues": 0,
+            "owner": "beomjungil",
+            "repo": "EvenDash",
+            "stars": 2,
+            "topics": [
+              "even-g2",
+              "even-realities",
+              "even-realities-g2"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xangi for G2",
+          "description": "Connects the G2 to the xangi AI agent, with voice input transcribed by a local Whisper server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 client for xangi",
+            "homepage": null,
+            "id": 1289795708,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-30T16:09:23Z",
+            "open_issues": 0,
+            "owner": "karaage0703",
+            "repo": "xangi-even-g2",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ExEye",
+          "description": "Adds vision to the camera-less G2 by sending a frame from an ESP32 camera or webcam with a spoken prompt to a vision model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 ExEye app. ExEye stands for external, intending to be the vision solution for users who want to use the pioneering G2 glasses and it's ecosystem, but also want vision based functions.",
+            "homepage": null,
+            "id": 1252032052,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-08T06:35:21Z",
+            "open_issues": 0,
+            "owner": "sng516157-web",
+            "repo": "ExEye",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "g2-channels",
           "description": "Two-way terminal for Claude Code sessions: talk to a session and read its replies on the glasses.",
           "children": [],
@@ -5137,7 +6266,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-29T01:54:21Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "huntsyea",
             "repo": "hermes-evenhub-bridge",
             "stars": 1,
@@ -5179,24 +6308,45 @@
         },
         {
           "node_type": "item",
-          "title": "evenglass",
-          "description": "Real-time relay between the G2, an Android hub, a Phoenix and Elixir server, and a Windows client.",
+          "title": "Agent Home",
+          "description": "Bridge server connecting multi-provider coding agents, such as Claude and Codex, to the G2.",
           "children": [],
           "repo_info": {
-            "archived": true,
-            "description": "Real-time relay between Even Realities G2 glasses, an Android phone hub, a Phoenix/Elixir server, and a Windows PC. Archived 2026-05-04 — see retrospective in docs/.",
+            "archived": false,
+            "description": "Agent Control room for even realities g2 glasses",
             "homepage": null,
-            "id": 1221940939,
-            "language": "Elixir",
-            "license": "MIT",
-            "last_commit": "2026-05-04T10:18:36Z",
+            "id": 1272599749,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-07-02T06:14:56Z",
             "open_issues": 0,
-            "owner": "xntj-ai",
-            "repo": "evenglass",
+            "owner": "jalatif",
+            "repo": "even-agent-home",
             "stars": 1,
             "topics": []
           },
-          "first_seen": "2026-08-28T21:10:09.932Z"
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AI Sales Assistant",
+          "description": "Browses Salesforce accounts and surfaces live meeting cues on the lens from speech transcription and GPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI sales assistant on Even Realities G2 glasses — live meeting cues, account prep, and Salesforce integration",
+            "homepage": null,
+            "id": 1308730024,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-07-22T16:08:54Z",
+            "open_issues": 0,
+            "owner": "ObadaSayed",
+            "repo": "EvenRealities-AI-Sales-Assistant",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -5252,7 +6402,7 @@
             "id": 1164517458,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-03T09:02:00Z",
+            "last_commit": "2026-09-04T07:51:29Z",
             "open_issues": 0,
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
@@ -5329,6 +6479,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AR Vision",
+          "description": "Android app that detects objects through the phone camera and shows labelled boxes and vision-LLM remarks on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plugin and an app for android to use the Even G2 glasses like a companion that sees what you see",
+            "homepage": null,
+            "id": 1269098716,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-14T13:48:24Z",
+            "open_issues": 0,
+            "owner": "lonelyobserver0",
+            "repo": "even-ar-vision",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "AI and Agent Integrations"
@@ -5336,6 +6507,27 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Fahrplan",
+          "description": "Day-to-day life assistant for the G1 with notification mirroring, dashboard widgets, and voice control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fahrplan is a \"life assistant\" that is made for the Even Realities G1 smartglasses. ",
+            "homepage": null,
+            "id": 909047995,
+            "language": "C",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-26T19:40:11Z",
+            "open_issues": 3,
+            "owner": "meyskens",
+            "repo": "fahrplan",
+            "stars": 50,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
         {
           "node_type": "item",
           "title": "awesome-even-realities-g1",
@@ -5377,6 +6569,84 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "G1 Extended",
+          "description": "Telemetry-free Android client for the G1 with a reverse-engineered BLE protocol, custom HUD layouts, and external hardware integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source, telemetry-free Android client for Even Realities G1 smart glasses, featuring low-level BLE control, custom HUD layouts, and external hardware integration.",
+            "homepage": "https://simonlabbe.fr/g1",
+            "id": 1342632124,
+            "language": "C",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-09-01T12:43:07Z",
+            "open_issues": 0,
+            "owner": "LabbeSimon",
+            "repo": "G1_Extended",
+            "stars": 7,
+            "topics": [
+              "even-realities-g1",
+              "evenrealities",
+              "g1a",
+              "g1b",
+              "local-first",
+              "vr"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Open G1 SDK",
+          "description": "Python SDK and simulator for building and testing G1 apps without the official app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open SDK and visual simulator for Even Realities G1 smart glasses, in Python.",
+            "homepage": null,
+            "id": 1335886946,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-16T12:07:22Z",
+            "open_issues": 0,
+            "owner": "gabrielevierti",
+            "repo": "openg1-sdk",
+            "stars": 4,
+            "topics": [
+              "developer-tools",
+              "even-realities",
+              "even-realities-g1",
+              "sdk",
+              "sdk-python",
+              "smart-glasses",
+              "smart-glasses-project"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "Native iOS companion for the G1 that transcribes conversation in real time and shows AI answers on the HUD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native iOS app for Even Realities G1 - Real-time Conversation Prompter",
+            "homepage": null,
+            "id": 925942871,
+            "language": "Swift",
+            "license": null,
+            "last_commit": "2026-08-20T07:43:39Z",
+            "open_issues": 13,
+            "owner": "FJiangArthur",
+            "repo": "Helix-iOS",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -5424,13 +6694,55 @@
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Everse",
+          "description": "iOS companion for the G1 with a heads-up dashboard, quick notes, teleprompter, and navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Everse - Even Realities Companion App",
+            "homepage": null,
+            "id": 1112868764,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-08-19T07:20:09Z",
+            "open_issues": 0,
+            "owner": "knd8128",
+            "repo": "Everse",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RSS News Reader",
+          "description": "RSS feed reader for the G1 with touch and gesture scrolling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1329764622,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-16T11:52:33Z",
+            "open_issues": 0,
+            "owner": "KonradBartlett",
+            "repo": "evenrealities-rss-reader",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "Related and Legacy (G1)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:29:13.179Z",
+    "last_updated": "2026-09-04T14:18:22.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -5438,11 +6750,11 @@
       "id": 1281490985,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-07-19T19:52:08Z",
+      "last_commit": "2026-09-04T09:37:41Z",
       "open_issues": 1,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 77,
+      "stars": 79,
       "topics": [
         "ar-glasses",
         "awesome",
@@ -5455,7 +6767,7 @@
         "smart-glasses"
       ]
     },
-    "original_repository_sha": "9c7ae1b93fe5b201b9aa4087bb7d9e510dbb0e03",
+    "original_repository_sha": "5577df4c5469006bd6c1fc3447fcfe99bef326c1",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
     "enhanced_repository_description": null,
     "title": "Awesome Even Realities G2 with stars"
