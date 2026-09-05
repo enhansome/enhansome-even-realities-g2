@@ -37,10 +37,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-20T09:49:12Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T12:51:15Z",
-            "open_issues": 803,
+            "last_commit": "2026-09-05T03:15:50Z",
+            "open_issues": 804,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2338,
+            "stars": 2337,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -329,7 +329,7 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T06:05:57Z",
+            "last_commit": "2026-09-05T04:48:42Z",
             "open_issues": 13,
             "owner": "jimrandomh",
             "repo": "faceclaw",
@@ -1179,7 +1179,7 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T03:53:40Z",
+            "last_commit": "2026-09-04T17:52:53Z",
             "open_issues": 0,
             "owner": "jimrandomh",
             "repo": "g2flash",
@@ -1200,7 +1200,7 @@
             "id": 1171904371,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:59:13Z",
+            "last_commit": "2026-09-04T15:55:04Z",
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
@@ -1305,8 +1305,8 @@
             "id": 1329129218,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T15:16:32Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-05T10:06:30Z",
+            "open_issues": 1,
             "owner": "yonif8",
             "repo": "ffs-os",
             "stars": 0,
@@ -3058,7 +3058,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-04T12:30:36Z",
+            "last_commit": "2026-09-05T13:21:57Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3228,6 +3228,27 @@
         },
         {
           "node_type": "item",
+          "title": "G2 Drive Nav",
+          "description": "Turn-by-turn driving navigation for the G2 using Mapbox directions and live GPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn-by-turn driving navigation for Even Realities G2 smart glasses, filling the gap left by the official walk/cycle-only Navigate app.",
+            "homepage": null,
+            "id": 1231284797,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-05-07T00:48:59Z",
+            "open_issues": 0,
+            "owner": "matthewmiglio",
+            "repo": "g2-drive-nav",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "RoadView-G2",
           "description": "Live WSDOT highway camera feeds on the G2, browsable by highway.",
           "children": [],
@@ -3264,27 +3285,6 @@
             "owner": "Arkinos1",
             "repo": "EvenGo-Paris",
             "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "G2 Drive Nav",
-          "description": "Turn-by-turn driving navigation for the G2 using Mapbox directions and live GPS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn-by-turn driving navigation for Even Realities G2 smart glasses, filling the gap left by the official walk/cycle-only Navigate app.",
-            "homepage": null,
-            "id": 1231284797,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-05-07T00:48:59Z",
-            "open_issues": 0,
-            "owner": "matthewmiglio",
-            "repo": "g2-drive-nav",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -4447,6 +4447,27 @@
         },
         {
           "node_type": "item",
+          "title": "Lingua Franca",
+          "description": "Live language conversation coach for the G2 that suggests next phrases in a target language during face-to-face dialogue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lingua Franca — Real-world fluency, one scene at a time. For Even Realities G2.",
+            "homepage": null,
+            "id": 1214543888,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-26T23:11:38Z",
+            "open_issues": 2,
+            "owner": "d3hospitality",
+            "repo": "lingua-franca",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Taraweeh Companion",
           "description": "Recognises live Quran recitation and shows the matching Arabic text, transliteration, and translation.",
           "children": [],
@@ -4512,27 +4533,6 @@
               "typescript",
               "wearable-tech"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Lingua Franca",
-          "description": "Live language conversation coach for the G2 that suggests next phrases in a target language during face-to-face dialogue.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lingua Franca — Real-world fluency, one scene at a time. For Even Realities G2.",
-            "homepage": null,
-            "id": 1214543888,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-26T23:11:38Z",
-            "open_issues": 2,
-            "owner": "d3hospitality",
-            "repo": "lingua-franca",
-            "stars": 0,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -5657,7 +5657,7 @@
             "open_issues": 1,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 28,
+            "stars": 30,
             "topics": [
               "ai-assistant",
               "anthropic",
@@ -6145,7 +6145,7 @@
             "id": 1312282686,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-04T01:39:49Z",
+            "last_commit": "2026-09-05T07:14:11Z",
             "open_issues": 0,
             "owner": "aaronrau",
             "repo": "workbench",
@@ -6265,7 +6265,7 @@
             "id": 1254523907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:54:21Z",
+            "last_commit": "2026-09-05T01:52:59Z",
             "open_issues": 15,
             "owner": "huntsyea",
             "repo": "hermes-evenhub-bridge",
@@ -6402,7 +6402,7 @@
             "id": 1164517458,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-04T07:51:29Z",
+            "last_commit": "2026-09-05T04:49:33Z",
             "open_issues": 0,
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
@@ -6742,7 +6742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:18:22.893Z",
+    "last_updated": "2026-09-05T13:26:19.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6754,7 +6754,7 @@
       "open_issues": 1,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 79,
+      "stars": 81,
       "topics": [
         "ar-glasses",
         "awesome",
