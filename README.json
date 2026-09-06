@@ -37,10 +37,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-20T09:49:12Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -130,7 +130,7 @@
             "open_issues": 1,
             "owner": "nickustinov",
             "repo": "even-g2-notes",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:15:50Z",
-            "open_issues": 804,
+            "last_commit": "2026-09-06T07:59:06Z",
+            "open_issues": 808,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2337,
+            "stars": 2336,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -329,11 +329,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T04:48:42Z",
+            "last_commit": "2026-09-06T06:53:37Z",
             "open_issues": 13,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 27,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1305,7 +1305,7 @@
             "id": 1329129218,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T10:06:30Z",
+            "last_commit": "2026-09-06T05:22:54Z",
             "open_issues": 1,
             "owner": "yonif8",
             "repo": "ffs-os",
@@ -1760,34 +1760,6 @@
             "repo": "EvenAware",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Glance G2",
-          "description": "Personal dashboard aggregator with an Expo mobile companion feeding calendar, health, weather, and finance data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Personal dashboard aggregator for Even Realities G2 glasses",
-            "homepage": null,
-            "id": 1208151132,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-21T20:19:59Z",
-            "open_issues": 0,
-            "owner": "aleapc",
-            "repo": "glance-g2",
-            "stars": 2,
-            "topics": [
-              "dashboard",
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "smart-glasses",
-              "wearable-tech"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -2705,34 +2677,6 @@
         },
         {
           "node_type": "item",
-          "title": "BreakMate",
-          "description": "Lifecycle-aware health and break reminders fronted by an animated pixel-art character.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Health reminders for Even Realities G2 — animated pixel art character, lifecycle aware",
-            "homepage": null,
-            "id": 1207891815,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-21T20:20:10Z",
-            "open_issues": 0,
-            "owner": "aleapc",
-            "repo": "breakmate-g2",
-            "stars": 0,
-            "topics": [
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "smart-glasses",
-              "typescript",
-              "wearable-tech"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "even-simple-calendar",
           "description": "Hands-free month-view calendar navigated entirely with the R1 ring.",
           "children": [],
@@ -3058,7 +3002,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-05T13:21:57Z",
+            "last_commit": "2026-09-06T10:17:11Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3079,7 +3023,7 @@
             "id": 1348827673,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-27T18:32:45Z",
+            "last_commit": "2026-09-06T02:55:51Z",
             "open_issues": 0,
             "owner": "johannboehme",
             "repo": "footy-live",
@@ -3322,43 +3266,12 @@
             "id": 1168883139,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-03T02:37:16Z",
+            "last_commit": "2026-09-05T22:34:56Z",
             "open_issues": 0,
             "owner": "cmdlabtech",
             "repo": "Wondereye",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "StoryWalk",
-          "description": "GPS-tracked point-of-interest storytelling for tourism and running, with an Expo companion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Contextual tourism and running companion for Even Realities G2 — GPS-tracked POI storytelling",
-            "homepage": null,
-            "id": 1208153687,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-21T20:20:06Z",
-            "open_issues": 0,
-            "owner": "aleapc",
-            "repo": "storywalk-g2",
-            "stars": 2,
-            "topics": [
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "gps",
-              "overpass",
-              "smart-glasses",
-              "tourism",
-              "wearable-tech",
-              "wikipedia"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -3696,34 +3609,6 @@
             "repo": "G2BusTracker",
             "stars": 0,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Hunter",
-          "description": "Place discovery with pixel-art icons, an offline cache, and OSRM walking routes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Place discovery app for Even Realities G2 with pixel art icons, offline cache, OSRM walking routes",
-            "homepage": null,
-            "id": 1207891711,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-21T20:19:49Z",
-            "open_issues": 0,
-            "owner": "aleapc",
-            "repo": "hunter-g2",
-            "stars": 0,
-            "topics": [
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "smart-glasses",
-              "typescript",
-              "wearable-tech"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -4152,34 +4037,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EyeFit",
-          "description": "Eye-exercise app driven by IMU head tracking, with a scheduling companion app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Eye exercise app for Even Realities G2 glasses with IMU head tracking",
-            "homepage": null,
-            "id": 1207891677,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-21T20:19:52Z",
-            "open_issues": 0,
-            "owner": "aleapc",
-            "repo": "eyefit-g2",
-            "stars": 0,
-            "topics": [
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "smart-glasses",
-              "typescript",
-              "wearable-tech"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
         }
       ],
       "title": "Apps - Fitness and Health"
@@ -4505,34 +4362,6 @@
             "repo": "STT_G2_Demo",
             "stars": 0,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "speechcoach-g2",
-          "description": "Real-time speech-pacing coach for the G2 with an STT backend, a VU meter, and an animated pixel mascot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Speech pace coach for Even Realities G2 — real STT via backend, VU meter, pixel art mascot",
-            "homepage": null,
-            "id": 1207891763,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-04-21T20:19:55Z",
-            "open_issues": 0,
-            "owner": "aleapc",
-            "repo": "speechcoach-g2",
-            "stars": 0,
-            "topics": [
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "smart-glasses",
-              "typescript",
-              "wearable-tech"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6742,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:26:19.975Z",
+    "last_updated": "2026-09-06T13:39:00.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6754,7 +6583,7 @@
       "open_issues": 1,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 81,
+      "stars": 84,
       "topics": [
         "ar-glasses",
         "awesome",
