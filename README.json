@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T09:33:00Z",
-            "open_issues": 808,
+            "last_commit": "2026-09-08T14:02:23Z",
+            "open_issues": 803,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2336,
+            "stars": 2340,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -329,11 +329,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T18:32:40Z",
+            "last_commit": "2026-09-07T23:58:09Z",
             "open_issues": 13,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -354,7 +354,7 @@
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "glyph",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "even-realities",
               "even-realities-g2",
@@ -1183,7 +1183,7 @@
             "open_issues": 0,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1305,7 +1305,7 @@
             "id": 1329129218,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:22:54Z",
+            "last_commit": "2026-09-08T07:28:46Z",
             "open_issues": 1,
             "owner": "yonif8",
             "repo": "ffs-os",
@@ -3002,7 +3002,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-07T14:47:39Z",
+            "last_commit": "2026-09-08T10:36:27Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -5665,7 +5665,7 @@
             "id": 1226288788,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:25:12Z",
+            "last_commit": "2026-09-08T00:30:09Z",
             "open_issues": 11,
             "owner": "takashicompany",
             "repo": "headlenss",
@@ -6550,7 +6550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:48:05.261Z",
+    "last_updated": "2026-09-08T14:29:58.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6562,7 +6562,7 @@
       "open_issues": 1,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "ar-glasses",
         "awesome",
