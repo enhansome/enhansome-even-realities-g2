@@ -127,10 +127,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-31T14:43:43Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "nickustinov",
             "repo": "even-g2-notes",
-            "stars": 116,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T03:06:08Z",
-            "open_issues": 798,
+            "last_commit": "2026-09-10T09:43:01Z",
+            "open_issues": 797,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2343,
+            "stars": 2344,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -281,6 +281,27 @@
         },
         {
           "node_type": "item",
+          "title": "faceclaw",
+          "description": "Native desktop dashboard for driving the G2 display outside the WebView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Custom user interface for the Even Realities G2 smart glasses",
+            "homepage": null,
+            "id": 1222470891,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-09T21:47:26Z",
+            "open_issues": 12,
+            "owner": "jimrandomh",
+            "repo": "faceclaw",
+            "stars": 41,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "xg-glass-sdk",
           "description": "One API for camera, mic, display, and audio across the G2, Rokid, Meta Ray-Ban, Brilliant Labs Frame, RayNeo, and INMO, with a simulator.",
           "children": [],
@@ -314,27 +335,6 @@
               "swift-package-manager",
               "wearables"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "faceclaw",
-          "description": "Native desktop dashboard for driving the G2 display outside the WebView.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom user interface for the Even Realities G2 smart glasses",
-            "homepage": null,
-            "id": 1222470891,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-09T07:53:07Z",
-            "open_issues": 13,
-            "owner": "jimrandomh",
-            "repo": "faceclaw",
-            "stars": 38,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -1179,11 +1179,11 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T04:50:23Z",
+            "last_commit": "2026-09-09T18:35:12Z",
             "open_issues": 0,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1305,7 +1305,7 @@
             "id": 1329129218,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:30:27Z",
+            "last_commit": "2026-09-09T20:25:46Z",
             "open_issues": 0,
             "owner": "yonif8",
             "repo": "ffs-os",
@@ -1393,7 +1393,7 @@
             "id": 1340514338,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:16:44Z",
+            "last_commit": "2026-09-10T04:19:25Z",
             "open_issues": 0,
             "owner": "rayriffy",
             "repo": "even-g2-thai",
@@ -3002,7 +3002,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-09T13:24:28Z",
+            "last_commit": "2026-09-10T10:39:05Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -5676,6 +5676,27 @@
         },
         {
           "node_type": "item",
+          "title": "cos-glasses-server",
+          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted AI heads-up-display server for Even G2 smart glasses, powered by your local Claude Code CLI",
+            "homepage": null,
+            "id": 1262436708,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-09T17:29:33Z",
+            "open_issues": 0,
+            "owner": "ukaoma",
+            "repo": "cos-glasses-server",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "evenai-gemini-bridge",
           "description": "Rewrites the built-in Even-AI voice intents to Google Gemini, with request deduplication.",
           "children": [],
@@ -5748,27 +5769,6 @@
         },
         {
           "node_type": "item",
-          "title": "cos-glasses-server",
-          "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Self-hosted AI heads-up-display server for Even G2 smart glasses, powered by your local Claude Code CLI",
-            "homepage": null,
-            "id": 1262436708,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-04T14:11:33Z",
-            "open_issues": 0,
-            "owner": "ukaoma",
-            "repo": "cos-glasses-server",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "claude-hud",
           "description": "Voice-driven Claude Code terminal HUD for the G2.",
           "children": [],
@@ -5808,6 +5808,35 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Work Bench",
+          "description": "Sends hands-free requests and approvals to Claude Code or Codex on a paired computer, using G2 audio and R1 ring gestures over native BLE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first wearable work agent using Even G2 audio and R1 gestures to delegate work to Claude Code and Codex terminals on your computer.",
+            "homepage": null,
+            "id": 1312282686,
+            "language": "Dart",
+            "license": "MIT",
+            "last_commit": "2026-09-08T19:58:35Z",
+            "open_issues": 0,
+            "owner": "aaronrau",
+            "repo": "workbench",
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "bluetooth-low-energy",
+              "claude-code",
+              "codex",
+              "even-realities",
+              "flutter",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -5901,6 +5930,38 @@
         },
         {
           "node_type": "item",
+          "title": "even-terminal-pi",
+          "description": "Runs the pi coding agent on the G2 as an Even Terminal provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A pi (@earendil-works/pi-coding-agent) provider for @evenrealities/even-terminal — run the pi coding agent on Even Realities G2 smart glasses + R1 ring.",
+            "homepage": null,
+            "id": 1271301719,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-16T14:34:38Z",
+            "open_issues": 1,
+            "owner": "lallenlowe",
+            "repo": "even-terminal-pi",
+            "stars": 2,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "coding-agent",
+              "even-realities",
+              "g2",
+              "llm",
+              "pi",
+              "smart-glasses",
+              "tailscale",
+              "wearables"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "EvenCode",
           "description": "Voice-driven Claude Code conversations on the G2, including scrolling results and answering interactive prompts.",
           "children": [],
@@ -5940,35 +6001,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Work Bench",
-          "description": "Sends hands-free requests and approvals to Claude Code or Codex on a paired computer, using G2 audio and R1 ring gestures over native BLE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Local-first wearable work agent using Even G2 audio and R1 gestures to delegate work to Claude Code and Codex terminals on your computer.",
-            "homepage": null,
-            "id": 1312282686,
-            "language": "Dart",
-            "license": "MIT",
-            "last_commit": "2026-09-08T19:58:35Z",
-            "open_issues": 0,
-            "owner": "aaronrau",
-            "repo": "workbench",
-            "stars": 2,
-            "topics": [
-              "ai-agents",
-              "bluetooth-low-energy",
-              "claude-code",
-              "codex",
-              "even-realities",
-              "flutter",
-              "wearable"
-            ]
-          },
-          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -6079,38 +6111,6 @@
             "repo": "hermes-evenhub-bridge",
             "stars": 1,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-terminal-pi",
-          "description": "Runs the pi coding agent on the G2 as an Even Terminal provider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A pi (@earendil-works/pi-coding-agent) provider for @evenrealities/even-terminal — run the pi coding agent on Even Realities G2 smart glasses + R1 ring.",
-            "homepage": null,
-            "id": 1271301719,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-16T14:34:38Z",
-            "open_issues": 1,
-            "owner": "lallenlowe",
-            "repo": "even-terminal-pi",
-            "stars": 1,
-            "topics": [
-              "ai",
-              "ai-agent",
-              "coding-agent",
-              "even-realities",
-              "g2",
-              "llm",
-              "pi",
-              "smart-glasses",
-              "tailscale",
-              "wearables"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6550,7 +6550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:30:37.652Z",
+    "last_updated": "2026-09-10T14:22:36.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6562,7 +6562,7 @@
       "open_issues": 2,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 90,
+      "stars": 92,
       "topics": [
         "ar-glasses",
         "awesome",
