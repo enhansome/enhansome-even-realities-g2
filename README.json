@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T09:43:01Z",
-            "open_issues": 797,
+            "last_commit": "2026-09-11T10:47:26Z",
+            "open_issues": 791,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2344,
+            "stars": 2345,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -291,11 +291,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T21:47:26Z",
+            "last_commit": "2026-09-11T10:08:28Z",
             "open_issues": 12,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1179,7 +1179,7 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T18:35:12Z",
+            "last_commit": "2026-09-11T06:58:46Z",
             "open_issues": 0,
             "owner": "jimrandomh",
             "repo": "g2flash",
@@ -1204,7 +1204,7 @@
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1765,6 +1765,27 @@
         },
         {
           "node_type": "item",
+          "title": "flipctl",
+          "description": "Mirrors a Flipper Zero on the G2 HUD with R1 ring control and a one-tap launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mirror your Flipper Zero on the Even Realities G2 HUD and control it with the R1 ring. One-tap launcher for /ext/favorites.txt entries (Sub-GHz, Infrared, NFC, RFID, iButton, FAPs).",
+            "homepage": null,
+            "id": 1229442640,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2026-07-19T18:54:13Z",
+            "open_issues": 0,
+            "owner": "KuriGohan-Kamehameha",
+            "repo": "flipctl",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "G2-Gmail",
           "description": "Gmail reader for the G2.",
           "children": [],
@@ -2131,27 +2152,6 @@
             "open_issues": 0,
             "owner": "KamalQ",
             "repo": "SolarWorldClock",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "flipctl",
-          "description": "Mirrors a Flipper Zero on the G2 HUD with R1 ring control and a one-tap launcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mirror your Flipper Zero on the Even Realities G2 HUD and control it with the R1 ring. One-tap launcher for /ext/favorites.txt entries (Sub-GHz, Infrared, NFC, RFID, iButton, FAPs).",
-            "homepage": null,
-            "id": 1229442640,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2026-07-19T18:54:13Z",
-            "open_issues": 0,
-            "owner": "KuriGohan-Kamehameha",
-            "repo": "flipctl",
             "stars": 1,
             "topics": []
           },
@@ -3002,7 +3002,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-10T10:39:05Z",
+            "last_commit": "2026-09-11T13:14:30Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4635,7 +4635,7 @@
             "id": 1238066145,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T03:31:05Z",
+            "last_commit": "2026-09-11T04:38:30Z",
             "open_issues": 0,
             "owner": "tntpsu",
             "repo": "CardPack",
@@ -5410,8 +5410,8 @@
             "id": 1171654603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T04:26:23Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-10T22:10:15Z",
+            "open_issues": 4,
             "owner": "wmoto-ai",
             "repo": "cc-g2",
             "stars": 33,
@@ -5507,7 +5507,7 @@
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "G2CC",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "android",
               "bluetooth-le",
@@ -5686,7 +5686,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:29:33Z",
+            "last_commit": "2026-09-11T02:11:21Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -6550,7 +6550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:22:36.227Z",
+    "last_updated": "2026-09-11T14:23:05.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6562,7 +6562,7 @@
       "open_issues": 2,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 92,
+      "stars": 93,
       "topics": [
         "ar-glasses",
         "awesome",
