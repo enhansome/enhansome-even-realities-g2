@@ -37,7 +37,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-20T09:49:12Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "even-realities",
             "repo": "everything-evenhub",
             "stars": 74,
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T05:06:47Z",
-            "open_issues": 787,
+            "last_commit": "2026-09-13T07:03:14Z",
+            "open_issues": 786,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2344,
+            "stars": 2345,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -291,11 +291,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T08:26:24Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-13T06:50:40Z",
+            "open_issues": 13,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 44,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -316,7 +316,7 @@
             "open_issues": 15,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "ai-glasses",
               "android",
@@ -368,6 +368,27 @@
             ]
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mentra-Bluetooth-SDK-Starter-Kit",
+          "description": "Apache-2.0 native BLE SDK starter kit for connecting an Android, iOS, or React Native app to smart glasses, including the G2, powered by MentraOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Connect to smart glasses over BLE from an Android/iOS/RN app, powered by MentraOS.",
+            "homepage": "https://mentraglass.com/os",
+            "id": 1219525508,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-13T02:14:59Z",
+            "open_issues": 16,
+            "owner": "Mentra-Community",
+            "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
+            "stars": 15,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T14:18:45.432Z"
         },
         {
           "node_type": "item",
@@ -698,6 +719,27 @@
             "topics": []
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mentra-bluetooth-sdk-ios",
+          "description": "Swift Package Manager distribution of the Mentra Bluetooth SDK for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Swift Package Manager distribution for the Mentra Bluetooth SDK on iOS",
+            "homepage": null,
+            "id": 1252976697,
+            "language": "Swift",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-13T00:55:06Z",
+            "open_issues": 0,
+            "owner": "Mentra-Community",
+            "repo": "mentra-bluetooth-sdk-ios",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T14:18:45.432Z"
         },
         {
           "node_type": "item",
@@ -1110,6 +1152,27 @@
             "topics": []
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "even-realities-app-template",
+          "description": "MIT-licensed native SwiftUI baseline app for the G2 and R1 ring, with direct BLE, LC3 audio, microphone capture, and on-device speech-to-text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A iOS native application that interacts with the even devices directly to use has a baseline for development. ",
+            "homepage": null,
+            "id": 1311341373,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-07-24T22:18:42Z",
+            "open_issues": 0,
+            "owner": "r4stl1n",
+            "repo": "even-realities-app-template",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T14:18:45.432Z"
         }
       ],
       "title": "SDK, Tooling, and Simulators"
@@ -1179,11 +1242,11 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T06:58:46Z",
+            "last_commit": "2026-09-13T01:40:17Z",
             "open_issues": 1,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1200,7 +1263,7 @@
             "id": 1171904371,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:53:11Z",
+            "last_commit": "2026-09-13T13:11:03Z",
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
@@ -1295,6 +1358,27 @@
         },
         {
           "node_type": "item",
+          "title": "damage-wm",
+          "description": "From-scratch window manager and compositor for the G2 on custom firmware, batching per-frame screen damage into a single BLE message, with a measured latency curve replacing the modeled numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A framebuffer window manager and compositor for the Even Realities G2, on custom firmware. Research, shell design, and the build gate — before implementation.",
+            "homepage": null,
+            "id": 1338724476,
+            "language": "Kotlin",
+            "license": null,
+            "last_commit": "2026-09-12T23:15:54Z",
+            "open_issues": 0,
+            "owner": "expectbugs",
+            "repo": "damage-wm",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T14:18:45.432Z"
+        },
+        {
+          "node_type": "item",
           "title": "ffs-os",
           "description": "Clean-room Swift BLE driver and glasses OS for the G2, independent of the official stack.",
           "children": [],
@@ -1305,7 +1389,7 @@
             "id": 1329129218,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:40:30Z",
+            "last_commit": "2026-09-12T15:03:56Z",
             "open_issues": 0,
             "owner": "yonif8",
             "repo": "ffs-os",
@@ -1405,6 +1489,27 @@
             ]
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "g2fast",
+          "description": "Unofficial firmware mod for the G2 that fixes its slow image handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An unofficial firmware mod for the Even Realities G2 that fixes its slow image handling",
+            "homepage": null,
+            "id": 1283468924,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-29T00:43:44Z",
+            "open_issues": 0,
+            "owner": "jimrandomh",
+            "repo": "g2fast",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T14:18:45.432Z"
         }
       ],
       "title": "Protocol and Reverse Engineering"
@@ -1500,7 +1605,7 @@
             "id": 1157510583,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-06-12T06:15:42Z",
+            "last_commit": "2026-09-13T07:41:02Z",
             "open_issues": 1,
             "owner": "chortya",
             "repo": "epub-reader-g2",
@@ -2159,6 +2264,27 @@
         },
         {
           "node_type": "item",
+          "title": "whisprompt",
+          "description": "Offline Android teleprompter that drives scripted text onto the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ofline teleprompter for Even Realities G2 smart glasses (Android)",
+            "homepage": null,
+            "id": 1301995720,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-07-24T16:15:07Z",
+            "open_issues": 0,
+            "owner": "ewfefrs",
+            "repo": "whisprompt",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even-G2-Sentinel-Ops",
           "description": "Fully offline IT security toolkit for the G2 and R1 ring with eight operator tools.",
           "children": [],
@@ -2719,27 +2845,6 @@
         },
         {
           "node_type": "item",
-          "title": "whisprompt",
-          "description": "Offline Android teleprompter that drives scripted text onto the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ofline teleprompter for Even Realities G2 smart glasses (Android)",
-            "homepage": null,
-            "id": 1301995720,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-07-24T16:15:07Z",
-            "open_issues": 0,
-            "owner": "ewfefrs",
-            "repo": "whisprompt",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "notion-ultimate-brain-even-g2",
           "description": "Ultimate Brain Notion template surfaced as a G2 interface.",
           "children": [],
@@ -3002,7 +3107,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-12T10:07:40Z",
+            "last_commit": "2026-09-13T13:40:23Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -5686,7 +5791,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:30:33Z",
+            "last_commit": "2026-09-13T02:10:54Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -6369,7 +6474,7 @@
             "id": 1227483916,
             "language": "C",
             "license": null,
-            "last_commit": "2026-08-03T14:06:52Z",
+            "last_commit": "2026-09-13T03:55:48Z",
             "open_issues": 0,
             "owner": "JohnRThomas",
             "repo": "even_realities_decomp",
@@ -6390,7 +6495,7 @@
             "id": 1342632124,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T12:43:07Z",
+            "last_commit": "2026-09-13T14:18:44Z",
             "open_issues": 0,
             "owner": "LabbeSimon",
             "repo": "G1_Extended",
@@ -6550,7 +6655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:34:35.407Z",
+    "last_updated": "2026-09-13T14:18:45.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6558,11 +6663,11 @@
       "id": 1281490985,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-12T03:33:46Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-12T14:55:19Z",
+      "open_issues": 2,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 94,
+      "stars": 96,
       "topics": [
         "ar-glasses",
         "awesome",
@@ -6575,7 +6680,7 @@
         "smart-glasses"
       ]
     },
-    "original_repository_sha": "5577df4c5469006bd6c1fc3447fcfe99bef326c1",
+    "original_repository_sha": "f29ed5e5a70166f4fae7fb23becb40f3bb78ee9a",
     "enhanced_repository": "enhansome/enhansome-even-realities-g2",
     "enhanced_repository_description": null,
     "title": "Awesome Even Realities G2 with stars"
