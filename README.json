@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,8 +208,8 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:19:49Z",
-            "open_issues": 789,
+            "last_commit": "2026-09-16T14:53:55Z",
+            "open_issues": 788,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
             "stars": 2349,
@@ -295,7 +295,7 @@
             "open_issues": 15,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 61,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,8 +381,8 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:20:30Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-16T02:16:48Z",
+            "open_issues": 28,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
             "stars": 15,
@@ -732,7 +732,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T13:23:38Z",
+            "last_commit": "2026-09-16T00:35:06Z",
             "open_issues": 0,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1222,7 +1222,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-13T01:40:17Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "jimrandomh",
             "repo": "g2flash",
             "stars": 31,
@@ -1263,7 +1263,7 @@
             "id": 1332408956,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T16:37:15Z",
+            "last_commit": "2026-09-15T22:08:06Z",
             "open_issues": 0,
             "owner": "AM-Guru",
             "repo": "evenRealities-webflasher",
@@ -1347,7 +1347,7 @@
             "id": 1338724476,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-09-15T09:52:34Z",
+            "last_commit": "2026-09-16T04:36:12Z",
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "damage-wm",
@@ -1368,7 +1368,7 @@
             "id": 1329129218,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T06:51:31Z",
+            "last_commit": "2026-09-16T11:14:36Z",
             "open_issues": 0,
             "owner": "yonif8",
             "repo": "ffs-os",
@@ -1807,6 +1807,35 @@
         },
         {
           "node_type": "item",
+          "title": "Pulse",
+          "description": "Multi-card personal dashboard with calendar, tasks, weather, and GitHub activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-card dashboard for Even Realities G2 smart glasses — calendar, tasks, weather, GitHub PRs/CI, sports, Duck Ops business status, and more.",
+            "homepage": null,
+            "id": 1220973178,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-12T14:57:22Z",
+            "open_issues": 0,
+            "owner": "tntpsu",
+            "repo": "Pulse",
+            "stars": 2,
+            "topics": [
+              "dashboard",
+              "even-g2",
+              "even-realities",
+              "productivity",
+              "smart-glasses",
+              "typescript",
+              "vite"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "EvenAware",
           "description": "Real-time notification hub aggregating alerts from multiple sources onto the G2.",
           "children": [],
@@ -2047,35 +2076,6 @@
         },
         {
           "node_type": "item",
-          "title": "Pulse",
-          "description": "Multi-card personal dashboard with calendar, tasks, weather, and GitHub activity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Multi-card dashboard for Even Realities G2 smart glasses — calendar, tasks, weather, GitHub PRs/CI, sports, Duck Ops business status, and more.",
-            "homepage": null,
-            "id": 1220973178,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-08-12T14:57:22Z",
-            "open_issues": 0,
-            "owner": "tntpsu",
-            "repo": "Pulse",
-            "stars": 1,
-            "topics": [
-              "dashboard",
-              "even-g2",
-              "even-realities",
-              "productivity",
-              "smart-glasses",
-              "typescript",
-              "vite"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "g2sidian",
           "description": "View and voice-capture Obsidian notes on the G2 through a self-hosted Tailscale backend.",
           "children": [],
@@ -2154,6 +2154,27 @@
               "wearable",
               "wearable-tech"
             ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "even-menu",
+          "description": "App launcher that manages and displays Even Hub apps by priority, configured from the phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "one QR code for all Even Realities application",
+            "homepage": null,
+            "id": 1189425754,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-03-23T10:24:27Z",
+            "open_issues": 0,
+            "owner": "ivlaevski",
+            "repo": "even-menu",
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -2360,7 +2381,7 @@
             "license": "MIT",
             "last_commit": "2026-06-13T15:32:13Z",
             "open_issues": 0,
-            "owner": "luqezr",
+            "owner": "kvx17",
             "repo": "Obsidian-on-G2",
             "stars": 1,
             "topics": []
@@ -2544,27 +2565,6 @@
             "open_issues": 0,
             "owner": "narfman0",
             "repo": "even-matrix",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-menu",
-          "description": "App launcher that manages and displays Even Hub apps by priority, configured from the phone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "one QR code for all Even Realities application",
-            "homepage": null,
-            "id": 1189425754,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-03-23T10:24:27Z",
-            "open_issues": 0,
-            "owner": "ivlaevski",
-            "repo": "even-menu",
             "stars": 0,
             "topics": []
           },
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-15T11:06:29Z",
+            "last_commit": "2026-09-16T13:08:40Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4109,27 +4109,6 @@
         },
         {
           "node_type": "item",
-          "title": "evenhub-news-ticker",
-          "description": "Live financial news ticker for the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even G2 smart glasses live financial news ticker",
-            "homepage": null,
-            "id": 1233515614,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-05-11T17:48:58Z",
-            "open_issues": 0,
-            "owner": "valve4",
-            "repo": "evenhub-news-ticker",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "Even Balance",
           "description": "Personal finance HUD tracking balances and spending categories on the G2.",
           "children": [],
@@ -4144,6 +4123,27 @@
             "open_issues": 0,
             "owner": "Morfeussession2",
             "repo": "EVEN-G2-Balance",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "evenhub-news-ticker",
+          "description": "Live financial news ticker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even G2 smart glasses live financial news ticker",
+            "homepage": null,
+            "id": 1233515614,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-05-11T17:48:58Z",
+            "open_issues": 0,
+            "owner": "valve4",
+            "repo": "evenhub-news-ticker",
             "stars": 1,
             "topics": []
           },
@@ -5452,7 +5452,7 @@
             "id": 1171654603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T22:10:15Z",
+            "last_commit": "2026-09-15T18:05:29Z",
             "open_issues": 4,
             "owner": "wmoto-ai",
             "repo": "cc-g2",
@@ -5507,7 +5507,7 @@
             "open_issues": 1,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "ai-assistant",
               "anthropic",
@@ -5621,7 +5621,7 @@
             "open_issues": 0,
             "owner": "MrScautHD",
             "repo": "Even-Voice-AI",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5707,7 +5707,7 @@
             "id": 1226288788,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T00:04:17Z",
+            "last_commit": "2026-09-16T05:13:17Z",
             "open_issues": 11,
             "owner": "takashicompany",
             "repo": "headlenss",
@@ -5749,7 +5749,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T12:17:37Z",
+            "last_commit": "2026-09-16T03:27:50Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -6592,7 +6592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:57:21.943Z",
+    "last_updated": "2026-09-16T14:54:03.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6604,7 +6604,7 @@
       "open_issues": 2,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 100,
+      "stars": 102,
       "topics": [
         "ar-glasses",
         "awesome",
