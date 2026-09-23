@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "even-realities",
             "repo": "EvenDemoApp",
-            "stars": 476,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T14:45:38Z",
-            "open_issues": 800,
+            "last_commit": "2026-09-23T12:11:56Z",
+            "open_issues": 802,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2362,
+            "stars": 2363,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -291,11 +291,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T01:33:43Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-23T10:37:35Z",
+            "open_issues": 20,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 66,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T06:10:37Z",
+            "last_commit": "2026-09-23T12:40:49Z",
             "open_issues": 28,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -617,6 +617,27 @@
         },
         {
           "node_type": "item",
+          "title": "even-notifications",
+          "description": "Draws simulated notification popup overlays so you can design around them without a live phone notification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Draw a simulated notification popup overlay on Even Realities G2 smart glasses apps.",
+            "homepage": null,
+            "id": 1297498473,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-13T23:37:23Z",
+            "open_issues": 0,
+            "owner": "ryanadiaz",
+            "repo": "even-notifications",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even (CLI)",
           "description": "Swift command-line tool for sending text to the G2 over Bluetooth.",
           "children": [],
@@ -732,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T04:26:42Z",
+            "last_commit": "2026-09-23T11:14:26Z",
             "open_issues": 0,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -868,27 +889,6 @@
             "open_issues": 0,
             "owner": "fabioglimb",
             "repo": "even-demo",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-notifications",
-          "description": "Draws simulated notification popup overlays so you can design around them without a live phone notification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Draw a simulated notification popup overlay on Even Realities G2 smart glasses apps.",
-            "homepage": null,
-            "id": 1297498473,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-13T23:37:23Z",
-            "open_issues": 0,
-            "owner": "ryanadiaz",
-            "repo": "even-notifications",
             "stars": 1,
             "topics": []
           },
@@ -1221,11 +1221,11 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T02:04:28Z",
+            "last_commit": "2026-09-23T09:58:13Z",
             "open_issues": 3,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -2243,6 +2243,27 @@
         },
         {
           "node_type": "item",
+          "title": "NOSnieuws_G2",
+          "description": "Unofficial NOS (Dutch public broadcaster) news reader for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unofficial NOS news reader for the Even Realities G2 smart glasses (Even Hub app). Not affiliated with, endorsed, or supported by NOS.",
+            "homepage": null,
+            "id": 1287165580,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-07-03T04:25:22Z",
+            "open_issues": 0,
+            "owner": "SachaEpskamp",
+            "repo": "NOSnieuws_G2",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "SolarWorldClock",
           "description": "World clock for the G2 for tracking time across multiple zones.",
           "children": [],
@@ -2740,27 +2761,6 @@
         },
         {
           "node_type": "item",
-          "title": "NOSnieuws_G2",
-          "description": "Unofficial NOS (Dutch public broadcaster) news reader for the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Unofficial NOS news reader for the Even Realities G2 smart glasses (Even Hub app). Not affiliated with, endorsed, or supported by NOS.",
-            "homepage": null,
-            "id": 1287165580,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-07-03T04:25:22Z",
-            "open_issues": 0,
-            "owner": "SachaEpskamp",
-            "repo": "NOSnieuws_G2",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "even-simple-calendar",
           "description": "Hands-free month-view calendar navigated entirely with the R1 ring.",
           "children": [],
@@ -2939,7 +2939,7 @@
             "id": 1230580872,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-20T06:25:45Z",
+            "last_commit": "2026-09-23T12:50:32Z",
             "open_issues": 0,
             "owner": "r-tkbyc",
             "repo": "even-my-news-hub",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-22T14:20:08Z",
+            "last_commit": "2026-09-23T14:41:41Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4677,7 +4677,7 @@
             "id": 1238066145,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:02:06Z",
+            "last_commit": "2026-09-23T03:59:43Z",
             "open_issues": 0,
             "owner": "tntpsu",
             "repo": "CardPack",
@@ -5082,7 +5082,7 @@
             "id": 1326571335,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-11T09:45:57Z",
+            "last_commit": "2026-09-23T14:25:07Z",
             "open_issues": 0,
             "owner": "r-tkbyc",
             "repo": "even-cube-net",
@@ -5769,6 +5769,34 @@
         },
         {
           "node_type": "item",
+          "title": "even-better",
+          "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mirror your live herdr terminal agent sessions (Claude Code / Codex) to Even Realities G2 glasses — even-terminal protocol compatible",
+            "homepage": null,
+            "id": 1290092447,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-15T12:18:17Z",
+            "open_issues": 2,
+            "owner": "pawaca",
+            "repo": "even-better",
+            "stars": 4,
+            "topics": [
+              "claude-code",
+              "even-realities",
+              "herdr",
+              "smart-glasses",
+              "sse",
+              "terminal"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "cos-glasses-server",
           "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
           "children": [],
@@ -5779,7 +5807,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:27:22Z",
+            "last_commit": "2026-09-23T13:11:18Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5838,34 +5866,6 @@
             "repo": "evenai-gemini-bridge",
             "stars": 3,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-better",
-          "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mirror your live herdr terminal agent sessions (Claude Code / Codex) to Even Realities G2 glasses — even-terminal protocol compatible",
-            "homepage": null,
-            "id": 1290092447,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-15T12:18:17Z",
-            "open_issues": 2,
-            "owner": "pawaca",
-            "repo": "even-better",
-            "stars": 3,
-            "topics": [
-              "claude-code",
-              "even-realities",
-              "herdr",
-              "smart-glasses",
-              "sse",
-              "terminal"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6394,7 +6394,7 @@
             "open_issues": 0,
             "owner": "galfaroth",
             "repo": "awesome-even-realities-g1",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -6592,7 +6592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:47:18.823Z",
+    "last_updated": "2026-09-23T14:57:59.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6604,7 +6604,7 @@
       "open_issues": 3,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 110,
+      "stars": 111,
       "topics": [
         "ar-glasses",
         "awesome",
