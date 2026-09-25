@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "even-realities",
             "repo": "evenhub-templates",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -130,7 +130,7 @@
             "open_issues": 2,
             "owner": "nickustinov",
             "repo": "even-g2-notes",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T14:59:08Z",
-            "open_issues": 796,
+            "last_commit": "2026-09-25T14:44:10Z",
+            "open_issues": 807,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2365,
+            "stars": 2369,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -291,11 +291,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T06:58:01Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-25T09:09:08Z",
+            "open_issues": 22,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T09:50:56Z",
+            "last_commit": "2026-09-25T02:29:13Z",
             "open_issues": 28,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -499,6 +499,27 @@
             "open_issues": 1,
             "owner": "Commute773",
             "repo": "droidbridge",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "takemotions-media-bridge",
+          "description": "Android helper exposing now-playing media and R1 ring playback controls to glasses apps over localhost.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tiny single-purpose Android helper that exposes your phone's now-playing media and R1 ring playback controls to TakeMotions glasses apps (Even Realities G2) over localhost — and nothing else.",
+            "homepage": "https://x.com/r_tkbyc",
+            "id": 1284044194,
+            "language": "Kotlin",
+            "license": "MIT",
+            "last_commit": "2026-08-16T13:09:46Z",
+            "open_issues": 0,
+            "owner": "r-tkbyc",
+            "repo": "takemotions-media-bridge",
             "stars": 3,
             "topics": []
           },
@@ -680,27 +701,6 @@
         },
         {
           "node_type": "item",
-          "title": "takemotions-media-bridge",
-          "description": "Android helper exposing now-playing media and R1 ring playback controls to glasses apps over localhost.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tiny single-purpose Android helper that exposes your phone's now-playing media and R1 ring playback controls to TakeMotions glasses apps (Even Realities G2) over localhost — and nothing else.",
-            "homepage": "https://x.com/r_tkbyc",
-            "id": 1284044194,
-            "language": "Kotlin",
-            "license": "MIT",
-            "last_commit": "2026-08-16T13:09:46Z",
-            "open_issues": 0,
-            "owner": "r-tkbyc",
-            "repo": "takemotions-media-bridge",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "evenhub-dev-harness",
           "description": "Browser development harness for Even Hub widgets with mocked GPS, IMU, camera, and album inputs the official simulator lacks.",
           "children": [],
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T08:19:05Z",
+            "last_commit": "2026-09-25T02:13:39Z",
             "open_issues": 0,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1175,7 +1175,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "evenrealities",
               "g2a",
@@ -1221,7 +1221,7 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T09:58:13Z",
+            "last_commit": "2026-09-25T09:09:04Z",
             "open_issues": 3,
             "owner": "jimrandomh",
             "repo": "g2flash",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-24T13:13:04Z",
+            "last_commit": "2026-09-25T11:11:05Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4870,8 +4870,8 @@
             "id": 1234505428,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T10:17:00Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-25T13:03:01Z",
+            "open_issues": 6,
             "owner": "Aiacos",
             "repo": "EvenFoundryVTT",
             "stars": 0,
@@ -6252,7 +6252,7 @@
             "id": 1164517458,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-24T14:24:58Z",
+            "last_commit": "2026-09-24T15:02:35Z",
             "open_issues": 0,
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
@@ -6592,7 +6592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:59:59.034Z",
+    "last_updated": "2026-09-25T15:12:16.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6604,7 +6604,7 @@
       "open_issues": 3,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 112,
+      "stars": 115,
       "topics": [
         "ar-glasses",
         "awesome",
