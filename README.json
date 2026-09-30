@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T16:24:35Z",
-            "open_issues": 801,
+            "last_commit": "2026-09-30T12:22:18Z",
+            "open_issues": 803,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2371,
+            "stars": 2374,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -291,11 +291,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T09:34:12Z",
+            "last_commit": "2026-09-30T03:34:30Z",
             "open_issues": 16,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -316,7 +316,7 @@
             "open_issues": 18,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "ai-glasses",
               "android",
@@ -448,7 +448,7 @@
             "open_issues": 2,
             "owner": "jimrandomh",
             "repo": "g2mirror",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T16:04:10Z",
+            "last_commit": "2026-09-30T11:55:37Z",
             "open_issues": 0,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1175,7 +1175,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "evenrealities",
               "g2a",
@@ -1221,11 +1221,11 @@
             "id": 1278331273,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T21:12:44Z",
+            "last_commit": "2026-09-30T03:34:15Z",
             "open_issues": 3,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-29T11:06:30Z",
+            "last_commit": "2026-09-30T14:52:01Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3645,7 +3645,7 @@
             "id": 1305678119,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T08:09:14Z",
+            "last_commit": "2026-09-30T12:30:49Z",
             "open_issues": 0,
             "owner": "jamie950315",
             "repo": "G2BusTracker",
@@ -5210,6 +5210,37 @@
         },
         {
           "node_type": "item",
+          "title": "lyrics-glow",
+          "description": "Time-synced karaoke lyrics on the G2 display, backed by LRCLIB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Karaoke-through-your-glasses for Even Realities G2 — time-synced lyrics on the 576×288 display via LRCLIB. Three-line karaoke window advanced by a local clock.",
+            "homepage": null,
+            "id": 1220970764,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-05-06T04:14:29Z",
+            "open_issues": 0,
+            "owner": "tntpsu",
+            "repo": "lyrics-glow",
+            "stars": 1,
+            "topics": [
+              "even-g2",
+              "even-realities",
+              "karaoke",
+              "lrclib",
+              "lyrics",
+              "music",
+              "smart-glasses",
+              "typescript",
+              "vite"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even-G2-Guitar-Tuner",
           "description": "Guitar tuner that shows detected pitch on the glasses.",
           "children": [],
@@ -5268,37 +5299,6 @@
             "repo": "orpheus-g2",
             "stars": 1,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lyrics-glow",
-          "description": "Time-synced karaoke lyrics on the G2 display, backed by LRCLIB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Karaoke-through-your-glasses for Even Realities G2 — time-synced lyrics on the 576×288 display via LRCLIB. Three-line karaoke window advanced by a local clock.",
-            "homepage": null,
-            "id": 1220970764,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-05-06T04:14:29Z",
-            "open_issues": 0,
-            "owner": "tntpsu",
-            "repo": "lyrics-glow",
-            "stars": 0,
-            "topics": [
-              "even-g2",
-              "even-realities",
-              "karaoke",
-              "lrclib",
-              "lyrics",
-              "music",
-              "smart-glasses",
-              "typescript",
-              "vite"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -5442,6 +5442,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "claude-code-g2",
+          "description": "Run Claude Code hands-free from the G2 via voice and temple taps, billed against a Claude subscription.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run Claude Code from your Even Realities G2 AR glasses. Voice-first, hands-free, billed against your Claude Max subscription.",
+            "homepage": "https://github.com/sam-siavoshian/claude-code-g2",
+            "id": 1204374230,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-04-11T00:31:17Z",
+            "open_issues": 1,
+            "owner": "sam-siavoshian",
+            "repo": "claude-code-g2",
+            "stars": 34,
+            "topics": [
+              "ai-assistant",
+              "anthropic",
+              "ar",
+              "ar-glasses",
+              "augmented-reality",
+              "bun",
+              "claude",
+              "claude-code",
+              "cli",
+              "cloudflare-tunnel",
+              "even-realities",
+              "g2-glasses",
+              "hands-free",
+              "hud",
+              "smart-glasses",
+              "speech-to-text",
+              "typescript",
+              "voice-assistant",
+              "wearable",
+              "whisper"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenVide",
           "description": "Remote control for Claude Code and Codex sessions with a G2 WebView client over an SSH and HTTPS bridge.",
           "children": [],
@@ -5466,48 +5508,6 @@
               "gemini",
               "ios",
               "ssh"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "claude-code-g2",
-          "description": "Run Claude Code hands-free from the G2 via voice and temple taps, billed against a Claude subscription.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Run Claude Code from your Even Realities G2 AR glasses. Voice-first, hands-free, billed against your Claude Max subscription.",
-            "homepage": "https://github.com/sam-siavoshian/claude-code-g2",
-            "id": 1204374230,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-04-11T00:31:17Z",
-            "open_issues": 1,
-            "owner": "sam-siavoshian",
-            "repo": "claude-code-g2",
-            "stars": 33,
-            "topics": [
-              "ai-assistant",
-              "anthropic",
-              "ar",
-              "ar-glasses",
-              "augmented-reality",
-              "bun",
-              "claude",
-              "claude-code",
-              "cli",
-              "cloudflare-tunnel",
-              "even-realities",
-              "g2-glasses",
-              "hands-free",
-              "hud",
-              "smart-glasses",
-              "speech-to-text",
-              "typescript",
-              "voice-assistant",
-              "wearable",
-              "whisper"
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5807,7 +5807,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T04:03:53Z",
+            "last_commit": "2026-09-30T00:31:39Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -6592,7 +6592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:28:53.425Z",
+    "last_updated": "2026-09-30T16:23:14.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6601,7 +6601,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-12T14:55:19Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
       "stars": 120,
