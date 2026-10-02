@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:26:52Z",
-            "open_issues": 807,
+            "last_commit": "2026-10-02T15:22:35Z",
+            "open_issues": 808,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2375,
+            "stars": 2376,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -291,11 +291,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T05:16:02Z",
+            "last_commit": "2026-10-02T01:32:04Z",
             "open_issues": 17,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 77,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T00:30:13Z",
+            "last_commit": "2026-10-02T15:50:58Z",
             "open_issues": 28,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:32:34Z",
+            "last_commit": "2026-10-02T15:21:09Z",
             "open_issues": 0,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1204,7 +1204,7 @@
             "open_issues": 1,
             "owner": "Commute773",
             "repo": "g2-kit-unofficial",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 3,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 37,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1242,7 +1242,7 @@
             "id": 1171904371,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-29T10:25:04Z",
+            "last_commit": "2026-10-01T21:39:29Z",
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-01T11:22:45Z",
+            "last_commit": "2026-10-02T16:06:16Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -5807,7 +5807,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:31:39Z",
+            "last_commit": "2026-10-02T15:40:00Z",
             "open_issues": 0,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5955,7 +5955,7 @@
             "id": 1312282686,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-28T17:35:55Z",
+            "last_commit": "2026-10-02T15:58:43Z",
             "open_issues": 0,
             "owner": "aaronrau",
             "repo": "workbench",
@@ -6592,7 +6592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:00:03.555Z",
+    "last_updated": "2026-10-02T16:14:40.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6604,7 +6604,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 121,
+      "stars": 120,
       "topics": [
         "ar-glasses",
         "awesome",
