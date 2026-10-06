@@ -43,10 +43,10 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 
 ## SDK, Tooling, and Simulators
 
-* [MentraOS](https://github.com/Mentra-Community/MentraOS) ⭐ 2,374 | 🐛 811 | 🌐 TypeScript | 📅 2026-10-06 - Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.
+* [MentraOS](https://github.com/Mentra-Community/MentraOS) ⭐ 2,375 | 🐛 810 | 🌐 TypeScript | 📅 2026-10-06 - Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.
 * [even-toolkit](https://github.com/fabioglimb/even-toolkit) ⭐ 96 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-06 - Shared SDK utilities: design system, web components, pixel-art icons, an STT module, and pixel-accurate G2 text measurement.
 * [even-dev](https://github.com/BxNxM/even-dev) ⭐ 86 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-23 - Even Hub simulator and multi-app test environment for building and testing G2 apps locally.
-* [faceclaw](https://github.com/jimrandomh/faceclaw) ⭐ 77 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-06 - Native desktop dashboard for driving the G2 display outside the WebView.
+* [faceclaw](https://github.com/jimrandomh/faceclaw) ⭐ 78 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-06 - Native desktop dashboard for driving the G2 display outside the WebView.
 * [xg-glass-sdk](https://github.com/hkust-spark/xg-glass-sdk) ⭐ 45 | 🐛 18 | 🌐 Kotlin | 📅 2026-10-05 - One API for camera, mic, display, and audio across the G2, Rokid, Meta Ray-Ban, Brilliant Labs Frame, RayNeo, and INMO, with a simulator.
 * [Glyph](https://github.com/gabrielevierti/glyph) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-21 - Graphics and UI framework for G2 apps that renders a full framebuffer and sends only the changed tiles.
 * [Mentra-Bluetooth-SDK-Starter-Kit](https://github.com/Mentra-Community/Mentra-Bluetooth-SDK-Starter-Kit) ⭐ 15 | 🐛 30 | 📅 2026-10-06 - Apache-2.0 native BLE SDK starter kit for connecting an Android, iOS, or React Native app to smart glasses, including the G2, powered by MentraOS.
@@ -277,7 +277,6 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [arkanoid-even-g2](https://github.com/nickustinov/arkanoid-even-g2) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-19 - Arkanoid brick-breaker for the G2.
 * [G2 Flashcards](https://github.com/tomtau/g2-flashcards) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-28 - Flashcard app for the G2 with FSRS scheduling.
 * [EvenSolitaire](https://github.com/dmyster145/EvenSolitaire) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Solitaire card game for the G2.
-* [SMRTi](https://github.com/prasants/smrti) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-21 - Spaced-repetition flashcards for the G2 with FSRS v6, an ambient mode, and pre-meeting prep.
 * [Lenski](https://github.com/Xuefeng-Zhu/Lenski) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - Spaced-repetition flashcards for the G2 with Anki import, phone deck management, and AI deck generation.
 * [Card Pack](https://github.com/tntpsu/CardPack) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - Seven classic card games, including Hearts, Spades, and Cribbage, for the G2.
 * [Even G2 Math Reader](https://github.com/ErikRusanov/Even-G2-Math-Reader) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-22 - Renders dense maths formulas as bitmaps and autoscrolls through a personal document library.
@@ -297,6 +296,7 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [kubectl Drill](https://github.com/hiimivantang/g2-kubectl-drill) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Spaced-repetition kubectl practice for CKA, CKAD, and CKS preparation.
 * [WAD Player](https://github.com/jpneagle/WAD-Player-for-Even-G2) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2026-08-02 - Runs the DOOM-compatible PureDOOM engine on the phone and streams the display to the G2.
 * [CubeNet](https://github.com/r-tkbyc/even-cube-net) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Cube puzzle played as its unfolded net, with faces turned by the R1 ring.
+* [SMRTi](https://github.com/prasants/smrti) - Spaced-repetition flashcards for the G2 with FSRS v6, an ambient mode, and pre-meeting prep.
 
 ## Apps - Media and Music
 
