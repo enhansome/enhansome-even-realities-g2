@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T16:50:20Z",
-            "open_issues": 816,
+            "last_commit": "2026-10-10T08:49:04Z",
+            "open_issues": 815,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2382,
+            "stars": 2381,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -248,7 +248,7 @@
             "open_issues": 0,
             "owner": "fabioglimb",
             "repo": "even-toolkit",
-            "stars": 96,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -354,7 +354,7 @@
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "glyph",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "even-realities",
               "even-realities-g2",
@@ -381,8 +381,8 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T16:04:13Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-10T06:27:04Z",
+            "open_issues": 71,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
             "stars": 15,
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T16:11:05Z",
+            "last_commit": "2026-10-10T05:36:31Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1225,7 +1225,7 @@
             "open_issues": 4,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1242,7 +1242,7 @@
             "id": 1171904371,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-09T15:17:29Z",
+            "last_commit": "2026-10-10T08:55:58Z",
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
@@ -1263,7 +1263,7 @@
             "id": 1332408956,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T22:08:06Z",
+            "last_commit": "2026-10-09T19:18:33Z",
             "open_issues": 0,
             "owner": "AM-Guru",
             "repo": "evenRealities-webflasher",
@@ -1574,6 +1574,27 @@
         },
         {
           "node_type": "item",
+          "title": "epub-reader-g2",
+          "description": "Read EPUB ebooks on the G2 display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EPUB reader for Even Realities G2 smart glasses",
+            "homepage": null,
+            "id": 1157510583,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-13T07:41:02Z",
+            "open_issues": 1,
+            "owner": "chortya",
+            "repo": "epub-reader-g2",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "powerslides",
           "description": "Control presentation slides and read speaker notes from the G2.",
           "children": [],
@@ -1589,27 +1610,6 @@
             "owner": "jappyjan",
             "repo": "powerslides",
             "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "epub-reader-g2",
-          "description": "Read EPUB ebooks on the G2 display.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "EPUB reader for Even Realities G2 smart glasses",
-            "homepage": null,
-            "id": 1157510583,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-09-13T07:41:02Z",
-            "open_issues": 1,
-            "owner": "chortya",
-            "repo": "epub-reader-g2",
-            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1897,8 +1897,8 @@
             "id": 1229442640,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-09T16:19:09Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-10T14:26:33Z",
+            "open_issues": 0,
             "owner": "P1R4N351",
             "repo": "flipctl",
             "stars": 2,
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-09T10:03:59Z",
+            "last_commit": "2026-10-10T15:42:46Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3308,8 +3308,8 @@
             "id": 1168883139,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-09T12:47:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-10T15:45:35Z",
+            "open_issues": 2,
             "owner": "cmdlabtech",
             "repo": "Wondereye",
             "stars": 2,
@@ -4102,7 +4102,7 @@
             "open_issues": 1,
             "owner": "fabioglimb",
             "repo": "even-market",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5120,6 +5120,37 @@
         },
         {
           "node_type": "item",
+          "title": "lyrics-glow",
+          "description": "Time-synced karaoke lyrics on the G2 display, backed by LRCLIB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Karaoke-through-your-glasses for Even Realities G2 — time-synced lyrics on the 576×288 display via LRCLIB. Three-line karaoke window advanced by a local clock.",
+            "homepage": null,
+            "id": 1220970764,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-05-06T04:14:29Z",
+            "open_issues": 0,
+            "owner": "tntpsu",
+            "repo": "lyrics-glow",
+            "stars": 2,
+            "topics": [
+              "even-g2",
+              "even-realities",
+              "karaoke",
+              "lrclib",
+              "lyrics",
+              "music",
+              "smart-glasses",
+              "typescript",
+              "vite"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "MuSe",
           "description": "Ambient music identification on the G2 showing song, artist, and cover art with searchable history.",
           "children": [],
@@ -5184,37 +5215,6 @@
             "repo": "even-g2-media-remote",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lyrics-glow",
-          "description": "Time-synced karaoke lyrics on the G2 display, backed by LRCLIB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Karaoke-through-your-glasses for Even Realities G2 — time-synced lyrics on the 576×288 display via LRCLIB. Three-line karaoke window advanced by a local clock.",
-            "homepage": null,
-            "id": 1220970764,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-05-06T04:14:29Z",
-            "open_issues": 0,
-            "owner": "tntpsu",
-            "repo": "lyrics-glow",
-            "stars": 1,
-            "topics": [
-              "even-g2",
-              "even-realities",
-              "karaoke",
-              "lrclib",
-              "lyrics",
-              "music",
-              "smart-glasses",
-              "typescript",
-              "vite"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -5788,7 +5788,7 @@
             "id": 1254713946,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T06:52:57Z",
+            "last_commit": "2026-10-10T06:53:38Z",
             "open_issues": 4,
             "owner": "huntsyea",
             "repo": "hermes-even-hub-app",
@@ -5993,7 +5993,7 @@
             "id": 1254523907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:55:26Z",
+            "last_commit": "2026-10-10T01:53:53Z",
             "open_issues": 15,
             "owner": "huntsyea",
             "repo": "hermes-evenhub-bridge",
@@ -6231,7 +6231,7 @@
             "id": 1164517458,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-09T04:29:52Z",
+            "last_commit": "2026-10-10T04:30:30Z",
             "open_issues": 0,
             "owner": "kyle-deprow",
             "repo": "g2_openclaw",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:57:57.826Z",
+    "last_updated": "2026-10-10T15:51:08.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6583,7 @@
       "open_issues": 3,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 125,
+      "stars": 126,
       "topics": [
         "ar-glasses",
         "awesome",
