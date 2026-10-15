@@ -40,7 +40,7 @@
             "open_issues": 29,
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:33:28Z",
-            "open_issues": 821,
+            "last_commit": "2026-10-15T10:27:10Z",
+            "open_issues": 822,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2386,
+            "stars": 2384,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -316,7 +316,7 @@
             "open_issues": 18,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "ai-glasses",
               "android",
@@ -354,7 +354,7 @@
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "glyph",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "even-realities",
               "even-realities-g2",
@@ -381,8 +381,8 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:05:38Z",
-            "open_issues": 122,
+            "last_commit": "2026-10-15T06:42:51Z",
+            "open_issues": 134,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
             "stars": 16,
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:21:34Z",
+            "last_commit": "2026-10-15T05:57:30Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1204,7 +1204,7 @@
             "open_issues": 1,
             "owner": "Commute773",
             "repo": "g2-kit-unofficial",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 4,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1616,27 +1616,6 @@
         },
         {
           "node_type": "item",
-          "title": "rdt-even-g2",
-          "description": "Reddit client for the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1157284347,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-02-13T17:24:07Z",
-            "open_issues": 0,
-            "owner": "fuutott",
-            "repo": "rdt-even-g2-rddit-client",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "even-stars",
           "description": "Star and sky viewer for the G2.",
           "children": [],
@@ -1651,6 +1630,27 @@
             "open_issues": 0,
             "owner": "thibautrey",
             "repo": "even-stars",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rdt-even-g2",
+          "description": "Reddit client for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1157284347,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-02-13T17:24:07Z",
+            "open_issues": 0,
+            "owner": "fuutott",
+            "repo": "rdt-even-g2-rddit-client",
             "stars": 6,
             "topics": []
           },
@@ -2107,7 +2107,7 @@
             "id": 1283416493,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T19:29:51Z",
+            "last_commit": "2026-10-14T22:30:48Z",
             "open_issues": 0,
             "owner": "liyiyuian",
             "repo": "g2sidian",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-14T11:12:53Z",
+            "last_commit": "2026-10-15T13:57:24Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4272,7 +4272,7 @@
             "id": 1169891465,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-14T10:40:07Z",
+            "last_commit": "2026-10-15T00:39:43Z",
             "open_issues": 1,
             "owner": "wasimlhr",
             "repo": "taraweeh-companion-g2",
@@ -4677,6 +4677,27 @@
         },
         {
           "node_type": "item",
+          "title": "lingua-lens",
+          "description": "Ambient English coach that offers full phrases when you stall and stays silent when you don't.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A quiet English coach on Even G2 smart glasses — full phrases when you're stuck, silence when you're not. OpenAI Build Week 2026 entry (Education).",
+            "homepage": null,
+            "id": 1305728063,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-20T13:57:56Z",
+            "open_issues": 0,
+            "owner": "kolife01",
+            "repo": "lingua-lens",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even G2 Math Reader",
           "description": "Renders dense maths formulas as bitmaps and autoscrolls through a personal document library.",
           "children": [],
@@ -4910,27 +4931,6 @@
             "open_issues": 0,
             "owner": "KamalQ",
             "repo": "g2-flashcards",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lingua-lens",
-          "description": "Ambient English coach that offers full phrases when you stall and stays silent when you don't.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A quiet English coach on Even G2 smart glasses — full phrases when you're stuck, silence when you're not. OpenAI Build Week 2026 entry (Education).",
-            "homepage": null,
-            "id": 1305728063,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-20T13:57:56Z",
-            "open_issues": 0,
-            "owner": "kolife01",
-            "repo": "lingua-lens",
             "stars": 0,
             "topics": []
           },
@@ -5435,7 +5435,7 @@
             "open_issues": 1,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "ai-assistant",
               "anthropic",
@@ -5503,8 +5503,8 @@
             "id": 1171654603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T15:37:05Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-14T18:22:26Z",
+            "open_issues": 1,
             "owner": "wmoto-ai",
             "repo": "cc-g2",
             "stars": 33,
@@ -5708,7 +5708,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:36:38Z",
+            "last_commit": "2026-10-14T23:33:21Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5871,6 +5871,27 @@
         },
         {
           "node_type": "item",
+          "title": "hermes-evenhub-bridge",
+          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
+            "homepage": null,
+            "id": 1254523907,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-10T01:53:53Z",
+            "open_issues": 15,
+            "owner": "huntsyea",
+            "repo": "hermes-evenhub-bridge",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-terminal-pi",
           "description": "Runs the pi coding agent on the G2 as an Even Terminal provider.",
           "children": [],
@@ -5978,27 +5999,6 @@
               "vite",
               "websocket"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hermes-evenhub-bridge",
-          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
-            "homepage": null,
-            "id": 1254523907,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-10T01:53:53Z",
-            "open_issues": 15,
-            "owner": "huntsyea",
-            "repo": "hermes-evenhub-bridge",
-            "stars": 2,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6252,7 +6252,7 @@
             "id": 1289519895,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-02T21:16:15Z",
+            "last_commit": "2026-10-15T10:47:25Z",
             "open_issues": 0,
             "owner": "soualid",
             "repo": "eveng2-terminal-textinput",
@@ -6443,7 +6443,7 @@
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "openg1-sdk",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "developer-tools",
               "even-realities",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:03:42.018Z",
+    "last_updated": "2026-10-15T14:56:41.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 130,
+      "stars": 132,
       "topics": [
         "ar-glasses",
         "awesome",
