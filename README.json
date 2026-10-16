@@ -36,7 +36,7 @@
             "id": 1203396569,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-14T09:27:23Z",
+            "last_commit": "2026-10-16T09:23:29Z",
             "open_issues": 29,
             "owner": "even-realities",
             "repo": "everything-evenhub",
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T10:27:10Z",
-            "open_issues": 822,
+            "last_commit": "2026-10-16T13:46:16Z",
+            "open_issues": 823,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2384,
+            "stars": 2387,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -292,10 +292,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-14T09:18:00Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,8 +381,8 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T06:42:51Z",
-            "open_issues": 134,
+            "last_commit": "2026-10-16T11:37:55Z",
+            "open_issues": 143,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
             "stars": 16,
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T05:57:30Z",
+            "last_commit": "2026-10-16T13:49:10Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1039,8 +1039,8 @@
             "id": 1276263008,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-08T19:48:14Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-15T21:32:42Z",
+            "open_issues": 1,
             "owner": "oggunderscore",
             "repo": "even-development",
             "stars": 0,
@@ -1175,7 +1175,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "evenrealities",
               "g2a",
@@ -1185,6 +1185,27 @@
               "wearable",
               "wearable-devices"
             ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "g2flash",
+          "description": "Custom firmware for the G2 that adds compressed image transfer, full-screen 576x288 single-image support, per-lens stereo output, and beeper tones, paired with matching custom send-side software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Script for applying custom firmware to Even Realities G2 smart glasses",
+            "homepage": null,
+            "id": 1278331273,
+            "language": "C",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-06T17:40:24Z",
+            "open_issues": 4,
+            "owner": "jimrandomh",
+            "repo": "g2flash",
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -1211,27 +1232,6 @@
         },
         {
           "node_type": "item",
-          "title": "g2flash",
-          "description": "Custom firmware for the G2 that adds compressed image transfer, full-screen 576x288 single-image support, per-lens stereo output, and beeper tones, paired with matching custom send-side software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Script for applying custom firmware to Even Realities G2 smart glasses",
-            "homepage": null,
-            "id": 1278331273,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-06T17:40:24Z",
-            "open_issues": 4,
-            "owner": "jimrandomh",
-            "repo": "g2flash",
-            "stars": 40,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "evenRealities-openCFW",
           "description": "Reverse-engineering documentation of the G2 firmware and BLE protocol, paired with a custom-firmware effort.",
           "children": [],
@@ -1242,7 +1242,7 @@
             "id": 1171904371,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-14T09:40:48Z",
+            "last_commit": "2026-10-16T14:17:40Z",
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
@@ -1866,6 +1866,27 @@
         },
         {
           "node_type": "item",
+          "title": "even-g2-obsidian",
+          "description": "Browse and edit an Obsidian vault on the G2 with live editor mirroring and IME composition support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Browse and edit an Obsidian vault on Even Realities G2 smart glasses, with live editor mirroring (IME composition included).",
+            "homepage": null,
+            "id": 1289121914,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-04T11:17:05Z",
+            "open_issues": 0,
+            "owner": "hiraghi",
+            "repo": "even-g2-obsidian",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "EvenAware",
           "description": "Real-time notification hub aggregating alerts from multiple sources onto the G2.",
           "children": [],
@@ -2236,27 +2257,6 @@
             "open_issues": 0,
             "owner": "sommohapatra",
             "repo": "x-for-even-g2",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-g2-obsidian",
-          "description": "Browse and edit an Obsidian vault on the G2 with live editor mirroring and IME composition support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Browse and edit an Obsidian vault on Even Realities G2 smart glasses, with live editor mirroring (IME composition included).",
-            "homepage": null,
-            "id": 1289121914,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-04T11:17:05Z",
-            "open_issues": 0,
-            "owner": "hiraghi",
-            "repo": "even-g2-obsidian",
             "stars": 1,
             "topics": []
           },
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-15T13:57:24Z",
+            "last_commit": "2026-10-16T10:43:58Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:56:41.195Z",
+    "last_updated": "2026-10-16T14:47:36.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 132,
+      "stars": 136,
       "topics": [
         "ar-glasses",
         "awesome",
