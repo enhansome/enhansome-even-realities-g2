@@ -208,8 +208,8 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T13:58:10Z",
-            "open_issues": 831,
+            "last_commit": "2026-10-25T11:21:41Z",
+            "open_issues": 829,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
             "stars": 2391,
@@ -265,8 +265,8 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T08:51:46Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-25T08:06:42Z",
+            "open_issues": 17,
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 95,
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T09:43:09Z",
+            "last_commit": "2026-10-25T11:42:09Z",
             "open_issues": 4,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T13:22:20Z",
+            "last_commit": "2026-10-25T10:41:04Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-24T13:06:46Z",
+            "last_commit": "2026-10-25T10:45:13Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4450,7 +4450,7 @@
             "open_issues": 0,
             "owner": "dmyster145",
             "repo": "EvenChess",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5088,11 +5088,11 @@
             "id": 1146420134,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-23T13:23:33Z",
+            "last_commit": "2026-10-24T14:45:11Z",
             "open_issues": 0,
             "owner": "Oliemanq",
             "repo": "DisplayPlusMusic",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5670,6 +5670,27 @@
         },
         {
           "node_type": "item",
+          "title": "hermes-even-hub-app",
+          "description": "G2 WebView client that drives locally running Hermes agents hands-free with voice and streaming responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 glasses app (Even Hub WebView) — the client half of the G2 × Hermes bridge",
+            "homepage": null,
+            "id": 1254713946,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-24T06:53:21Z",
+            "open_issues": 4,
+            "owner": "huntsyea",
+            "repo": "hermes-even-hub-app",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-better",
           "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
           "children": [],
@@ -5708,7 +5729,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T04:18:47Z",
+            "last_commit": "2026-10-25T11:41:42Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5778,27 +5799,6 @@
         },
         {
           "node_type": "item",
-          "title": "hermes-even-hub-app",
-          "description": "G2 WebView client that drives locally running Hermes agents hands-free with voice and streaming responses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 glasses app (Even Hub WebView) — the client half of the G2 × Hermes bridge",
-            "homepage": null,
-            "id": 1254713946,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-24T06:53:21Z",
-            "open_issues": 4,
-            "owner": "huntsyea",
-            "repo": "hermes-even-hub-app",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "even-g2-hermes",
           "description": "Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.",
           "children": [],
@@ -5823,6 +5823,59 @@
               "smart-glasses",
               "voice-assistant",
               "wearable"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-evenhub-bridge",
+          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
+            "homepage": null,
+            "id": 1254523907,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T01:55:05Z",
+            "open_issues": 15,
+            "owner": "huntsyea",
+            "repo": "hermes-evenhub-bridge",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "even-terminal-pi",
+          "description": "Runs the pi coding agent on the G2 as an Even Terminal provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A pi (@earendil-works/pi-coding-agent) provider for @evenrealities/even-terminal — run the pi coding agent on Even Realities G2 smart glasses + R1 ring.",
+            "homepage": null,
+            "id": 1271301719,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-16T14:34:38Z",
+            "open_issues": 1,
+            "owner": "lallenlowe",
+            "repo": "even-terminal-pi",
+            "stars": 4,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "coding-agent",
+              "even-realities",
+              "g2",
+              "llm",
+              "pi",
+              "smart-glasses",
+              "tailscale",
+              "wearables"
             ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5866,59 +5919,6 @@
             "repo": "claude-hud",
             "stars": 3,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hermes-evenhub-bridge",
-          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
-            "homepage": null,
-            "id": 1254523907,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-24T01:55:05Z",
-            "open_issues": 15,
-            "owner": "huntsyea",
-            "repo": "hermes-evenhub-bridge",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-terminal-pi",
-          "description": "Runs the pi coding agent on the G2 as an Even Terminal provider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A pi (@earendil-works/pi-coding-agent) provider for @evenrealities/even-terminal — run the pi coding agent on Even Realities G2 smart glasses + R1 ring.",
-            "homepage": null,
-            "id": 1271301719,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-16T14:34:38Z",
-            "open_issues": 1,
-            "owner": "lallenlowe",
-            "repo": "even-terminal-pi",
-            "stars": 3,
-            "topics": [
-              "ai",
-              "ai-agent",
-              "coding-agent",
-              "even-realities",
-              "g2",
-              "llm",
-              "pi",
-              "smart-glasses",
-              "tailscale",
-              "wearables"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6102,7 +6102,7 @@
             "id": 1289795708,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T03:50:19Z",
+            "last_commit": "2026-10-25T05:56:38Z",
             "open_issues": 0,
             "owner": "karaage0703",
             "repo": "xangi-even-g2",
@@ -6252,7 +6252,7 @@
             "id": 1289519895,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:08:13Z",
+            "last_commit": "2026-10-24T21:22:09Z",
             "open_issues": 0,
             "owner": "soualid",
             "repo": "eveng2-terminal-textinput",
@@ -6390,7 +6390,7 @@
             "id": 1227483916,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-23T03:54:02Z",
+            "last_commit": "2026-10-24T17:33:46Z",
             "open_issues": 0,
             "owner": "JohnRThomas",
             "repo": "even_realities_decomp",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:58:54.741Z",
+    "last_updated": "2026-10-25T14:19:34.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 142,
+      "stars": 143,
       "topics": [
         "ar-glasses",
         "awesome",
