@@ -208,7 +208,7 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T11:32:19Z",
+            "last_commit": "2026-10-27T15:48:20Z",
             "open_issues": 828,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
@@ -316,7 +316,7 @@
             "open_issues": 19,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "ai-glasses",
               "android",
@@ -350,7 +350,7 @@
             "id": 1344183482,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T18:54:19Z",
+            "last_commit": "2026-10-27T14:15:24Z",
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "glyph",
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T11:49:33Z",
+            "last_commit": "2026-10-27T14:50:44Z",
             "open_issues": 4,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -427,7 +427,7 @@
             "open_issues": 2,
             "owner": "jimrandomh",
             "repo": "g2mirror",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T10:49:29Z",
+            "last_commit": "2026-10-27T15:50:55Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1295,6 +1295,27 @@
         },
         {
           "node_type": "item",
+          "title": "men-g2-ble-gateway",
+          "description": "Python gateway exposing the G2 over HTTP, WebSocket, and MCP, with a local browser UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python gateway that bridges Even Realities G2 smart glasses to HTTP, WebSocket, MCP and a local browser UI. The BLE communication layer is ported from the MentraOS G2.kt implementation.",
+            "homepage": null,
+            "id": 1249430365,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-13T18:01:33Z",
+            "open_issues": 0,
+            "owner": "gpsnmeajp",
+            "repo": "men-g2-ble-gateway",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even-G2-RE",
           "description": "Reverse-engineering effort covering the Even G2 app and its BLE system.",
           "children": [],
@@ -1310,27 +1331,6 @@
             "owner": "lonelyobserver0",
             "repo": "Even-G2-RE",
             "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "men-g2-ble-gateway",
-          "description": "Python gateway exposing the G2 over HTTP, WebSocket, and MCP, with a local browser UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Python gateway that bridges Even Realities G2 smart glasses to HTTP, WebSocket, MCP and a local browser UI. The BLE communication layer is ported from the MentraOS G2.kt implementation.",
-            "homepage": null,
-            "id": 1249430365,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-13T18:01:33Z",
-            "open_issues": 0,
-            "owner": "gpsnmeajp",
-            "repo": "men-g2-ble-gateway",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1355,6 +1355,27 @@
             "topics": []
           },
           "first_seen": "2026-09-13T14:18:45.432Z"
+        },
+        {
+          "node_type": "item",
+          "title": "men-g2-atoms3-hello",
+          "description": "Arduino sketch for the M5AtomS3 that connects to the G2 over BLE, authenticates, and boots an Even Hub page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An Arduino sketch for M5AtomS3 that connects to Even G2 over BLE, authenticates, boots the EvenHub page, and keeps a synchronized counter on both the AtomS3 display and the G2 glasses.",
+            "homepage": null,
+            "id": 1249175014,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-05-25T12:45:51Z",
+            "open_issues": 0,
+            "owner": "gpsnmeajp",
+            "repo": "men-g2-atoms3-hello",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -1399,27 +1420,6 @@
               "evenhub",
               "websocket"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "men-g2-atoms3-hello",
-          "description": "Arduino sketch for the M5AtomS3 that connects to the G2 over BLE, authenticates, and boots an Even Hub page.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An Arduino sketch for M5AtomS3 that connects to Even G2 over BLE, authenticates, boots the EvenHub page, and keeps a synchronized counter on both the AtomS3 display and the G2 glasses.",
-            "homepage": null,
-            "id": 1249175014,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-05-25T12:45:51Z",
-            "open_issues": 0,
-            "owner": "gpsnmeajp",
-            "repo": "men-g2-atoms3-hello",
-            "stars": 0,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-26T16:29:58Z",
+            "last_commit": "2026-10-27T13:58:19Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3337,7 +3337,7 @@
             "id": 1168883139,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-17T22:52:34Z",
+            "last_commit": "2026-10-26T22:48:27Z",
             "open_issues": 3,
             "owner": "cmdlabtech",
             "repo": "Wondereye",
@@ -4272,7 +4272,7 @@
             "id": 1169891465,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-23T10:41:20Z",
+            "last_commit": "2026-10-26T23:13:29Z",
             "open_issues": 1,
             "owner": "wasimlhr",
             "repo": "taraweeh-companion-g2",
@@ -5586,27 +5586,6 @@
         },
         {
           "node_type": "item",
-          "title": "Even-Voice-AI",
-          "description": "Wake-word voice assistant using the browser's speech recognition, GPT-4o-mini, and streaming text-to-speech routed to the phone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An AI voice for the Even Smart Glasses. (He is able to speak for your speakers like aiports/buds...)",
-            "homepage": null,
-            "id": 1225948868,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-05-01T05:00:57Z",
-            "open_issues": 0,
-            "owner": "MrScautHD",
-            "repo": "Even-Voice-AI",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "Unofficial Even G2 Local Assistant",
           "description": "Local-first voice assistant for the G2 with Whisper STT and dual-model routing between local Qwen and a cloud fallback.",
           "children": [],
@@ -5621,6 +5600,27 @@
             "open_issues": 0,
             "owner": "marienbaptiste",
             "repo": "unofficial-even-g2-local-assistant",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Even-Voice-AI",
+          "description": "Wake-word voice assistant using the browser's speech recognition, GPT-4o-mini, and streaming text-to-speech routed to the phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An AI voice for the Even Smart Glasses. (He is able to speak for your speakers like aiports/buds...)",
+            "homepage": null,
+            "id": 1225948868,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-05-01T05:00:57Z",
+            "open_issues": 0,
+            "owner": "MrScautHD",
+            "repo": "Even-Voice-AI",
             "stars": 6,
             "topics": []
           },
@@ -5729,7 +5729,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:51:28Z",
+            "last_commit": "2026-10-27T03:24:54Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:46:13.677Z",
+    "last_updated": "2026-10-27T15:51:00.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 145,
+      "stars": 147,
       "topics": [
         "ar-glasses",
         "awesome",
