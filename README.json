@@ -208,8 +208,8 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T15:48:20Z",
-            "open_issues": 828,
+            "last_commit": "2026-10-28T16:33:08Z",
+            "open_issues": 830,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
             "stars": 2390,
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:50:44Z",
+            "last_commit": "2026-10-28T14:18:05Z",
             "open_issues": 4,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T15:50:55Z",
+            "last_commit": "2026-10-28T13:00:53Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1175,7 +1175,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "evenrealities",
               "g2a",
@@ -2024,7 +2024,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-06-30T21:51:13Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "plungarini",
             "repo": "reddit-feed-even",
             "stars": 2,
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-27T13:58:19Z",
+            "last_commit": "2026-10-28T10:58:03Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4604,6 +4604,27 @@
         },
         {
           "node_type": "item",
+          "title": "lingua-lens",
+          "description": "Ambient English coach that offers full phrases when you stall and stays silent when you don't.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A quiet English coach on Even G2 smart glasses — full phrases when you're stuck, silence when you're not. OpenAI Build Week 2026 entry (Education).",
+            "homepage": null,
+            "id": 1305728063,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-20T13:57:56Z",
+            "open_issues": 0,
+            "owner": "kolife01",
+            "repo": "lingua-lens",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "EvenSolitaire",
           "description": "Solitaire card game for the G2.",
           "children": [],
@@ -4672,27 +4693,6 @@
               "solitaire",
               "spades"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lingua-lens",
-          "description": "Ambient English coach that offers full phrases when you stall and stays silent when you don't.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A quiet English coach on Even G2 smart glasses — full phrases when you're stuck, silence when you're not. OpenAI Build Week 2026 entry (Education).",
-            "homepage": null,
-            "id": 1305728063,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-20T13:57:56Z",
-            "open_issues": 0,
-            "owner": "kolife01",
-            "repo": "lingua-lens",
-            "stars": 1,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -5435,7 +5435,7 @@
             "open_issues": 1,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai-assistant",
               "anthropic",
@@ -5729,7 +5729,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T03:24:54Z",
+            "last_commit": "2026-10-27T22:04:14Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5750,8 +5750,8 @@
             "id": 1303493682,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T17:36:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-28T03:59:19Z",
+            "open_issues": 0,
             "owner": "ThatCrispyToast",
             "repo": "g2-claude-remote",
             "stars": 5,
@@ -6571,7 +6571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:51:00.990Z",
+    "last_updated": "2026-10-28T16:35:12.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6583,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 147,
+      "stars": 149,
       "topics": [
         "ar-glasses",
         "awesome",
