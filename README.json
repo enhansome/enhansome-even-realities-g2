@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T16:33:08Z",
+            "last_commit": "2026-10-29T16:42:32Z",
             "open_issues": 830,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2390,
+            "stars": 2391,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -269,7 +269,7 @@
             "open_issues": 17,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 95,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,8 +381,8 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T14:18:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-29T16:19:07Z",
+            "open_issues": 5,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
             "stars": 16,
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T13:00:53Z",
+            "last_commit": "2026-10-29T16:45:50Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1175,7 +1175,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "evenrealities",
               "g2a",
@@ -1456,7 +1456,7 @@
             "id": 1340514338,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:34:11Z",
+            "last_commit": "2026-10-29T04:34:13Z",
             "open_issues": 0,
             "owner": "rayriffy",
             "repo": "even-g2-thai",
@@ -1790,6 +1790,27 @@
         },
         {
           "node_type": "item",
+          "title": "g2sidian",
+          "description": "View and voice-capture Obsidian notes on the G2 through a self-hosted Tailscale backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "View and voice-capture your Obsidian notes on Even Realities G2 smart glasses — self-hosted backend over Tailscale.",
+            "homepage": null,
+            "id": 1283416493,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-14T22:30:48Z",
+            "open_issues": 0,
+            "owner": "liyiyuian",
+            "repo": "g2sidian",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-g2-calendar-companion",
           "description": "Next-event calendar notifications on the G2 over an optimized BLE path.",
           "children": [],
@@ -1882,27 +1903,6 @@
               "reading",
               "word-lookup"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "g2sidian",
-          "description": "View and voice-capture Obsidian notes on the G2 through a self-hosted Tailscale backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "View and voice-capture your Obsidian notes on Even Realities G2 smart glasses — self-hosted backend over Tailscale.",
-            "homepage": null,
-            "id": 1283416493,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-14T22:30:48Z",
-            "open_issues": 0,
-            "owner": "liyiyuian",
-            "repo": "g2sidian",
-            "stars": 2,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-28T10:58:03Z",
+            "last_commit": "2026-10-29T16:35:52Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3337,8 +3337,8 @@
             "id": 1168883139,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-26T22:48:27Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-29T12:29:09Z",
+            "open_issues": 1,
             "owner": "cmdlabtech",
             "repo": "Wondereye",
             "stars": 2,
@@ -4241,6 +4241,27 @@
         },
         {
           "node_type": "item",
+          "title": "Taraweeh Companion",
+          "description": "Recognises live Quran recitation and shows the matching Arabic text, transliteration, and translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "taraweeh-companion for even realties g2 smart glasses ",
+            "homepage": null,
+            "id": 1169891465,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-10-26T23:13:29Z",
+            "open_issues": 1,
+            "owner": "wasimlhr",
+            "repo": "taraweeh-companion-g2",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-bridge",
           "description": "Transcribes G2 speech and sends it on to Telegram, Slack, or Gmail.",
           "children": [],
@@ -4259,27 +4280,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Taraweeh Companion",
-          "description": "Recognises live Quran recitation and shows the matching Arabic text, transliteration, and translation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "taraweeh-companion for even realties g2 smart glasses ",
-            "homepage": null,
-            "id": 1169891465,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-10-26T23:13:29Z",
-            "open_issues": 1,
-            "owner": "wasimlhr",
-            "repo": "taraweeh-companion-g2",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -5729,7 +5729,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:04:14Z",
+            "last_commit": "2026-10-29T05:48:38Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5750,7 +5750,7 @@
             "id": 1303493682,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T03:59:19Z",
+            "last_commit": "2026-10-28T18:56:10Z",
             "open_issues": 0,
             "owner": "ThatCrispyToast",
             "repo": "g2-claude-remote",
@@ -6242,33 +6242,6 @@
         },
         {
           "node_type": "item",
-          "title": "eveng2-terminal-textinput",
-          "description": "Phone companion that adds typed text input to Claude Code sessions while keeping the G2 HUD in sync.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Typed text input for Even Terminal (Even Realities G2 smart glasses) — local web companion, zero dependencies",
-            "homepage": null,
-            "id": 1289519895,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-10-24T21:22:09Z",
-            "open_issues": 0,
-            "owner": "soualid",
-            "repo": "eveng2-terminal-textinput",
-            "stars": 0,
-            "topics": [
-              "claude-code",
-              "even-g2",
-              "even-realities",
-              "even-terminal",
-              "smart-glasses"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "completion-telegram-bridge",
           "description": "OpenAI-compatible completion API bridging the G2 to a personal Telegram agent.",
           "children": [],
@@ -6571,7 +6544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:35:12.309Z",
+    "last_updated": "2026-10-29T16:52:49.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6583,7 +6556,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 149,
+      "stars": 150,
       "topics": [
         "ar-glasses",
         "awesome",
