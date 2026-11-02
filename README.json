@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "even-realities",
             "repo": "EvenDemoApp",
-            "stars": 474,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T09:20:18Z",
+            "last_commit": "2026-11-02T09:27:23Z",
             "open_issues": 829,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2395,
+            "stars": 2394,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -265,8 +265,8 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T10:31:41Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-02T08:31:45Z",
+            "open_issues": 16,
             "owner": "jimrandomh",
             "repo": "faceclaw",
             "stars": 97,
@@ -312,8 +312,8 @@
             "id": 1135453988,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T03:19:36Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-02T03:18:50Z",
+            "open_issues": 20,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
             "stars": 52,
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T09:39:52Z",
+            "last_commit": "2026-11-02T09:39:58Z",
             "open_issues": 6,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -753,7 +753,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T07:48:48Z",
+            "last_commit": "2026-11-02T08:48:29Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1288,7 +1288,7 @@
             "open_issues": 0,
             "owner": "cokeeffekt",
             "repo": "even-g2-patched",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1379,6 +1379,31 @@
         },
         {
           "node_type": "item",
+          "title": "g2-thai",
+          "description": "Patches G2 firmware with a Thai bitmap font so the glasses render Thai text, with documented checksum verification and a rebase playbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Attempt to patch Even Realties G2 glass firmware to support Thai characters",
+            "homepage": null,
+            "id": 1340514338,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-30T04:30:52Z",
+            "open_issues": 0,
+            "owner": "rayriffy",
+            "repo": "even-g2-thai",
+            "stars": 1,
+            "topics": [
+              "even-realities",
+              "even-realities-g2",
+              "smart-glasses"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "ffs-os",
           "description": "Clean-room Swift BLE driver and glasses OS for the G2, independent of the official stack.",
           "children": [],
@@ -1441,31 +1466,6 @@
             "repo": "open-g2-companion",
             "stars": 0,
             "topics": []
-          },
-          "first_seen": "2026-09-04T14:18:22.893Z"
-        },
-        {
-          "node_type": "item",
-          "title": "g2-thai",
-          "description": "Patches G2 firmware with a Thai bitmap font so the glasses render Thai text, with documented checksum verification and a rebase playbook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Attempt to patch Even Realties G2 glass firmware to support Thai characters",
-            "homepage": null,
-            "id": 1340514338,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-30T04:30:52Z",
-            "open_issues": 0,
-            "owner": "rayriffy",
-            "repo": "even-g2-thai",
-            "stars": 0,
-            "topics": [
-              "even-realities",
-              "even-realities-g2",
-              "smart-glasses"
-            ]
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
         },
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-01T15:45:12Z",
+            "last_commit": "2026-11-02T17:48:42Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -5109,8 +5109,8 @@
             "id": 1167545441,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:35:28Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T22:26:25Z",
+            "open_issues": 2,
             "owner": "wmoto-ai",
             "repo": "even-g2-matrix",
             "stars": 3,
@@ -5503,8 +5503,8 @@
             "id": 1171654603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:23:06Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T18:08:52Z",
+            "open_issues": 3,
             "owner": "wmoto-ai",
             "repo": "cc-g2",
             "stars": 33,
@@ -5729,7 +5729,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T14:27:29Z",
+            "last_commit": "2026-11-02T03:19:37Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -6325,7 +6325,7 @@
             "open_issues": 3,
             "owner": "meyskens",
             "repo": "fahrplan",
-            "stars": 51,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
@@ -6544,7 +6544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:47:07.577Z",
+    "last_updated": "2026-11-02T20:18:12.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6556,7 +6556,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 156,
+      "stars": 157,
       "topics": [
         "ar-glasses",
         "awesome",
