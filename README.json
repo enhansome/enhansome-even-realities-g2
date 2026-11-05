@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:51:42Z",
+            "last_commit": "2026-11-05T07:54:19Z",
             "open_issues": 828,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2400,
+            "stars": 2402,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -244,11 +244,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T22:06:33Z",
+            "last_commit": "2026-11-04T19:46:00Z",
             "open_issues": 17,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 100,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T14:16:24Z",
+            "last_commit": "2026-11-05T08:20:45Z",
             "open_issues": 6,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -612,7 +612,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:55:51Z",
+            "last_commit": "2026-11-05T07:17:09Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -761,6 +761,27 @@
             "topics": []
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
+          "title": "even-realities-app-template",
+          "description": "MIT-licensed native SwiftUI baseline app for the G2 and R1 ring, with direct BLE, LC3 audio, microphone capture, and on-device speech-to-text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A iOS native application that interacts with the even devices directly to use has a baseline for development. ",
+            "homepage": null,
+            "id": 1311341373,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-07-24T22:18:42Z",
+            "open_issues": 0,
+            "owner": "r4stl1n",
+            "repo": "even-realities-app-template",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T14:18:45.432Z"
         },
         {
           "node_type": "item",
@@ -963,27 +984,6 @@
             ]
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-realities-app-template",
-          "description": "MIT-licensed native SwiftUI baseline app for the G2 and R1 ring, with direct BLE, LC3 audio, microphone capture, and on-device speech-to-text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A iOS native application that interacts with the even devices directly to use has a baseline for development. ",
-            "homepage": null,
-            "id": 1311341373,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-07-24T22:18:42Z",
-            "open_issues": 0,
-            "owner": "r4stl1n",
-            "repo": "even-realities-app-template",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-09-13T14:18:45.432Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1204,7 @@
             "open_issues": 4,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 45,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1246,7 +1246,7 @@
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1554,7 +1554,7 @@
             "open_issues": 0,
             "owner": "hmmhmmhm",
             "repo": "sandevistan",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "augmented-reality",
               "canvas",
@@ -1709,6 +1709,27 @@
         },
         {
           "node_type": "item",
+          "title": "g2sidian",
+          "description": "View and voice-capture Obsidian notes on the G2 through a self-hosted Tailscale backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "View and voice-capture your Obsidian notes on Even Realities G2 smart glasses — self-hosted backend over Tailscale.",
+            "homepage": null,
+            "id": 1283416493,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-14T22:30:48Z",
+            "open_issues": 1,
+            "owner": "liyiyuian",
+            "repo": "g2sidian",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-kitchen",
           "description": "Cooking assistant with recipes, step-by-step guidance, and timers on the lens.",
           "children": [],
@@ -1785,27 +1806,6 @@
               "typescript",
               "vite"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "g2sidian",
-          "description": "View and voice-capture Obsidian notes on the G2 through a self-hosted Tailscale backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "View and voice-capture your Obsidian notes on Even Realities G2 smart glasses — self-hosted backend over Tailscale.",
-            "homepage": null,
-            "id": 1283416493,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-14T22:30:48Z",
-            "open_issues": 0,
-            "owner": "liyiyuian",
-            "repo": "g2sidian",
-            "stars": 3,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -1903,6 +1903,27 @@
               "reading",
               "word-lookup"
             ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "even-g2-apps",
+          "description": "Collection of custom Even Hub SDK apps for the G2, including a Telegram HUD, calendar events, and dashboard notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Custom apps for Even Realities G2 smart glasses + R1 ring (EvenHub SDK)",
+            "homepage": null,
+            "id": 1182057157,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-03-15T01:24:28Z",
+            "open_issues": 0,
+            "owner": "mfethe1",
+            "repo": "even-g2-apps",
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -2236,27 +2257,6 @@
             "open_issues": 0,
             "owner": "marcometz",
             "repo": "daily-app-even-g2",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-g2-apps",
-          "description": "Collection of custom Even Hub SDK apps for the G2, including a Telegram HUD, calendar events, and dashboard notifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom apps for Even Realities G2 smart glasses + R1 ring (EvenHub SDK)",
-            "homepage": null,
-            "id": 1182057157,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-03-15T01:24:28Z",
-            "open_issues": 0,
-            "owner": "mfethe1",
-            "repo": "even-g2-apps",
             "stars": 1,
             "topics": []
           },
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-04T16:50:25Z",
+            "last_commit": "2026-11-05T11:52:15Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -5649,6 +5649,55 @@
         },
         {
           "node_type": "item",
+          "title": "hermes-even-hub-app",
+          "description": "G2 WebView client that drives locally running Hermes agents hands-free with voice and streaming responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 glasses app (Even Hub WebView) — the client half of the G2 × Hermes bridge",
+            "homepage": null,
+            "id": 1254713946,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-31T06:52:43Z",
+            "open_issues": 4,
+            "owner": "huntsyea",
+            "repo": "hermes-even-hub-app",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "even-better",
+          "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mirror your live herdr terminal agent sessions (Claude Code / Codex) to Even Realities G2 glasses — even-terminal protocol compatible",
+            "homepage": null,
+            "id": 1290092447,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-15T12:18:17Z",
+            "open_issues": 2,
+            "owner": "pawaca",
+            "repo": "even-better",
+            "stars": 6,
+            "topics": [
+              "claude-code",
+              "even-realities",
+              "herdr",
+              "smart-glasses",
+              "sse",
+              "terminal"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "HeadLenss",
           "description": "Drive Claude Code on your PC by voice from the G2, plus tmux control from a phone browser.",
           "children": [],
@@ -5670,55 +5719,6 @@
         },
         {
           "node_type": "item",
-          "title": "hermes-even-hub-app",
-          "description": "G2 WebView client that drives locally running Hermes agents hands-free with voice and streaming responses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 glasses app (Even Hub WebView) — the client half of the G2 × Hermes bridge",
-            "homepage": null,
-            "id": 1254713946,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-31T06:52:43Z",
-            "open_issues": 4,
-            "owner": "huntsyea",
-            "repo": "hermes-even-hub-app",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-better",
-          "description": "Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mirror your live herdr terminal agent sessions (Claude Code / Codex) to Even Realities G2 glasses — even-terminal protocol compatible",
-            "homepage": null,
-            "id": 1290092447,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-15T12:18:17Z",
-            "open_issues": 2,
-            "owner": "pawaca",
-            "repo": "even-better",
-            "stars": 5,
-            "topics": [
-              "claude-code",
-              "even-realities",
-              "herdr",
-              "smart-glasses",
-              "sse",
-              "terminal"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "cos-glasses-server",
           "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
           "children": [],
@@ -5729,7 +5729,7 @@
             "id": 1262436708,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T10:19:46Z",
+            "last_commit": "2026-11-05T06:36:58Z",
             "open_issues": 2,
             "owner": "ukaoma",
             "repo": "cos-glasses-server",
@@ -5762,6 +5762,27 @@
               "g2",
               "smart-glasses"
             ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hermes-evenhub-bridge",
+          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
+            "homepage": null,
+            "id": 1254523907,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-26T14:07:31Z",
+            "open_issues": 18,
+            "owner": "huntsyea",
+            "repo": "hermes-evenhub-bridge",
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -5856,27 +5877,6 @@
               "voice-assistant",
               "wearable"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hermes-evenhub-bridge",
-          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
-            "homepage": null,
-            "id": 1254523907,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-26T14:07:31Z",
-            "open_issues": 18,
-            "owner": "huntsyea",
-            "repo": "hermes-evenhub-bridge",
-            "stars": 4,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6544,7 +6544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:57:36.617Z",
+    "last_updated": "2026-11-05T17:58:12.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6556,7 +6556,7 @@
       "open_issues": 4,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 158,
+      "stars": 160,
       "topics": [
         "ar-glasses",
         "awesome",
