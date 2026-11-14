@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T04:05:59Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-14T08:46:35Z",
+            "open_issues": 109,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2422,
+            "stars": 2421,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -248,7 +248,7 @@
             "open_issues": 19,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T04:16:40Z",
+            "last_commit": "2026-11-14T09:13:30Z",
             "open_issues": 6,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -612,7 +612,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T03:24:28Z",
+            "last_commit": "2026-11-14T08:09:37Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1246,7 +1246,7 @@
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1347,7 +1347,7 @@
             "id": 1338724476,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-13T17:19:28Z",
+            "last_commit": "2026-11-14T05:58:37Z",
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "damage-wm",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-13T10:31:43Z",
+            "last_commit": "2026-11-14T14:45:31Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3235,6 +3235,35 @@
         },
         {
           "node_type": "item",
+          "title": "TideView",
+          "description": "Marine conditions HUD showing speed, course, wind, sea state, and weather from phone GPS and public forecasts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Marine navigation HUD for Even Realities G2 smart glasses.",
+            "homepage": null,
+            "id": 1343732584,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T13:28:41Z",
+            "open_issues": 0,
+            "owner": "gabrielevierti",
+            "repo": "tideview",
+            "stars": 4,
+            "topics": [
+              "even-realities",
+              "even-realities-g2",
+              "hud",
+              "marine",
+              "marine-navigation",
+              "smart-glasses",
+              "ui"
+            ]
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "EvenGo-Paris",
           "description": "Paris public transport, all modes in one app.",
           "children": [],
@@ -3253,35 +3282,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TideView",
-          "description": "Marine conditions HUD showing speed, course, wind, sea state, and weather from phone GPS and public forecasts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Marine navigation HUD for Even Realities G2 smart glasses.",
-            "homepage": null,
-            "id": 1343732584,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-28T13:28:41Z",
-            "open_issues": 0,
-            "owner": "gabrielevierti",
-            "repo": "tideview",
-            "stars": 3,
-            "topics": [
-              "even-realities",
-              "even-realities-g2",
-              "hud",
-              "marine",
-              "marine-navigation",
-              "smart-glasses",
-              "ui"
-            ]
-          },
-          "first_seen": "2026-09-04T14:18:22.893Z"
         },
         {
           "node_type": "item",
@@ -5414,7 +5414,7 @@
             "open_issues": 1,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "ai-assistant",
               "anthropic",
@@ -5586,6 +5586,27 @@
         },
         {
           "node_type": "item",
+          "title": "hermes-evenhub-bridge",
+          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
+            "homepage": null,
+            "id": 1254523907,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T01:52:54Z",
+            "open_issues": 15,
+            "owner": "huntsyea",
+            "repo": "hermes-evenhub-bridge",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even-Voice-AI",
           "description": "Wake-word voice assistant using the browser's speech recognition, GPT-4o-mini, and streaming text-to-speech routed to the phone.",
           "children": [],
@@ -5638,8 +5659,8 @@
             "id": 1254713946,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T06:52:55Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T06:52:42Z",
+            "open_issues": 2,
             "owner": "huntsyea",
             "repo": "hermes-even-hub-app",
             "stars": 6,
@@ -5672,27 +5693,6 @@
               "sse",
               "terminal"
             ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hermes-evenhub-bridge",
-          "description": "Python adapter exposing the G2 as a Hermes agent platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 smart glasses as a Hermes platform adapter (published from even-g2-hermes monorepo)",
-            "homepage": null,
-            "id": 1254523907,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-09T15:15:27Z",
-            "open_issues": 14,
-            "owner": "huntsyea",
-            "repo": "hermes-evenhub-bridge",
-            "stars": 6,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6158,6 +6158,27 @@
         },
         {
           "node_type": "item",
+          "title": "AR Vision",
+          "description": "Android app that detects objects through the phone camera and shows labelled boxes and vision-LLM remarks on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plugin and an app for android to use the Even G2 glasses like a companion that sees what you see",
+            "homepage": null,
+            "id": 1269098716,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-06-14T13:48:24Z",
+            "open_issues": 0,
+            "owner": "lonelyobserver0",
+            "repo": "even-ar-vision",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-04T14:18:22.893Z"
+        },
+        {
+          "node_type": "item",
           "title": "AI Sales Assistant",
           "description": "Browses Salesforce accounts and surfaces live meeting cues on the lens from speech transcription and GPT.",
           "children": [],
@@ -6260,27 +6281,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AR Vision",
-          "description": "Android app that detects objects through the phone camera and shows labelled boxes and vision-LLM remarks on the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A plugin and an app for android to use the Even G2 glasses like a companion that sees what you see",
-            "homepage": null,
-            "id": 1269098716,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-06-14T13:48:24Z",
-            "open_issues": 0,
-            "owner": "lonelyobserver0",
-            "repo": "even-ar-vision",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-09-04T14:18:22.893Z"
         }
       ],
       "title": "AI and Agent Integrations"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:40:15.295Z",
+    "last_updated": "2026-11-14T16:34:16.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6535,7 +6535,7 @@
       "open_issues": 5,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 169,
+      "stars": 171,
       "topics": [
         "ar-glasses",
         "awesome",
