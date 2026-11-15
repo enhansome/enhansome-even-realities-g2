@@ -43,12 +43,12 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 
 ## SDK, Tooling, and Simulators
 
-* [MentraOS](https://github.com/Mentra-Community/MentraOS) ⭐ 2,421 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-14 - Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.
-* [faceclaw](https://github.com/jimrandomh/faceclaw) ⭐ 116 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-13 - Native desktop dashboard for driving the G2 display outside the WebView.
+* [MentraOS](https://github.com/Mentra-Community/MentraOS) ⭐ 2,421 | 🐛 110 | 🌐 TypeScript | 📅 2026-11-14 - Open-source smart-glasses OS and app SDK that drives the G2, among other glasses, over BLE.
+* [faceclaw](https://github.com/jimrandomh/faceclaw) ⭐ 116 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-15 - Native desktop dashboard for driving the G2 display outside the WebView.
 * [even-toolkit](https://github.com/fabioglimb/even-toolkit) ⭐ 100 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-06 - Shared SDK utilities: design system, web components, pixel-art icons, an STT module, and pixel-accurate G2 text measurement.
 * [even-dev](https://github.com/BxNxM/even-dev) ⭐ 88 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-23 - Even Hub simulator and multi-app test environment for building and testing G2 apps locally.
 * [xg-glass-sdk](https://github.com/hkust-spark/xg-glass-sdk) ⭐ 53 | 🐛 21 | 🌐 Kotlin | 📅 2026-11-09 - One API for camera, mic, display, and audio across the G2, Rokid, Meta Ray-Ban, Brilliant Labs Frame, RayNeo, and INMO, with a simulator.
-* [Glyph](https://github.com/gabrielevierti/glyph) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27 - Graphics and UI framework for G2 apps that renders a full framebuffer and sends only the changed tiles.
+* [Glyph](https://github.com/gabrielevierti/glyph) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27 - Graphics and UI framework for G2 apps that renders a full framebuffer and sends only the changed tiles.
 * [Mentra-Bluetooth-SDK-Starter-Kit](https://github.com/Mentra-Community/Mentra-Bluetooth-SDK-Starter-Kit) ⭐ 17 | 🐛 6 | 📅 2026-11-14 - Apache-2.0 native BLE SDK starter kit for connecting an Android, iOS, or React Native app to smart glasses, including the G2, powered by MentraOS.
 * [OpenEvenSdk](https://github.com/Thepizzapie/OpenEvenSdk) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-06-15 - Local-first G2 toolkit with Python, Swift, and Kotlin BLE bridges and protocol documentation.
 * [g2mirror](https://github.com/jimrandomh/g2mirror) ⭐ 9 | 🐛 2 | 🌐 Rust | 📅 2026-09-24 - Rust utility for mirroring a terminal session to the G2 display.
@@ -61,6 +61,7 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [ehup](https://github.com/takashicompany/even-hub-uploader) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-25 - Command-line tool that drives the Even Hub developer portal to upload builds, manage beta testers, and change release state.
 * [mentra-bluetooth-sdk-ios](https://github.com/Mentra-Community/mentra-bluetooth-sdk-ios) ⭐ 3 | 🐛 1 | 🌐 Swift | 📅 2026-11-14 - Swift Package Manager distribution of the Mentra Bluetooth SDK for iOS.
 * [g2-icon-studio](https://github.com/naotake/g2-icon-studio) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-06-08 - Browser tool for creating the 24x24 monochrome app icons Even Hub requires, with a 1-bit image converter and pixel editor.
+* [Hermes Glass](https://github.com/chanakyav/hermes-glass) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-02 - Vite and TypeScript starter for G2 apps with R1 ring input and a debug panel.
 * [evenhub-playground](https://github.com/shimopino/evenhub-playground) ⭐ 2 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-15 - Development playground for experimenting with Even Hub G2 apps.
 * [even-notifications](https://github.com/ryanadiaz/even-notifications) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-13 - Draws simulated notification popup overlays so you can design around them without a live phone notification.
 * [even-ui-builder](https://github.com/langerhans/even-ui-builder) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-02-15 - Simple UI builder and code generator for the Even Hub SDK.
@@ -69,7 +70,6 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [even-realities-app-template](https://github.com/r4stl1n/even-realities-app-template) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2026-07-24 - MIT-licensed native SwiftUI baseline app for the G2 and R1 ring, with direct BLE, LC3 audio, microphone capture, and on-device speech-to-text.
 * [even-realities-ui](https://github.com/jappyjan/even-realities) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-25 - Foundation UI package (components, icons, and design tokens) for building G2 apps aligned to Even Realities' design guidelines.
 * [even-voice-shim](https://github.com/tntpsu/even-voice-shim) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Push-to-talk speech-to-text shim with a Cloudflare Worker template, working around the missing on-device STT API.
-* [Hermes Glass](https://github.com/chanakyav/hermes-glass) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-02 - Vite and TypeScript starter for G2 apps with R1 ring input and a debug panel.
 * [Even Terminal Launcher](https://github.com/3mintimer/even-terminal-launcher) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05 - macOS and Windows tray app for managing Even Terminal connection profiles and supervising agent sessions.
 * [even-card-platform](https://github.com/tntpsu/even-card-platform) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-23 - Reusable framework for G2 card-game packs with card primitives, deck and hand rendering, a gesture model, and a shared style guide.
 * [even-demo](https://github.com/fabioglimb/even-demo) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-06 - Interactive showcase of the even-toolkit design system with 55+ components, 191 icons, and light and dark themes.
@@ -89,11 +89,11 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 
 ## Protocol and Reverse Engineering
 
-* [even-g2-protocol](https://github.com/i-soxi/even-g2-protocol) ⭐ 195 | 🐛 7 | 📅 2026-01-20 - Community effort to reverse-engineer the G2 BLE protocol, with characteristic mapping and Python examples.
-* [g2flash](https://github.com/jimrandomh/g2flash) ⭐ 51 | 🐛 6 | 🌐 C | 📅 2026-11-01 - Custom firmware for the G2 that adds compressed image transfer, full-screen 576x288 single-image support, per-lens stereo output, and beeper tones, paired with matching custom send-side software.
+* [even-g2-protocol](https://github.com/i-soxi/even-g2-protocol) ⭐ 196 | 🐛 7 | 📅 2026-01-20 - Community effort to reverse-engineer the G2 BLE protocol, with characteristic mapping and Python examples.
+* [g2flash](https://github.com/jimrandomh/g2flash) ⭐ 51 | 🐛 6 | 🌐 C | 📅 2026-11-15 - Custom firmware for the G2 that adds compressed image transfer, full-screen 576x288 single-image support, per-lens stereo output, and beeper tones, paired with matching custom send-side software.
 * [g2-kit-unofficial](https://github.com/Commute773/g2-kit-unofficial) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-17 - Unofficial reverse-engineering kit including R1 ring authentication and 27 decoded protobuf definitions.
-* [evenRealities-openCFW](https://github.com/kalanihelekunihi/evenRealities-openCFW) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2026-11-11 - Reverse-engineering documentation of the G2 firmware and BLE protocol, paired with a custom-firmware effort.
-* [Even Realities WebFlasher](https://github.com/AM-Guru/evenRealities-webflasher) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Browser tool that analyses, backs up, and recovers the G2 case and glasses, and flashes signed firmware to the R1 ring over Web Serial and WebUSB.
+* [evenRealities-openCFW](https://github.com/kalanihelekunihi/evenRealities-openCFW) ⭐ 32 | 🐛 0 | 🌐 C | 📅 2026-11-11 - Reverse-engineering documentation of the G2 firmware and BLE protocol, paired with a custom-firmware effort.
+* [Even Realities WebFlasher](https://github.com/AM-Guru/evenRealities-webflasher) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Browser tool that analyses, backs up, and recovers the G2 case and glasses, and flashes signed firmware to the R1 ring over Web Serial and WebUSB.
 * [even-g2-patched](https://github.com/cokeeffekt/even-g2-patched) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-03 - Patched Even app build that bypasses voice-intent interception so every G2 voice command routes to a custom AI agent.
 * [men-g2-ble-gateway](https://github.com/gpsnmeajp/men-g2-ble-gateway) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-13 - Python gateway exposing the G2 over HTTP, WebSocket, and MCP, with a local browser UI.
 * [Even-G2-RE](https://github.com/lonelyobserver0/Even-G2-RE) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2026-03-13 - Reverse-engineering effort covering the Even G2 app and its BLE system.
@@ -176,7 +176,7 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [TeleGlance](https://github.com/jalatif/even-g2-tele-glance) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-22 - Reads Telegram chats and sends short replies, with voice transcription that runs locally.
 * [Ethan HUD](https://github.com/EthanChouTW/ethan-hud) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 - Glance dashboard showing tasks, calendar, and exchange rates from an aggregator service, with notes on undocumented SDK behaviour.
 * [Meater Cooks](https://github.com/trentfoley/even-g2-meater) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-07 - Live MEATER probe temperatures and cook progress on the G2 through a Cloudflare Worker relay.
-* [CyberNews](https://github.com/zakpatrik/CyberNews-evenrealities-app) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Merges four cybersecurity news feeds into one scrollable headline list.
+* [CyberNews](https://github.com/zakpatrik/CyberNews-evenrealities-app) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - Merges four cybersecurity news feeds into one scrollable headline list.
 * [Footy Live](https://github.com/johannboehme/footy-live) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-06 - Live AFL scores, fixtures, and the ladder on the G2.
 * [Glim](https://github.com/Roger1of1/Glim) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-15 - iOS app and Node backend pairing several G2 surfaces: calorie and heart-rate tracking, a novel reader, and ring-driven Google Slides control.
 * [Salah Companion](https://github.com/rmazumder/even-g2-salah-companion) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-23 - Five daily prayer times and the Hijri date on the HUD, computed on device.
@@ -254,7 +254,7 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 ## Apps - Voice and Speech-to-Text
 
 * [stt-even-g2](https://github.com/nickustinov/stt-even-g2) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-20 - Real-time on-glasses speech-to-text via Soniox.
-* [Taraweeh Companion](https://github.com/wasimlhr/taraweeh-companion-g2) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - Recognises live Quran recitation and shows the matching Arabic text, transliteration, and translation.
+* [Taraweeh Companion](https://github.com/wasimlhr/taraweeh-companion-g2) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - Recognises live Quran recitation and shows the matching Arabic text, transliteration, and translation.
 * [soniox-translate](https://github.com/intelc/soniox-translate) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-14 - Real-time speech translation with live captions, powered by Soniox.
 * [even-bridge](https://github.com/invendor/even-bridge) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-05 - Transcribes G2 speech and sends it on to Telegram, Slack, or Gmail.
 * [ERGram](https://github.com/tiagodeoliveira/ERGram) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-10 - Server-free push-to-talk voice messaging to a Telegram group from the G2.
@@ -333,26 +333,26 @@ The [Even Realities G2](https://www.evenrealities.com) are everyday display smar
 * [even-g2-agentic-app](https://github.com/brianmatzelle/even-g2-agentic-app) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-05 - Agentic framework for the G2 with voice input, MCP tools, and interactive widgets on the display.
 * [hermes-even-hub-app](https://github.com/huntsyea/hermes-even-hub-app) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-14 - G2 WebView client that drives locally running Hermes agents hands-free with voice and streaming responses.
 * [even-better](https://github.com/pawaca/even-better) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-15 - Mirrors live Claude Code and Codex terminal sessions to the G2 over the Even Terminal protocol.
-* [HeadLenss](https://github.com/takashicompany/headlenss) ⭐ 6 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-24 - Drive Claude Code on your PC by voice from the G2, plus tmux control from a phone browser.
+* [HeadLenss](https://github.com/takashicompany/headlenss) ⭐ 6 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-15 - Drive Claude Code on your PC by voice from the G2, plus tmux control from a phone browser.
 * [cos-glasses-server](https://github.com/ukaoma/cos-glasses-server) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-12 - Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.
 * [g2-claude-remote](https://github.com/ThatCrispyToast/g2-claude-remote) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - Controls Claude remote-control sessions from the G2 with a HUD app, companion panel, and uvx-runnable bridge.
 * [even-terminal-pi](https://github.com/lallenlowe/even-terminal-pi) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-16 - Runs the pi coding agent on the G2 as an Even Terminal provider.
 * [Cue](https://github.com/tntpsu/Cue) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Real-time conversation coach suggesting responses live, powered by Deepgram speech-to-text and Claude.
 * [evenai-gemini-bridge](https://github.com/langerhans/evenai-gemini-bridge) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-04 - Rewrites the built-in Even-AI voice intents to Google Gemini, with request deduplication.
 * [even-g2-hermes](https://github.com/wingk1314/even-g2-hermes) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-09 - Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.
+* [Work Bench](https://github.com/aaronrau/workbench) ⭐ 4 | 🐛 0 | 🌐 Dart | 📅 2026-11-08 - Sends hands-free requests and approvals to Claude Code or Codex on a paired computer, using G2 audio and R1 ring gestures over native BLE.
 * [claude-hud](https://github.com/m4rpqfbbc2-debug/claude-hud) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-15 - Voice-driven Claude Code terminal HUD for the G2.
 * [even-jarvis](https://github.com/iDigz/even-jarvis) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-07 - OpenClaw-powered assistant with glasses-mic voice input, streamed responses, and image generation.
-* [Work Bench](https://github.com/aaronrau/workbench) ⭐ 3 | 🐛 0 | 🌐 Dart | 📅 2026-11-08 - Sends hands-free requests and approvals to Claude Code or Codex on a paired computer, using G2 audio and R1 ring gestures over native BLE.
 * [openclaw-g2-hud](https://github.com/kqb/openclaw-g2-hud) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-08 - Heads-up display for monitoring OpenClaw agents, with voice capture and tap and scroll navigation.
 * [EvenCode](https://github.com/TheOmran/EvenCode) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-27 - Voice-driven Claude Code conversations on the G2, including scrolling results and answering interactive prompts.
 * [evenai-anthropic-bridge](https://github.com/jase-perf/evenai-anthropic-bridge) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-08 - Replaces the built-in Even AI assistant with Claude via a small local server.
 * [Agent Home](https://github.com/jalatif/even-agent-home) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-02 - Bridge server connecting multi-provider coding agents, such as Claude and Codex, to the G2.
+* [AR Vision](https://github.com/lonelyobserver0/even-ar-vision) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-14 - Android app that detects objects through the phone camera and shows labelled boxes and vision-LLM remarks on the G2.
 * [EvenDash](https://github.com/beomjungil/EvenDash) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - Self-hosted agent dashboard showing a clock and live agent feed cards from your own Cloudflare Worker.
 * [xangi for G2](https://github.com/karaage0703/xangi-even-g2) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-25 - Connects the G2 to the xangi AI agent, with voice input transcribed by a local Whisper server.
 * [ExEye](https://github.com/sng516157-web/ExEye) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - Adds vision to the camera-less G2 by sending a frame from an ESP32 camera or webcam with a spoken prompt to a vision model.
 * [g2-channels](https://github.com/Alireza29675/g2-channels) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-31 - Two-way terminal for Claude Code sessions: talk to a session and read its replies on the glasses.
 * [GlassAI](https://github.com/BondIT-ApS/glass-ai) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-15 - Voice-first assistant for the G2 bridging to a Hermes agent over an OpenAI-compatible API, with a companion phone app.
-* [AR Vision](https://github.com/lonelyobserver0/even-ar-vision) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-14 - Android app that detects objects through the phone camera and shows labelled boxes and vision-LLM remarks on the G2.
 * [AI Sales Assistant](https://github.com/ObadaSayed/EvenRealities-AI-Sales-Assistant) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-22 - Browses Salesforce accounts and surfaces live meeting cues on the lens from speech transcription and GPT.
 * [Cue (ambient memory)](https://github.com/abhishekj720/Cue-evenRealitiesG2) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-04-20 - Ambient social-memory app for the G2 that captures voiceprints and speaker context locally with Resemblyzer and Whisper.
 * [G2 OpenClaw](https://github.com/kyle-deprow/g2_openclaw) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-20 - Bridges the G2 to a local OpenClaw agent via a PC gateway with Whisper STT and streaming responses.
@@ -385,4 +385,4 @@ Contributions are welcome. Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
