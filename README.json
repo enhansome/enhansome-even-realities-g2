@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:14:27Z",
+            "last_commit": "2026-11-17T18:26:59Z",
             "open_issues": 110,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2430,
+            "stars": 2434,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -248,7 +248,7 @@
             "open_issues": 18,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 117,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -350,7 +350,7 @@
             "id": 1344183482,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:15:24Z",
+            "last_commit": "2026-11-16T23:13:28Z",
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "glyph",
@@ -381,7 +381,7 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:39:34Z",
+            "last_commit": "2026-11-17T17:14:41Z",
             "open_issues": 6,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
@@ -434,6 +434,36 @@
         },
         {
           "node_type": "item",
+          "title": "evenhub-app-ui",
+          "description": "Even Hub design system packaged as a Claude Code skill, with color tokens, typography, layout rules, and 193 SVG icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 design-system skill for Claude Code - APP + OS guidelines with the official SVG set",
+            "homepage": null,
+            "id": 1288417001,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-03T00:53:54Z",
+            "open_issues": 0,
+            "owner": "JustinasLa",
+            "repo": "evenhub-app-ui",
+            "stars": 7,
+            "topics": [
+              "ai",
+              "claude",
+              "claude-code",
+              "even-realities",
+              "llm",
+              "prompt-engineering",
+              "skill",
+              "smart-glasses"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "even-realities-g2-glasses",
           "description": "Starter template for building G2 plugins with TypeScript and Vite.",
           "children": [],
@@ -450,36 +480,6 @@
             "repo": "even-realities-g2-glasses",
             "stars": 6,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "evenhub-app-ui",
-          "description": "Even Hub design system packaged as a Claude Code skill, with color tokens, typography, layout rules, and 193 SVG icons.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 design-system skill for Claude Code - APP + OS guidelines with the official SVG set",
-            "homepage": null,
-            "id": 1288417001,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-03T00:53:54Z",
-            "open_issues": 0,
-            "owner": "JustinasLa",
-            "repo": "evenhub-app-ui",
-            "stars": 5,
-            "topics": [
-              "ai",
-              "claude",
-              "claude-code",
-              "even-realities",
-              "llm",
-              "prompt-engineering",
-              "skill",
-              "smart-glasses"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -612,7 +612,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T18:17:44Z",
+            "last_commit": "2026-11-17T18:31:11Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1175,7 +1175,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 196,
+            "stars": 198,
             "topics": [
               "evenrealities",
               "g2a",
@@ -1204,7 +1204,7 @@
             "open_issues": 6,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -1347,7 +1347,7 @@
             "id": 1338724476,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-15T22:43:30Z",
+            "last_commit": "2026-11-17T17:37:20Z",
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "damage-wm",
@@ -1530,7 +1530,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-09T12:40:30Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "thibautrey",
             "repo": "even-messages",
             "stars": 15,
@@ -1554,7 +1554,7 @@
             "open_issues": 0,
             "owner": "hmmhmmhm",
             "repo": "sandevistan",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "augmented-reality",
               "canvas",
@@ -2348,6 +2348,27 @@
         },
         {
           "node_type": "item",
+          "title": "notion-ultimate-brain-even-g2",
+          "description": "Ultimate Brain Notion template surfaced as a G2 interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Thomas Frank's Ultimate Brain Notion template UI for Even Realities G2 glasses.",
+            "homepage": null,
+            "id": 1286413389,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-07T19:27:12Z",
+            "open_issues": 5,
+            "owner": "hofstede-matheus",
+            "repo": "notion-ultimate-brain-even-g2",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even-G2-Sentinel-Ops",
           "description": "Fully offline IT security toolkit for the G2 and R1 ring with eight operator tools.",
           "children": [],
@@ -2803,27 +2824,6 @@
         },
         {
           "node_type": "item",
-          "title": "notion-ultimate-brain-even-g2",
-          "description": "Ultimate Brain Notion template surfaced as a G2 interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Thomas Frank's Ultimate Brain Notion template UI for Even Realities G2 glasses.",
-            "homepage": null,
-            "id": 1286413389,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-07T19:27:12Z",
-            "open_issues": 4,
-            "owner": "hofstede-matheus",
-            "repo": "notion-ultimate-brain-even-g2",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "EvenG2_GoogleKeep",
           "description": "Projects Google Keep notes and checklists onto the G2 via a Flask and gkeepapi backend.",
           "children": [],
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-16T13:21:05Z",
+            "last_commit": "2026-11-17T16:40:42Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -4081,7 +4081,7 @@
             "open_issues": 2,
             "owner": "fabioglimb",
             "repo": "even-market",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -4677,6 +4677,35 @@
         },
         {
           "node_type": "item",
+          "title": "House Games",
+          "description": "Four casino games for the G2: Blackjack, Video Poker, Three Card Poker, and Roulette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Four casino games for Even Realities G2 smart glasses. Blackjack, Video Poker, Three Card Poker, Roulette. Powered by even-card-platform.",
+            "homepage": null,
+            "id": 1238066188,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-04T04:23:02Z",
+            "open_issues": 0,
+            "owner": "tntpsu",
+            "repo": "HouseGames",
+            "stars": 1,
+            "topics": [
+              "blackjack",
+              "casino",
+              "even-realities",
+              "evenhub",
+              "g2-glasses",
+              "roulette",
+              "video-poker"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "Even G2 Math Reader",
           "description": "Renders dense maths formulas as bitmaps and autoscrolls through a personal document library.",
           "children": [],
@@ -4784,35 +4813,6 @@
             "repo": "dungeon",
             "stars": 0,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "House Games",
-          "description": "Four casino games for the G2: Blackjack, Video Poker, Three Card Poker, and Roulette.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Four casino games for Even Realities G2 smart glasses. Blackjack, Video Poker, Three Card Poker, Roulette. Powered by even-card-platform.",
-            "homepage": null,
-            "id": 1238066188,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-04T04:23:02Z",
-            "open_issues": 0,
-            "owner": "tntpsu",
-            "repo": "HouseGames",
-            "stars": 0,
-            "topics": [
-              "blackjack",
-              "casino",
-              "even-realities",
-              "evenhub",
-              "g2-glasses",
-              "roulette",
-              "video-poker"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -5410,8 +5410,8 @@
             "id": 1204374230,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-04-11T00:31:17Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T04:03:36Z",
+            "open_issues": 0,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
             "stars": 40,
@@ -5719,6 +5719,36 @@
         },
         {
           "node_type": "item",
+          "title": "even-g2-hermes",
+          "description": "Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even Realities G2 smart glasses integration for Hermes Agent — AI Proxy, Terminal Mode, and Even Hub Plugin (native glasses app)",
+            "homepage": null,
+            "id": 1291916197,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-07-09T01:20:06Z",
+            "open_issues": 0,
+            "owner": "wingk1314",
+            "repo": "even-g2-hermes",
+            "stars": 5,
+            "topics": [
+              "ai-assistant",
+              "even-realities",
+              "g2",
+              "hermes-agent",
+              "hud",
+              "smart-glasses",
+              "voice-assistant",
+              "wearable"
+            ]
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "cos-glasses-server",
           "description": "Self-hosted heads-up-display server that drives the G2 from a local Claude Code CLI.",
           "children": [],
@@ -5847,36 +5877,6 @@
             "repo": "evenai-gemini-bridge",
             "stars": 4,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-g2-hermes",
-          "description": "Connects the G2 to Hermes agents through AI-proxy, Terminal Mode, and Even Hub plugin integrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even Realities G2 smart glasses integration for Hermes Agent — AI Proxy, Terminal Mode, and Even Hub Plugin (native glasses app)",
-            "homepage": null,
-            "id": 1291916197,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-07-09T01:20:06Z",
-            "open_issues": 0,
-            "owner": "wingk1314",
-            "repo": "even-g2-hermes",
-            "stars": 4,
-            "topics": [
-              "ai-assistant",
-              "even-realities",
-              "g2",
-              "hermes-agent",
-              "hud",
-              "smart-glasses",
-              "voice-assistant",
-              "wearable"
-            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:21:53.983Z",
+    "last_updated": "2026-11-17T19:08:18.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6535,7 +6535,7 @@
       "open_issues": 5,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 173,
+      "stars": 175,
       "topics": [
         "ar-glasses",
         "awesome",
