@@ -208,11 +208,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T18:26:59Z",
+            "last_commit": "2026-11-18T17:57:24Z",
             "open_issues": 110,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2434,
+            "stars": 2437,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -244,11 +244,11 @@
             "id": 1222470891,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T10:53:56Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-18T01:39:27Z",
+            "open_issues": 20,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -350,7 +350,7 @@
             "id": 1344183482,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T23:13:28Z",
+            "last_commit": "2026-11-18T15:52:05Z",
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "glyph",
@@ -558,7 +558,7 @@
             "id": 1311025515,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T15:54:44Z",
+            "last_commit": "2026-11-18T15:36:43Z",
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "er-studio",
@@ -612,7 +612,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T18:31:11Z",
+            "last_commit": "2026-11-18T18:05:57Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1347,7 +1347,7 @@
             "id": 1338724476,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-17T17:37:20Z",
+            "last_commit": "2026-11-18T17:59:51Z",
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "damage-wm",
@@ -1410,7 +1410,7 @@
             "id": 1340514338,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T04:30:52Z",
+            "last_commit": "2026-11-18T17:38:35Z",
             "open_issues": 0,
             "owner": "rayriffy",
             "repo": "even-g2-thai",
@@ -1672,7 +1672,7 @@
             "open_issues": 1,
             "owner": "liyiyuian",
             "repo": "g2sidian",
-            "stars": 6,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -2939,7 +2939,7 @@
             "id": 1230580872,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-22T14:08:56Z",
+            "last_commit": "2026-11-18T12:54:24Z",
             "open_issues": 0,
             "owner": "r-tkbyc",
             "repo": "even-my-news-hub",
@@ -3044,7 +3044,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-17T16:40:42Z",
+            "last_commit": "2026-11-18T15:21:59Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -3245,7 +3245,7 @@
             "id": 1343732584,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T13:28:41Z",
+            "last_commit": "2026-11-18T15:43:05Z",
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "tideview",
@@ -4109,6 +4109,27 @@
         },
         {
           "node_type": "item",
+          "title": "even-g2-crypto-ticker",
+          "description": "Live cryptocurrency price ticker for the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Live cryptocurrency price ticker app for Even Realities G2 smart glasses (Even Hub web app)",
+            "homepage": null,
+            "id": 1223784634,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-04-30T14:08:19Z",
+            "open_issues": 0,
+            "owner": "ARNLTony",
+            "repo": "even-g2-crypto-ticker",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
           "title": "evenhub-news-ticker",
           "description": "Live financial news ticker for the G2.",
           "children": [],
@@ -4148,27 +4169,6 @@
             "topics": []
           },
           "first_seen": "2026-09-04T14:18:22.893Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-g2-crypto-ticker",
-          "description": "Live cryptocurrency price ticker for the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Live cryptocurrency price ticker app for Even Realities G2 smart glasses (Even Hub web app)",
-            "homepage": null,
-            "id": 1223784634,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-04-30T14:08:19Z",
-            "open_issues": 0,
-            "owner": "ARNLTony",
-            "repo": "even-g2-crypto-ticker",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
         },
         {
           "node_type": "item",
@@ -4429,7 +4429,7 @@
             "open_issues": 0,
             "owner": "dmyster145",
             "repo": "EvenChess",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -5414,7 +5414,7 @@
             "open_issues": 0,
             "owner": "sam-siavoshian",
             "repo": "claude-code-g2",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "ai-assistant",
               "anthropic",
@@ -6389,9 +6389,9 @@
             "description": "An open source SDK and emulator for Even Realities G1 smart glasses, written in Python.",
             "homepage": null,
             "id": 1335886946,
-            "language": "Python",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-16T12:07:22Z",
+            "last_commit": "2026-11-18T15:42:07Z",
             "open_issues": 0,
             "owner": "gabrielevierti",
             "repo": "openg1-sdk",
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:08:18.228Z",
+    "last_updated": "2026-11-18T18:48:35.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -6535,7 +6535,7 @@
       "open_issues": 5,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 175,
+      "stars": 178,
       "topics": [
         "ar-glasses",
         "awesome",
