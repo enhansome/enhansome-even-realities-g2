@@ -37,10 +37,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-21T14:42:44Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "even-realities",
             "repo": "everything-evenhub",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -58,7 +58,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-07T08:03:04Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "even-realities",
             "repo": "evenhub-templates",
             "stars": 57,
@@ -385,11 +385,11 @@
             "id": 677829141,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T19:18:21Z",
-            "open_issues": 110,
+            "last_commit": "2026-11-26T18:58:04Z",
+            "open_issues": 111,
             "owner": "Mentra-Community",
             "repo": "MentraOS",
-            "stars": 2460,
+            "stars": 2464,
             "topics": [
               "activelook",
               "conversational-ai",
@@ -425,7 +425,7 @@
             "open_issues": 20,
             "owner": "jimrandomh",
             "repo": "faceclaw",
-            "stars": 127,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -493,7 +493,7 @@
             "open_issues": 21,
             "owner": "hkust-spark",
             "repo": "xg-glass-sdk",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "ai-glasses",
               "android",
@@ -558,11 +558,11 @@
             "id": 1219525508,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T19:39:54Z",
+            "last_commit": "2026-11-26T06:45:58Z",
             "open_issues": 6,
             "owner": "Mentra-Community",
             "repo": "Mentra-Bluetooth-SDK-Starter-Kit",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-09-13T14:18:45.432Z"
@@ -780,7 +780,7 @@
             "id": 1252976697,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T18:55:48Z",
+            "last_commit": "2026-11-26T18:57:40Z",
             "open_issues": 1,
             "owner": "Mentra-Community",
             "repo": "mentra-bluetooth-sdk-ios",
@@ -1698,8 +1698,8 @@
             "id": 1465869611,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:45:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-26T19:31:50Z",
+            "open_issues": 6,
             "owner": "jarekbird",
             "repo": "earshot",
             "stars": 0,
@@ -1924,7 +1924,7 @@
             "open_issues": 7,
             "owner": "i-soxi",
             "repo": "even-g2-protocol",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "evenrealities",
               "g2a",
@@ -2339,10 +2339,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-11-23T07:43:51Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "jimrandomh",
             "repo": "g2flash",
-            "stars": 55,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -2363,7 +2363,7 @@
             "open_issues": 0,
             "owner": "kalanihelekunihi",
             "repo": "evenRealities-openCFW",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -2384,7 +2384,7 @@
             "open_issues": 0,
             "owner": "hmmhmmhm",
             "repo": "blackwall",
-            "stars": 24,
+            "stars": 26,
             "topics": [
               "arm-cortex-m",
               "docker",
@@ -2530,7 +2530,7 @@
             "id": 1338724476,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-25T15:43:08Z",
+            "last_commit": "2026-11-26T03:49:06Z",
             "open_issues": 0,
             "owner": "expectbugs",
             "repo": "damage-wm",
@@ -2549,9 +2549,9 @@
             "description": "Hello. This is my repo for HardwareOne - A software experience made for ESP32 series chips and various kinds of sensors.",
             "homepage": null,
             "id": 1068723218,
-            "language": "C",
+            "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T05:11:02Z",
+            "last_commit": "2026-11-26T10:51:36Z",
             "open_issues": 2,
             "owner": "CadenGithubB",
             "repo": "HardwareOne",
@@ -6145,7 +6145,7 @@
             "id": 1326568745,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-25T19:45:24Z",
+            "last_commit": "2026-11-26T11:54:31Z",
             "open_issues": 0,
             "owner": "zakpatrik",
             "repo": "CyberNews-evenrealities-app",
@@ -6208,7 +6208,7 @@
             "id": 1466369540,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T04:38:51Z",
+            "last_commit": "2026-11-26T11:52:14Z",
             "open_issues": 0,
             "owner": "Klowor2002",
             "repo": "tg-glance",
@@ -6271,7 +6271,7 @@
             "id": 1436464333,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-22T13:03:20Z",
+            "last_commit": "2026-11-26T14:20:08Z",
             "open_issues": 0,
             "owner": "ansarireza",
             "repo": "Field-Mastery",
@@ -7950,6 +7950,27 @@
         },
         {
           "node_type": "item",
+          "title": "even-g2-meal-log",
+          "description": "Shows remaining calories and macros for the day on the G2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Even G2 に、今日の食事の残りカロリーとPFCを表示するアプリ",
+            "homepage": null,
+            "id": 1465376827,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-11-26T01:56:20Z",
+            "open_issues": 0,
+            "owner": "sora-uzu",
+            "repo": "even-g2-meal-log",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-23T22:00:16.536Z"
+        },
+        {
+          "node_type": "item",
           "title": "hevy-g2",
           "description": "Drives Hevy gym workouts from the glasses: pick a routine on your phone and see sets and reps on the display.",
           "children": [],
@@ -8120,27 +8141,6 @@
               "vision-training",
               "vite"
             ]
-          },
-          "first_seen": "2026-11-23T22:00:16.536Z"
-        },
-        {
-          "node_type": "item",
-          "title": "even-g2-meal-log",
-          "description": "Shows remaining calories and macros for the day on the G2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Even G2 に、今日の食事の残りカロリーとPFCを表示するアプリ（作りかけ）",
-            "homepage": null,
-            "id": 1465376827,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-11-20T12:19:11Z",
-            "open_issues": 0,
-            "owner": "sora-uzu",
-            "repo": "even-g2-meal-log",
-            "stars": 0,
-            "topics": []
           },
           "first_seen": "2026-11-23T22:00:16.536Z"
         },
@@ -11780,11 +11780,11 @@
             "id": 1168072728,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T19:48:24Z",
-            "open_issues": 307,
+            "last_commit": "2026-11-26T19:32:03Z",
+            "open_issues": 334,
             "owner": "greenfield-inc",
             "repo": "Pane",
-            "stars": 681,
+            "stars": 684,
             "topics": [
               "agent-manager",
               "agentic-ai",
@@ -11822,7 +11822,7 @@
             "id": 1391060376,
             "language": "Zig",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T05:28:20Z",
+            "last_commit": "2026-11-25T22:30:42Z",
             "open_issues": 0,
             "owner": "steventsvik",
             "repo": "Tellurion",
@@ -12012,7 +12012,7 @@
             "open_issues": 0,
             "owner": "Nsttt",
             "repo": "t3-even",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-11-23T22:00:16.536Z"
@@ -12033,7 +12033,7 @@
             "open_issues": 2,
             "owner": "jimrandomh",
             "repo": "g2mirror",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
@@ -12244,8 +12244,8 @@
             "id": 1314940991,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T18:15:35Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-26T12:09:55Z",
+            "open_issues": 1,
             "owner": "hrdle",
             "repo": "hrdle",
             "stars": 5,
@@ -12352,7 +12352,7 @@
             "id": 1312282686,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-08T18:41:34Z",
+            "last_commit": "2026-11-25T20:38:07Z",
             "open_issues": 0,
             "owner": "aaronrau",
             "repo": "workbench",
@@ -12443,6 +12443,33 @@
               "even-realities",
               "smart-glasses",
               "tmux"
+            ]
+          },
+          "first_seen": "2026-11-23T22:00:16.536Z"
+        },
+        {
+          "node_type": "item",
+          "title": "T3 Code G2",
+          "description": "Shows pinned T3 Code threads on the glasses with streaming replies and voice messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "T3 Code G2: your pinned T3 Code threads on Even Realities G2 glasses. Live activity, streaming replies, push-to-talk voice messages.",
+            "homepage": "https://github.com/pingdotgg/t3code",
+            "id": 1434786230,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-28T11:44:23Z",
+            "open_issues": 3,
+            "owner": "xrehpicx",
+            "repo": "t3-g2",
+            "stars": 4,
+            "topics": [
+              "even-hub",
+              "even-realities",
+              "g2",
+              "smart-glasses",
+              "t3code"
             ]
           },
           "first_seen": "2026-11-23T22:00:16.536Z"
@@ -12556,33 +12583,6 @@
               "smart-glasses",
               "tailscale",
               "tmux"
-            ]
-          },
-          "first_seen": "2026-11-23T22:00:16.536Z"
-        },
-        {
-          "node_type": "item",
-          "title": "T3 Code G2",
-          "description": "Shows pinned T3 Code threads on the glasses with streaming replies and voice messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "T3 Code G2: your pinned T3 Code threads on Even Realities G2 glasses. Live activity, streaming replies, push-to-talk voice messages.",
-            "homepage": "https://github.com/pingdotgg/t3code",
-            "id": 1434786230,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-28T11:44:23Z",
-            "open_issues": 2,
-            "owner": "xrehpicx",
-            "repo": "t3-g2",
-            "stars": 2,
-            "topics": [
-              "even-hub",
-              "even-realities",
-              "g2",
-              "smart-glasses",
-              "t3code"
             ]
           },
           "first_seen": "2026-11-23T22:00:16.536Z"
@@ -13123,8 +13123,8 @@
             "id": 1232455937,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T19:36:39Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-26T17:30:02Z",
+            "open_issues": 9,
             "owner": "Spshulem",
             "repo": "openAGI",
             "stars": 19,
@@ -13239,6 +13239,32 @@
         },
         {
           "node_type": "item",
+          "title": "OcuClaw for Hermes Agent",
+          "description": "Puts a Hermes agent on the G2 through an Even Hub app and a Hermes plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OcuClaw for Hermes Agent — Even G2 + Even Hub bridge. HERMES-ONLY: OpenClaw users install with 'openclaw plugins install clawhub:ocuclaw', not from this repo.",
+            "homepage": null,
+            "id": 1319212795,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-11-19T06:46:30Z",
+            "open_issues": 1,
+            "owner": "ocuclaw",
+            "repo": "ocuclaw",
+            "stars": 9,
+            "topics": [
+              "even-g2",
+              "even-hub",
+              "hermes-agent",
+              "ocuclaw"
+            ]
+          },
+          "first_seen": "2026-11-23T22:00:16.536Z"
+        },
+        {
+          "node_type": "item",
           "title": "Unofficial Even G2 Local Assistant",
           "description": "Local-first voice assistant for the G2 with Whisper STT and dual-model routing between local Qwen and a cloud fallback.",
           "children": [],
@@ -13281,32 +13307,6 @@
         },
         {
           "node_type": "item",
-          "title": "OcuClaw for Hermes Agent",
-          "description": "Puts a Hermes agent on the G2 through an Even Hub app and a Hermes plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OcuClaw for Hermes Agent — Even G2 + Even Hub bridge. HERMES-ONLY: OpenClaw users install with 'openclaw plugins install clawhub:ocuclaw', not from this repo.",
-            "homepage": null,
-            "id": 1319212795,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-11-19T06:46:30Z",
-            "open_issues": 1,
-            "owner": "ocuclaw",
-            "repo": "ocuclaw",
-            "stars": 8,
-            "topics": [
-              "even-g2",
-              "even-hub",
-              "hermes-agent",
-              "ocuclaw"
-            ]
-          },
-          "first_seen": "2026-11-23T22:00:16.536Z"
-        },
-        {
-          "node_type": "item",
           "title": "even-g2-agentic-app",
           "description": "Agentic framework for the G2 with voice input, MCP tools, and interactive widgets on the display.",
           "children": [],
@@ -13323,6 +13323,33 @@
             "repo": "even-g2-agentic-app",
             "stars": 7,
             "topics": []
+          },
+          "first_seen": "2026-08-28T21:10:09.932Z"
+        },
+        {
+          "node_type": "item",
+          "title": "g2-claude-remote",
+          "description": "Controls Claude remote-control sessions from the G2 with a HUD app, companion panel, and uvx-runnable bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Control Claude Remote Control Sessions from the Even Realities G2 glasses: HUD app, companion panel, and uvx-runnable bridge server",
+            "homepage": null,
+            "id": 1303493682,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-25T01:39:15Z",
+            "open_issues": 1,
+            "owner": "ThatCrispyToast",
+            "repo": "g2-claude-remote",
+            "stars": 7,
+            "topics": [
+              "claude",
+              "claude-code",
+              "even-realities",
+              "g2",
+              "smart-glasses"
+            ]
           },
           "first_seen": "2026-08-28T21:10:09.932Z"
         },
@@ -13412,33 +13439,6 @@
         },
         {
           "node_type": "item",
-          "title": "g2-claude-remote",
-          "description": "Controls Claude remote-control sessions from the G2 with a HUD app, companion panel, and uvx-runnable bridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Control Claude Remote Control Sessions from the Even Realities G2 glasses: HUD app, companion panel, and uvx-runnable bridge server",
-            "homepage": null,
-            "id": 1303493682,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-25T01:39:15Z",
-            "open_issues": 1,
-            "owner": "ThatCrispyToast",
-            "repo": "g2-claude-remote",
-            "stars": 6,
-            "topics": [
-              "claude",
-              "claude-code",
-              "even-realities",
-              "g2",
-              "smart-glasses"
-            ]
-          },
-          "first_seen": "2026-08-28T21:10:09.932Z"
-        },
-        {
-          "node_type": "item",
           "title": "Dot Link",
           "description": "Connects a ChatGPT Dot to the glasses with location, route, and weather context.",
           "children": [],
@@ -13449,8 +13449,8 @@
             "id": 1411825690,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T19:12:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-26T19:13:12Z",
+            "open_issues": 8,
             "owner": "YusukeIt0",
             "repo": "dot-link",
             "stars": 5,
@@ -14073,7 +14073,7 @@
             "id": 1343268938,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T18:10:16Z",
+            "last_commit": "2026-11-26T15:29:08Z",
             "open_issues": 0,
             "owner": "LopeWale",
             "repo": "joatGlass",
@@ -14574,7 +14574,7 @@
             "id": 1376634433,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-25T19:51:49Z",
+            "last_commit": "2026-11-26T19:34:24Z",
             "open_issues": 0,
             "owner": "okou-ai",
             "repo": "okou-g2",
@@ -15393,8 +15393,8 @@
             "id": 1376708793,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T19:16:53Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-26T19:27:36Z",
+            "open_issues": 31,
             "owner": "nodesbio",
             "repo": "cue",
             "stars": 0,
@@ -15611,7 +15611,7 @@
             "id": 1114907792,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T20:08:49Z",
+            "last_commit": "2026-11-25T22:56:33Z",
             "open_issues": 1,
             "owner": "Caerii",
             "repo": "codrawer-bridge",
@@ -15948,27 +15948,6 @@
         },
         {
           "node_type": "item",
-          "title": "g2-apps",
-          "description": "Holds a monorepo of Even Hub apps in Korean.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1445081176,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-11-25T10:08:57Z",
-            "open_issues": 0,
-            "owner": "studiotemple",
-            "repo": "G2-Apps",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-11-23T22:00:16.536Z"
-        },
-        {
-          "node_type": "item",
           "title": "developersight",
           "description": "Collects a dated dataset of AI-glasses apps and developer tools, with a static site.",
           "children": [],
@@ -15993,7 +15972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:53:06.430Z",
+    "last_updated": "2026-11-26T19:34:08.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources for building on the Even Realities G2 smart glasses.",
@@ -16005,7 +15984,7 @@
       "open_issues": 7,
       "owner": "pangoleen",
       "repo": "awesome-even-realities-g2",
-      "stars": 187,
+      "stars": 188,
       "topics": [
         "ar-glasses",
         "awesome",
